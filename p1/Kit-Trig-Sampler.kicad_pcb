@@ -154,7 +154,7 @@
   (net 77 "unconnected-(REV_BUT1-Pad1)")
   (net 78 "Net-(J7-Pad1)")
   (net 79 "unconnected-(J7-Pad3)")
-  (net 80 "Net-(R10-Pad2)")
+  (net 80 "Net-(C6-Pad2)")
   (net 81 "unconnected-(J12-Pad4)")
   (net 82 "unconnected-(J12-Pad5)")
   (net 83 "unconnected-(J12-Pad6)")
@@ -365,7 +365,7 @@
     (fp_line (start 3.302 1.56) (end 3.302 -1.56) (layer "F.CrtYd") (width 0.05) (tstamp a2528094-b225-46da-978f-11da27c1827f))
     (fp_line (start 3.302 -1.56) (end -3.1496 -1.56) (layer "F.CrtYd") (width 0.05) (tstamp fff502b0-ee00-46b9-8139-ab982cd14e61))
     (pad "1" thru_hole circle (at -1.3208 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
-      (net 22 "/A9") (pintype "passive") (tstamp d4ec8ce5-5164-443f-b1b3-7c6844742d9f))
+      (net 17 "/A6") (pintype "passive") (tstamp d4ec8ce5-5164-443f-b1b3-7c6844742d9f))
     (pad "2" thru_hole circle (at 1.27 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 2 "GND") (pintype "passive") (tstamp 0d87cd71-1961-4b3b-86f6-43cbc6cd52de))
     (model "${KICAD6_3DMODEL_DIR}/Capacitors_THT.3dshapes/C_Disc_D7.0mm_W2.5mm_P5.00mm.wrl"
@@ -596,7 +596,7 @@
     (fp_line (start 3.302 1.56) (end 3.302 -1.56) (layer "F.CrtYd") (width 0.05) (tstamp b1cfc2a3-a6c5-4c00-a1a3-273198e0844b))
     (fp_line (start 3.302 -1.56) (end -3.1496 -1.56) (layer "F.CrtYd") (width 0.05) (tstamp d1299295-b601-4936-9c37-665d7e95de48))
     (pad "1" thru_hole circle (at -1.3208 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
-      (net 9 "/A4") (pintype "passive") (tstamp 9b60d800-9143-49ed-a66f-161b3ef0cc9b))
+      (net 59 "/A1") (pintype "passive") (tstamp 9b60d800-9143-49ed-a66f-161b3ef0cc9b))
     (pad "2" thru_hole circle (at 1.27 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 10 "GNDADC") (pintype "passive") (tstamp 723eaa11-030f-41e3-956f-1fa138bf3010))
     (model "${KICAD6_3DMODEL_DIR}/Capacitors_THT.3dshapes/C_Disc_D7.0mm_W2.5mm_P5.00mm.wrl"
@@ -1265,7 +1265,7 @@
     (pad "5" thru_hole oval locked (at 7.62 7.62) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 12 "Net-(C3-Pad2)") (pinfunction "+") (pintype "input") (tstamp f3b2f9ad-44dd-45a8-a3a8-e2fc6fa0b88f))
     (pad "6" thru_hole oval locked (at 7.62 5.08) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
-      (net 80 "Net-(R10-Pad2)") (pinfunction "-") (pintype "input") (tstamp b847b7b3-9895-477c-ad89-8a4f675d047f))
+      (net 80 "Net-(C6-Pad2)") (pinfunction "-") (pintype "input") (tstamp b847b7b3-9895-477c-ad89-8a4f675d047f))
     (pad "7" thru_hole oval locked (at 7.62 2.54) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 15 "/A2") (pintype "output") (tstamp 70b33b6f-8ad9-4913-a5bc-564cd6d765d6))
     (pad "8" thru_hole oval locked (at 7.62 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
@@ -1314,7 +1314,7 @@
     (pad "1" thru_hole circle (at -3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
       (net 6 "+3V3") (pintype "passive") (tstamp 054a7399-48e8-47b5-ae7a-4bb61eefc19b))
     (pad "2" thru_hole circle (at 3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
-      (net 52 "/D19") (pintype "passive") (tstamp 97683bf9-f70a-4809-865e-3ca584edf380))
+      (net 53 "/D18") (pintype "passive") (tstamp 97683bf9-f70a-4809-865e-3ca584edf380))
     (model "Discret.3dshapes/R3.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 0.3 0.3 0.3))
@@ -1357,7 +1357,7 @@
     (fp_line (start 4.76 1.25) (end -4.76 1.25) (layer "F.CrtYd") (width 0.05) (tstamp a5ca4ed1-3c9f-4f18-ab18-80de888fd0d6))
     (fp_line (start -4.76 1.25) (end -4.76 -1.25) (layer "F.CrtYd") (width 0.05) (tstamp f9f455bb-7710-4fdb-9fd6-3c19eb0c1afb))
     (pad "1" thru_hole circle (at -3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
-      (net 45 "/D12") (pintype "passive") (tstamp ad224a04-0d21-4f85-abb8-c7febab6fb6c))
+      (net 54 "/D7") (pintype "passive") (tstamp ad224a04-0d21-4f85-abb8-c7febab6fb6c))
     (pad "2" thru_hole circle (at 3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
       (net 72 "Net-(R21-Pad2)") (pintype "passive") (tstamp 23b99e48-3b37-4061-94e4-90a1b8010143))
     (model "Discret.3dshapes/R3.wrl"
@@ -1507,7 +1507,7 @@
     (pad "1" thru_hole circle (at -3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
       (net 27 "Net-(J3-Pad1)") (pintype "passive") (tstamp a38048f9-5339-4cb8-bdb9-e4b81a10ba00))
     (pad "2" thru_hole circle (at 3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
-      (net 60 "/A3") (pintype "passive") (tstamp be4b0c5c-98f4-40c4-8e60-56628476b0b1))
+      (net 61 "/A8") (pintype "passive") (tstamp be4b0c5c-98f4-40c4-8e60-56628476b0b1))
     (model "Discret.3dshapes/R3.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 0.3 0.3 0.3))
@@ -1552,7 +1552,7 @@
     (pad "1" thru_hole circle (at -3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
       (net 6 "+3V3") (pintype "passive") (tstamp a1ef5055-cea3-4a1b-81a7-010155082931))
     (pad "2" thru_hole circle (at 3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
-      (net 53 "/D18") (pintype "passive") (tstamp 50c3e991-c2ab-4468-9831-5fcf83c8df27))
+      (net 52 "/D19") (pintype "passive") (tstamp 50c3e991-c2ab-4468-9831-5fcf83c8df27))
     (model "Discret.3dshapes/R3.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 0.3 0.3 0.3))
@@ -1640,7 +1640,7 @@
     (fp_line (start 4.76 -1.25) (end 4.76 1.25) (layer "F.CrtYd") (width 0.05) (tstamp 816ee354-5cfb-423b-90e9-1a16fe831626))
     (fp_line (start -4.76 -1.25) (end 4.76 -1.25) (layer "F.CrtYd") (width 0.05) (tstamp bfa7f32e-5392-42cc-9ff2-283a64b58d60))
     (pad "1" thru_hole circle (at -3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
-      (net 50 "/D2") (pintype "passive") (tstamp 2f3dfee6-3ae4-4d0a-a771-69227addd943))
+      (net 30 "/D15") (pintype "passive") (tstamp 2f3dfee6-3ae4-4d0a-a771-69227addd943))
     (pad "2" thru_hole circle (at 3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
       (net 70 "Net-(R12-Pad2)") (pintype "passive") (tstamp 13c107ee-59c3-42c4-a123-e6806da801db))
     (model "Discret.3dshapes/R3.wrl"
@@ -1729,7 +1729,7 @@
     (pad "1" thru_hole circle (at -3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
       (net 74 "Net-(R27-Pad1)") (pintype "passive") (tstamp 8fea4dc1-eab0-4d74-bb7b-9eb3e4bffc84))
     (pad "2" thru_hole circle (at 3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
-      (net 22 "/A9") (pintype "passive") (tstamp c694b9bb-4e6c-4c2c-8c69-ceccb040226c))
+      (net 17 "/A6") (pintype "passive") (tstamp c694b9bb-4e6c-4c2c-8c69-ceccb040226c))
     (model "Discret.3dshapes/R3.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 0.3 0.3 0.3))
@@ -1775,7 +1775,7 @@
     (pad "1" thru_hole circle (at -2.5146 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 15 "/A2") (pintype "passive") (tstamp c83dbeea-4a26-4218-8edf-a1d04b8a3a4b))
     (pad "2" thru_hole circle (at 2.5654 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
-      (net 80 "Net-(R10-Pad2)") (pintype "passive") (tstamp aa6afb63-6998-4ee1-b533-57e040d7d35f))
+      (net 80 "Net-(C6-Pad2)") (pintype "passive") (tstamp aa6afb63-6998-4ee1-b533-57e040d7d35f))
     (model "${KICAD6_3DMODEL_DIR}/Capacitors_THT.3dshapes/C_Disc_D7.0mm_W2.5mm_P5.00mm.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 0.393701 0.393701 0.393701))
@@ -1820,7 +1820,7 @@
     (pad "1" thru_hole circle (at -3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
       (net 2 "GND") (pintype "passive") (tstamp 0aea123b-31a1-4909-b599-45fe4c936523))
     (pad "2" thru_hole circle (at 3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
-      (net 59 "/A1") (pintype "passive") (tstamp d0a3b80e-8665-44c6-822d-1a255b94afe7))
+      (net 11 "/A5") (pintype "passive") (tstamp d0a3b80e-8665-44c6-822d-1a255b94afe7))
     (model "Discret.3dshapes/R3.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 0.3 0.3 0.3))
@@ -2362,7 +2362,7 @@
     (pad "1" thru_hole circle (at -3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
       (net 6 "+3V3") (pintype "passive") (tstamp c8159944-196f-45f2-bc23-d208e18b8a5b))
     (pad "2" thru_hole circle (at 3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
-      (net 55 "/D17") (pintype "passive") (tstamp 0f25a95a-6d9f-467d-8fef-1c2cb958141e))
+      (net 56 "/D16") (pintype "passive") (tstamp 0f25a95a-6d9f-467d-8fef-1c2cb958141e))
     (model "Discret.3dshapes/R3.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 0.3 0.3 0.3))
@@ -2402,7 +2402,7 @@
     (fp_line (start -3.1496 -1.56) (end -3.1496 1.56) (layer "F.CrtYd") (width 0.05) (tstamp d88f2a36-a534-4399-9f0f-ee0c3617d054))
     (fp_line (start -3.1496 1.56) (end 3.302 1.56) (layer "F.CrtYd") (width 0.05) (tstamp e0e19c3a-0180-4574-bb81-4d86bf55887b))
     (pad "1" thru_hole circle (at -1.3208 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
-      (net 11 "/A5") (pintype "passive") (tstamp a099a358-1028-4003-9bb4-b750d92c728d))
+      (net 22 "/A9") (pintype "passive") (tstamp a099a358-1028-4003-9bb4-b750d92c728d))
     (pad "2" thru_hole circle (at 1.27 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 10 "GNDADC") (pintype "passive") (tstamp 049f6837-ac01-4684-9d95-c1428c057248))
     (model "${KICAD6_3DMODEL_DIR}/Capacitors_THT.3dshapes/C_Disc_D7.0mm_W2.5mm_P5.00mm.wrl"
@@ -2492,7 +2492,7 @@
     (fp_line (start 4.76 -1.25) (end 4.76 1.25) (layer "F.CrtYd") (width 0.05) (tstamp d8318263-fffa-4e80-9c33-da2041386287))
     (fp_line (start -4.76 1.25) (end -4.76 -1.25) (layer "F.CrtYd") (width 0.05) (tstamp f9226dbd-f310-4a45-9258-832e6e4f7aeb))
     (pad "1" thru_hole circle (at -3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
-      (net 49 "/D3") (pintype "passive") (tstamp d0d40deb-0f33-4d97-9f5f-b6d0b4c8de07))
+      (net 45 "/D12") (pintype "passive") (tstamp d0d40deb-0f33-4d97-9f5f-b6d0b4c8de07))
     (pad "2" thru_hole circle (at 3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
       (net 66 "Net-(PLAY_BUT1-Pad7)") (pintype "passive") (tstamp e2af7ba9-2f12-4122-ac58-3c8b0dcd723c))
     (model "Discret.3dshapes/R3.wrl"
@@ -2811,7 +2811,7 @@
     (pad "1" thru_hole circle (at -3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
       (net 6 "+3V3") (pintype "passive") (tstamp 0d6edb4f-ac25-4ef3-8b22-424c0ae7505a))
     (pad "2" thru_hole circle (at 3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
-      (net 56 "/D16") (pintype "passive") (tstamp 329c11f1-5569-4550-a362-a0038e24fafc))
+      (net 55 "/D17") (pintype "passive") (tstamp 329c11f1-5569-4550-a362-a0038e24fafc))
     (model "Discret.3dshapes/R3.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 0.3 0.3 0.3))
@@ -2907,7 +2907,7 @@
     (pad "1" thru_hole circle (at -3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
       (net 2 "GND") (pintype "passive") (tstamp c17be1b9-46ce-40ad-a0e4-9c25f1123bcd))
     (pad "2" thru_hole circle (at 3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
-      (net 60 "/A3") (pintype "passive") (tstamp 7c577bb7-1fd6-4740-b331-9511b8025244))
+      (net 61 "/A8") (pintype "passive") (tstamp 7c577bb7-1fd6-4740-b331-9511b8025244))
     (model "Discret.3dshapes/R3.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 0.3 0.3 0.3))
@@ -3081,7 +3081,7 @@
     (pad "1" thru_hole circle (at -3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
       (net 15 "/A2") (pintype "passive") (tstamp 282f909d-af2f-4219-b92a-f5240d318a69))
     (pad "2" thru_hole circle (at 3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
-      (net 80 "Net-(R10-Pad2)") (pintype "passive") (tstamp 1526f150-b3ab-46d2-ad6a-575b0cad7699))
+      (net 80 "Net-(C6-Pad2)") (pintype "passive") (tstamp 1526f150-b3ab-46d2-ad6a-575b0cad7699))
     (model "Discret.3dshapes/R3.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 0.3 0.3 0.3))
@@ -3256,7 +3256,7 @@
     (fp_line (start -4.76 -1.25) (end 4.76 -1.25) (layer "F.CrtYd") (width 0.05) (tstamp 5dae945f-0922-495b-a297-e33c06417375))
     (fp_line (start 4.76 1.25) (end -4.76 1.25) (layer "F.CrtYd") (width 0.05) (tstamp fd335399-0fab-4ea3-a286-bbd655cc0bec))
     (pad "1" thru_hole circle (at -3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
-      (net 54 "/D7") (pintype "passive") (tstamp 040aebca-fb0d-4b56-ab52-9cab730b399e))
+      (net 42 "/D11") (pintype "passive") (tstamp 040aebca-fb0d-4b56-ab52-9cab730b399e))
     (pad "2" thru_hole circle (at 3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
       (net 67 "Net-(PLAY_BUT1-Pad8)") (pintype "passive") (tstamp ee7b0e23-f020-457e-aaea-09e777eae778))
     (model "Discret.3dshapes/R3.wrl"
@@ -3303,7 +3303,7 @@
     (pad "1" thru_hole circle (at -3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
       (net 73 "Net-(R24-Pad1)") (pintype "passive") (tstamp 8ba4dd85-5f22-4676-be63-682c86f6ea96))
     (pad "2" thru_hole circle (at 3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
-      (net 42 "/D11") (pintype "passive") (tstamp 29b5fcea-e000-46f2-8b4f-7237697ec824))
+      (net 49 "/D3") (pintype "passive") (tstamp 29b5fcea-e000-46f2-8b4f-7237697ec824))
     (model "Discret.3dshapes/R3.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 0.3 0.3 0.3))
@@ -3402,7 +3402,7 @@
     (pad "1" thru_hole circle (at -3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
       (net 69 "Net-(R8-Pad1)") (pintype "passive") (tstamp e18f1500-6229-486f-a779-beecb0d6d2d7))
     (pad "2" thru_hole circle (at 3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
-      (net 80 "Net-(R10-Pad2)") (pintype "passive") (tstamp 2ac6747b-9124-47ec-b1d5-965607e98adc))
+      (net 80 "Net-(C6-Pad2)") (pintype "passive") (tstamp 2ac6747b-9124-47ec-b1d5-965607e98adc))
     (model "Discret.3dshapes/R3.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 0.3 0.3 0.3))
@@ -3541,7 +3541,7 @@
     (fp_line (start -4.76 -1.25) (end 4.76 -1.25) (layer "F.CrtYd") (width 0.05) (tstamp d576bfc8-8fa9-4e6e-89bf-60de073886a6))
     (fp_line (start 4.76 1.25) (end -4.76 1.25) (layer "F.CrtYd") (width 0.05) (tstamp e0b0ec94-66b9-431f-9ff9-2cf2dd256bef))
     (pad "1" thru_hole circle (at -3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
-      (net 43 "/D10") (pintype "passive") (tstamp 8db3a99c-0545-48e9-9f7c-0fef0ee80d22))
+      (net 51 "/D5") (pintype "passive") (tstamp 8db3a99c-0545-48e9-9f7c-0fef0ee80d22))
     (pad "2" thru_hole circle (at 3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
       (net 71 "Net-(R20-Pad2)") (pintype "passive") (tstamp 7ab85720-eec6-4c00-bfbd-7bfab04492f9))
     (model "Discret.3dshapes/R3.wrl"
@@ -3588,7 +3588,7 @@
     (pad "1" thru_hole circle (at -3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
       (net 26 "Net-(J2-Pad1)") (pintype "passive") (tstamp 46acc4ff-9490-456f-b50e-baf45387af1c))
     (pad "2" thru_hole circle (at 3.81 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask)
-      (net 59 "/A1") (pintype "passive") (tstamp ef0f3948-40a3-4c6e-a6c0-b30a32f1ccf1))
+      (net 11 "/A5") (pintype "passive") (tstamp ef0f3948-40a3-4c6e-a6c0-b30a32f1ccf1))
     (model "Discret.3dshapes/R3.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 0.3 0.3 0.3))
@@ -3628,7 +3628,7 @@
     (fp_line (start -3.1496 -1.56) (end -3.1496 1.56) (layer "F.CrtYd") (width 0.05) (tstamp 90cdb4cc-d70f-4e3c-9969-0d48dbf193b2))
     (fp_line (start -3.1496 1.56) (end 3.302 1.56) (layer "F.CrtYd") (width 0.05) (tstamp e9a6c659-2afc-4e13-baf0-c18974d0139b))
     (pad "1" thru_hole circle (at -1.3208 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
-      (net 17 "/A6") (pintype "passive") (tstamp fc895ff0-b9b1-4de7-886a-205a1a795c10))
+      (net 60 "/A3") (pintype "passive") (tstamp fc895ff0-b9b1-4de7-886a-205a1a795c10))
     (pad "2" thru_hole circle (at 1.27 0) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
       (net 10 "GNDADC") (pintype "passive") (tstamp 2331fa06-195c-4cf5-b7bf-a24d5c47b97d))
     (model "${KICAD6_3DMODEL_DIR}/Capacitors_THT.3dshapes/C_Disc_D7.0mm_W2.5mm_P5.00mm.wrl"
@@ -3808,11 +3808,11 @@
     (fp_line (start -6.125 3.93) (end -6.125 -2.82) (layer "B.CrtYd") (width 0.1) (tstamp b765b5c4-00be-4ae2-ac02-b745203498d0))
     (fp_line (start -6.125 -2.82) (end 6.925 -2.82) (layer "B.CrtYd") (width 0.1) (tstamp be6f2794-d932-4fdc-b110-67cccb320377))
     (pad "1" thru_hole oval (at -3.449751 1.62 270) (size 1.0922 1.397) (drill 0.6858) (layers *.Cu *.Mask)
-      (net 53 "/D18") (pinfunction "DAT2") (pintype "input") (tstamp 6b548722-2377-49d6-abd2-c8f62ae5856c))
+      (net 52 "/D19") (pinfunction "DAT2") (pintype "input") (tstamp 6b548722-2377-49d6-abd2-c8f62ae5856c))
     (pad "2" thru_hole oval (at -2.349931 2.71982 270) (size 1.0922 1.397) (drill 0.6858) (layers *.Cu *.Mask)
       (net 75 "Net-(R29-Pad2)") (pinfunction "CD/DAT3") (pintype "input") (tstamp 773666e1-c33a-485b-9d33-ea232e83548b))
     (pad "3" thru_hole oval (at -1.249857 1.62 270) (size 1.0922 1.397) (drill 0.69977) (layers *.Cu *.Mask)
-      (net 52 "/D19") (pinfunction "CMD") (pintype "input") (tstamp e031d40b-3c89-4fa0-9e39-3e101953c90a))
+      (net 53 "/D18") (pinfunction "CMD") (pintype "input") (tstamp e031d40b-3c89-4fa0-9e39-3e101953c90a))
     (pad "4" thru_hole oval (at -0.150037 2.71982 270) (size 1.0922 1.397) (drill 0.6858) (layers *.Cu *.Mask)
       (net 6 "+3V3") (pinfunction "VDD") (pintype "input") (tstamp b6d1669b-d839-4559-a504-a4800e87943b))
     (pad "5" thru_hole oval (at 0.950037 1.62 270) (size 1.0922 1.397) (drill 0.6858) (layers *.Cu *.Mask)
@@ -3820,9 +3820,9 @@
     (pad "6" thru_hole oval (at 2.049857 2.71982 270) (size 1.0922 1.397) (drill 0.6858) (layers *.Cu *.Mask)
       (net 2 "GND") (pinfunction "VSS") (pintype "input") (tstamp 773196ca-01b8-4d68-83ee-11685bf936e6))
     (pad "7" thru_hole oval (at 3.149931 1.62 270) (size 1.0922 1.397) (drill 0.6858) (layers *.Cu *.Mask)
-      (net 56 "/D16") (pinfunction "DAT0") (pintype "input") (tstamp c2f23eb9-81f4-4a7d-9849-8e33258950fb))
+      (net 55 "/D17") (pinfunction "DAT0") (pintype "input") (tstamp c2f23eb9-81f4-4a7d-9849-8e33258950fb))
     (pad "8" thru_hole oval (at 4.249751 2.71982 270) (size 1.0922 1.397) (drill 0.6858) (layers *.Cu *.Mask)
-      (net 55 "/D17") (pinfunction "DAT1") (pintype "input") (tstamp 889491de-bea4-483f-8836-62837b95b881))
+      (net 56 "/D16") (pinfunction "DAT1") (pintype "input") (tstamp 889491de-bea4-483f-8836-62837b95b881))
     (pad "9" thru_hole oval (at -3.8926 -1.54992 270) (size 1.524 1.524) (drill 0.9144) (layers *.Cu *.Mask)
       (net 2 "GND") (pinfunction "SHELL1") (pintype "input") (tstamp a806e768-dea0-46ca-b26b-d9040dfa2527))
     (pad "10" thru_hole oval (at 4.6926 -1.54992 270) (size 1.524 1.524) (drill 0.9144) (layers *.Cu *.Mask)
@@ -3992,7 +3992,7 @@
     (pad "1" thru_hole circle (at -5 -12.954 90) (size 2.286 2.286) (drill 1.2) (layers F&B.Cu *.Mask)
       (net 10 "GNDADC") (pinfunction "Left") (pintype "passive") (solder_mask_margin 0.127) (tstamp bfe9dd75-1522-40b8-80e9-eae497f55443))
     (pad "2" thru_hole circle (at 0 -12.954 90) (size 2.286 2.286) (drill 1.2) (layers F&B.Cu *.Mask)
-      (net 9 "/A4") (pinfunction "Center") (pintype "passive") (solder_mask_margin 0.127) (clearance 0.254) (tstamp 5c22e5cc-4614-438a-a61d-bac223a8b60d))
+      (net 59 "/A1") (pinfunction "Center") (pintype "passive") (solder_mask_margin 0.127) (clearance 0.254) (tstamp 5c22e5cc-4614-438a-a61d-bac223a8b60d))
     (pad "3" thru_hole circle (at 5 -12.954 90) (size 2.286 2.286) (drill 1.2) (layers F&B.Cu *.Mask)
       (net 41 "VREF+") (pinfunction "Right") (pintype "passive") (solder_mask_margin 0.127) (tstamp a259e774-0c1c-4467-a171-dce04e182d21))
     (model "${ALT3DMOD}/potentiometers/AlphaTaiwan-RV16AF-4A-15FW.step"
@@ -4272,7 +4272,7 @@
         (xy 4.55 -1.16)
       ) (layer "B.CrtYd") (width 0.05) (fill none) (tstamp 07cbdcb2-1b11-4b1b-a8d3-c07ca32a7b90))
     (pad "1" thru_hole circle (at -5.207 0 180) (size 1.9304 1.9304) (drill 1.143) (layers *.Cu *.Mask)
-      (net 30 "/D15") (pinfunction "SIG") (pintype "passive") (tstamp 2a24008c-ee57-4d98-aa38-3c5110dae0eb))
+      (net 50 "/D2") (pinfunction "SIG") (pintype "passive") (tstamp 2a24008c-ee57-4d98-aa38-3c5110dae0eb))
     (pad "2" thru_hole circle (at 5.7658 0 180) (size 1.9304 1.9304) (drill 0.889) (layers *.Cu *.Mask)
       (net 2 "GND") (pinfunction "SHEILD") (pintype "passive") (tstamp 830b84e2-2a67-40b3-9804-de0584fe0365))
     (pad "3" thru_hole circle (at 3.3528 0 180) (size 1.9304 1.9304) (drill 1.143) (layers *.Cu *.Mask)
@@ -4538,7 +4538,7 @@
     (pad "1" thru_hole circle (at -5 -12.954 90) (size 2.286 2.286) (drill 1.2) (layers F&B.Cu *.Mask)
       (net 10 "GNDADC") (pinfunction "Left") (pintype "passive") (solder_mask_margin 0.127) (tstamp c3903e26-66e1-4fee-b538-15c4cb3eb013))
     (pad "2" thru_hole circle (at 0 -12.954 90) (size 2.286 2.286) (drill 1.2) (layers F&B.Cu *.Mask)
-      (net 17 "/A6") (pinfunction "Center") (pintype "passive") (solder_mask_margin 0.127) (clearance 0.254) (tstamp 048fd95a-1138-496a-b994-6dbf93bcf3db))
+      (net 60 "/A3") (pinfunction "Center") (pintype "passive") (solder_mask_margin 0.127) (clearance 0.254) (tstamp 048fd95a-1138-496a-b994-6dbf93bcf3db))
     (pad "3" thru_hole circle (at 5 -12.954 90) (size 2.286 2.286) (drill 1.2) (layers F&B.Cu *.Mask)
       (net 41 "VREF+") (pinfunction "Right") (pintype "passive") (solder_mask_margin 0.127) (tstamp fca40023-565a-4eba-9bd2-0a5645e1029a))
     (model "${ALT3DMOD}/potentiometers/AlphaTaiwan-RV16AF-4A-15FW.step"
@@ -4668,7 +4668,7 @@
     (pad "1" thru_hole circle locked (at -5 -12.954 90) (size 2.286 2.286) (drill 1.2) (layers F&B.Cu *.Mask)
       (net 10 "GNDADC") (pinfunction "Left") (pintype "passive") (solder_mask_margin 0.127) (tstamp 6e30884b-41ea-48ec-8b40-56f28ea178e2))
     (pad "2" thru_hole circle locked (at 0 -12.954 90) (size 2.286 2.286) (drill 1.2) (layers F&B.Cu *.Mask)
-      (net 11 "/A5") (pinfunction "Center") (pintype "passive") (solder_mask_margin 0.127) (clearance 0.254) (tstamp b2686147-3070-4031-bf95-025fb6150c17))
+      (net 22 "/A9") (pinfunction "Center") (pintype "passive") (solder_mask_margin 0.127) (clearance 0.254) (tstamp b2686147-3070-4031-bf95-025fb6150c17))
     (pad "3" thru_hole circle locked (at 5 -12.954 90) (size 2.286 2.286) (drill 1.2) (layers F&B.Cu *.Mask)
       (net 41 "VREF+") (pinfunction "Right") (pintype "passive") (solder_mask_margin 0.127) (tstamp 9b26ff17-d21f-4645-bd27-bc8e486fd0a8))
     (model "${ALT3DMOD}/potentiometers/AlphaTaiwan-RV16AF-4A-15FW.step"
