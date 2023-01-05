@@ -38,4 +38,5 @@
   (lib (name "4ms_Resistor_0603_0.1%")(type "KiCad")(uri "${KICAD_4MS_LIBS}/symbols/4ms_Resistor_0603_0.1%.kicad_sym")(options "")(descr ""))
   (lib (name "4ms_Resistor_0603")(type "KiCad")(uri "${KICAD_4MS_LIBS}/symbols/4ms_Resistor_0603.kicad_sym")(options "")(descr ""))
   (lib (name "4ms_Resistor_0805_0.1%")(type "KiCad")(uri "${KICAD_4MS_LIBS}/symbols/4ms_Resistor_0805_0.1%.kicad_sym")(options "")(descr ""))
+  (lib (name "4ms_Resistor_TH")(type "KiCad")(uri "${KICAD_4MS_LIBS}/symbols/4ms_Resistor_TH.kicad_sym")(options "")(descr ""))
 )
