@@ -4086,7 +4086,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4cabb3af-f7b7-4de4-95a2-cb7b423a3fbd)
   )
-  (label "D3" (at 372.745 140.97 180)
+  (label "D10" (at 372.745 140.97 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 4febd3d1-9d25-4f2f-828a-80dcbbb7b996)
   )
@@ -4710,7 +4710,7 @@
   (symbol (lib_id "4ms_Connector:Eurorack_Power_16pin_Unshrouded") (at 38.735 369.57 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 26de500a-6a5a-4f52-a622-63f695723fe5)
-    (property "Reference" "J12" (id 0) (at 36.6363 383.54 0))
+    (property "Reference" "J14" (id 0) (at 36.6363 383.54 0))
     (property "Value" "Eurorack_Power_16pin_Unshrouded" (id 1) (at 36.6363 386.08 0))
     (property "Footprint" "4ms_Connector:Pins_2x08_2.54mm_TH_EuroPower" (id 2) (at 48.895 392.43 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -7733,7 +7733,7 @@
     (pin "1" (uuid 147210bd-c7b2-4832-ad33-ec61c74eade6))
   )
 
-  (symbol (lib_id "4ms_IC:TL082_TH") (at 191.77 118.11 0) (unit 2)
+  (symbol (lib_id "4ms_IC:TL082_TH") (at 191.77 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e9d45a74-69c4-44b2-aeb2-b4cba2a5826a)
     (property "Reference" "U2" (id 0) (at 191.77 107.95 0))
@@ -8301,11 +8301,11 @@
     (path "/9d3a70ec-f2fc-4c28-a612-fba1afd81bc1"
       (reference "J11") (unit 1) (value "AUDIO_OUTL") (footprint "4ms_Jack:EighthInch_PJ398SM")
     )
-    (path "/26de500a-6a5a-4f52-a622-63f695723fe5"
-      (reference "J12") (unit 1) (value "Eurorack_Power_16pin_Unshrouded") (footprint "4ms_Connector:Pins_2x08_2.54mm_TH_EuroPower")
-    )
     (path "/8dfd5b71-d7ca-434d-99e0-1511a2784fa0"
       (reference "J13") (unit 1) (value "BANK_CV") (footprint "4ms_Jack:EighthInch_PJ398SM")
+    )
+    (path "/26de500a-6a5a-4f52-a622-63f695723fe5"
+      (reference "J14") (unit 1) (value "Eurorack_Power_16pin_Unshrouded") (footprint "4ms_Connector:Pins_2x08_2.54mm_TH_EuroPower")
     )
     (path "/aa429c81-7bec-4d11-98d8-90f9522e0b59"
       (reference "JA1") (unit 1) (value "Socket_02x05_TH") (footprint "4ms_Connector:Socket_2x05_2.54mm_TH")
@@ -8452,7 +8452,7 @@
       (reference "U1") (unit 3) (value "TL082_TH") (footprint "4ms_Package_DIP:DIP-8pin_TH")
     )
     (path "/e9d45a74-69c4-44b2-aeb2-b4cba2a5826a"
-      (reference "U2") (unit 2) (value "TL082_TH") (footprint "4ms_Package_DIP:DIP-8pin_TH")
+      (reference "U2") (unit 1) (value "TL082_TH") (footprint "4ms_Package_DIP:DIP-8pin_TH")
     )
     (path "/867c8e1f-3163-4dae-bd9c-3cfb52f58b42"
       (reference "U2") (unit 3) (value "TL082_TH") (footprint "4ms_Package_DIP:DIP-8pin_TH")
