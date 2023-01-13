@@ -1,2 +1,22 @@
 
 *.kicad_prl
+
+.DS_Store
+
+faceplate/artwork sources /Looping_Delay_kit_JQ13_artwork.pdf
+
+faceplate/artwork sources /Looping_Delay_kit_JQ13_changes.pdf
+
+faceplate/artwork sources /Looping_Delay_kit_JQ13_mount.svg
+
+p1/fp-info-cache
+
+p1/Kit-Trig-Sampler-backups/Kit-Trig-Sampler-2023-01-10_143014.zip
+
+p1/Kit-Trig-Sampler-backups/Kit-Trig-Sampler-2023-01-10_143735.zip
+
+p1/Kit-Trig-Sampler-backups/Kit-Trig-Sampler-2023-01-10_164408.zip
+
+p1/Kit-Trig-Sampler-backups/Kit-Trig-Sampler-2023-01-10_165508.zip
+
+p1/Kit-Trig-Sampler-backups/Kit-Trig-Sampler-2023-01-11_120942.zip
