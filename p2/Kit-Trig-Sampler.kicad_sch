@@ -7963,7 +7963,7 @@
   (symbol (lib_id "4ms_Resistor_TH:330Ω_TH0.125") (at 361.95 135.89 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a4ba1630-053d-466a-a5ce-e1854648e84a)
-    (property "Reference" "R?" (at 361.95 130.81 90)
+    (property "Reference" "R20" (at 361.95 130.81 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "330Ω_TH0.125" (at 361.95 138.43 90)
@@ -7995,7 +7995,7 @@
     (instances
       (project "Kit-Trig-Sampler"
         (path "/39a72d2b-4494-42c9-aa7a-6ac21ca5673f"
-          (reference "R?") (unit 1)
+          (reference "R20") (unit 1)
         )
       )
     )
