@@ -1,4 +1,4 @@
-(kicad_sch (version 20221206) (generator eeschema)
+(kicad_sch (version 20230121) (generator eeschema)
 
   (uuid 39a72d2b-4494-42c9-aa7a-6ac21ca5673f)
 
@@ -3958,7 +3958,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 33302615-36d3-4dc4-83d2-e98c90752ec9)
   )
-  (text "Bank_But_G" (at 341.63 64.77 0)
+  (text "Bank_But_G" (at 405.13 74.93 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 371cbbdb-f263-46f4-9ee1-b4314396ae1b)
   )
@@ -4110,7 +4110,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid b9568a08-76ec-429c-b099-5b0de80c6674)
   )
-  (text "Bank_But_B" (at 401.32 74.93 0)
+  (text "Bank_But_B" (at 339.09 66.04 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bb65918f-e546-4107-95d2-bcff1b9e9dbb)
   )
