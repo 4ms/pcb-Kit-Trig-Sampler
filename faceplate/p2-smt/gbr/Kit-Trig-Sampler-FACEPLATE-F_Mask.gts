@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(7.0.0-0)*
-G04 #@! TF.CreationDate,2023-03-22T15:45:38-07:00*
+G04 #@! TF.CreationDate,2023-03-22T15:58:19-07:00*
 G04 #@! TF.ProjectId,Kit-Trig-Sampler-FACEPLATE,4b69742d-5472-4696-972d-53616d706c65,rev?*
 G04 #@! TF.SameCoordinates,PXa661c0PY7cdd488*
 G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (7.0.0-0)) date 2023-03-22 15:45:38*
+G04 Created by KiCad (PCBNEW (7.0.0-0)) date 2023-03-22 15:58:19*
 %MOMM*%
 %LPD*%
 G01*
