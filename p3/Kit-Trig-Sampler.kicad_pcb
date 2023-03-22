@@ -6247,7 +6247,7 @@
   (gr_text "PITCH_CV" (at 76.5 88) (layer "B.SilkS") (tstamp ce93bebd-a51a-45f3-a608-cdcbf44e7ead)
     (effects (font (size 1 1) (thickness 0.15)) (justify right top mirror))
   )
-  (gr_text "SAMPLER KIT p2" (at 41 61.1) (layer "F.SilkS") (tstamp c0085166-2ff5-4e88-a2a1-3a188cd667ec)
+  (gr_text "SAMPLER KIT p3" (at 41 61.1) (layer "F.SilkS") (tstamp c0085166-2ff5-4e88-a2a1-3a188cd667ec)
     (effects (font (size 1.143 1.143) (thickness 0.1778) italic))
   )
 
