@@ -54,7 +54,7 @@
     (pad_to_mask_clearance 0)
     (aux_axis_origin 10.904 130.9298)
     (pcbplotparams
-      (layerselection 0x00010fc_ffffffff)
+      (layerselection 0x00010e0_ffffffff)
       (plot_on_all_layers_selection 0x0000000_00000000)
       (disableapertmacros false)
       (usegerberextensions true)
@@ -67,7 +67,7 @@
       (plotframeref false)
       (viasonmask false)
       (mode 1)
-      (useauxorigin false)
+      (useauxorigin true)
       (hpglpennumber 1)
       (hpglpenspeed 20)
       (hpglpendiameter 15.000000)
@@ -76,8 +76,8 @@
       (dxfusepcbnewfont true)
       (psnegative false)
       (psa4output false)
-      (plotreference true)
-      (plotvalue true)
+      (plotreference false)
+      (plotvalue false)
       (plotinvisibletext false)
       (sketchpadsonfab false)
       (subtractmaskfromsilk true)
@@ -85,7 +85,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "")
+      (outputdirectory "gbr")
     )
   )
 
@@ -100,7 +100,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 92227859-62dd-4e18-8fe0-2d724ceb25c8)
     )
-    (fp_text value "GND" (at 0.27 6.16) (layer "F.Fab") hide
+    (fp_text value "GND" (at 0.27 6.16) (layer "User.1") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a9d0a7d5-9531-4c29-8640-9f80a2ebba0f)
     )
@@ -120,7 +120,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9612bf0d-edd2-4269-9b35-3a0ec2fe062c)
     )
-    (fp_text value "Faceplate_Hole_Pot_16mm" (at 0.58 4.95) (layer "F.Fab") hide
+    (fp_text value "Faceplate_Hole_Pot_16mm" (at 0.58 4.95) (layer "User.1") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d98a3c73-5cf4-4cb3-b687-a4dd9e72f6b9)
     )
@@ -140,7 +140,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e5751907-428b-4deb-96bb-8bb013f6b04a)
     )
-    (fp_text value "Faceplate_Rail_Mount_Slot_Plated" (at 0.09 2.46) (layer "F.Fab") hide
+    (fp_text value "Faceplate_Rail_Mount_Slot_Plated" (at 0.09 2.46) (layer "User.1") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp fafaaa00-df53-403f-afea-abeecf8d244f)
     )
@@ -160,7 +160,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bed472f4-d17d-4eca-a228-e2f5d6c27b30)
     )
-    (fp_text value "Faceplate_Hole_LED_Button_5.4mm_With_Mask_Opening" (at 0.18 4.01) (layer "F.Fab") hide
+    (fp_text value "Faceplate_Hole_LED_Button_5.4mm_With_Mask_Opening" (at 0.18 4.01) (layer "User.1") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp fc0d7511-0444-4a49-97ed-a3a9014cc4a4)
     )
@@ -180,7 +180,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5de3d3ee-c16b-489c-9f3c-0c1d58da3ba7)
     )
-    (fp_text value "GND" (at 0.27 6.16) (layer "F.Fab") hide
+    (fp_text value "GND" (at 0.27 6.16) (layer "User.1") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp fc07f809-ed38-4596-b488-bdf9bfe201ae)
     )
@@ -196,11 +196,11 @@
     (tstamp 276ef989-55a1-4145-bd58-b703b53e46dc)
     (at 50.991285 67.839619)
     (attr board_only exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "G***" (at 0 0) (layer "F.SilkS")
+    (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)))
       (tstamp 9ba45cfb-1c2c-4be8-be41-663809bb7f41)
     )
-    (fp_text value "LOGO" (at 0.75 0) (layer "F.SilkS") hide
+    (fp_text value "LOGO" (at 0.75 0) (layer "User.1") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)))
       (tstamp a472cddc-309b-4af4-8a48-905795eb0ca6)
     )
@@ -18542,7 +18542,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 500dd61c-ba10-40cd-bcb4-430961461950)
     )
-    (fp_text value "GND" (at 0.27 6.16) (layer "F.Fab") hide
+    (fp_text value "GND" (at 0.27 6.16) (layer "User.1") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1a30fdf1-34e9-4aa0-bd1f-d72bcca0a267)
     )
@@ -18562,7 +18562,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 170eb424-ac02-483d-aba8-e905876ebd2d)
     )
-    (fp_text value "Faceplate_Hole_Pot_16mm" (at 0.58 4.95) (layer "F.Fab") hide
+    (fp_text value "Faceplate_Hole_Pot_16mm" (at 0.58 4.95) (layer "User.1") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7871bfae-b438-46d4-b697-7825773dc0bc)
     )
@@ -18582,7 +18582,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7a143d85-f65f-4b93-8e53-03d33f3e0445)
     )
-    (fp_text value "Faceplate_Hole_LED_Button_7mm_With_Mask_Opening" (at 0 5.207) (layer "F.Fab") hide
+    (fp_text value "Faceplate_Hole_LED_Button_7mm_With_Mask_Opening" (at 0 5.207) (layer "User.1") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 26fb71f9-8fce-413a-82e2-f16673347da5)
     )
@@ -18602,7 +18602,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3d2d42cb-2310-4faa-a9d5-1964811c0adb)
     )
-    (fp_text value "GND" (at 0.27 6.16) (layer "F.Fab") hide
+    (fp_text value "GND" (at 0.27 6.16) (layer "User.1") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 50bab0bd-787e-414e-8973-68754782fbae)
     )
@@ -18622,7 +18622,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp be5fe372-768a-4423-94a6-1dc5c9e60a36)
     )
-    (fp_text value "Faceplate_Hole_Pot_16mm" (at 0.58 4.95) (layer "F.Fab") hide
+    (fp_text value "Faceplate_Hole_Pot_16mm" (at 0.58 4.95) (layer "User.1") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b2c02dee-72d8-4ed6-9e8c-38666f313e84)
     )
@@ -18642,7 +18642,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 683d7499-6e78-475c-b6cc-15b0f74e68a4)
     )
-    (fp_text value "GND" (at 0.27 6.16) (layer "F.Fab") hide
+    (fp_text value "GND" (at 0.27 6.16) (layer "User.1") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e099aabe-0aee-415b-930e-d20da2127f40)
     )
@@ -18662,7 +18662,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 60fb819c-bdc1-466a-8e25-0ffec860cc2a)
     )
-    (fp_text value "GND" (at 0.27 6.16) (layer "F.Fab") hide
+    (fp_text value "GND" (at 0.27 6.16) (layer "User.1") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f959ef3e-10a8-40a6-a833-de880127ac1a)
     )
@@ -18682,7 +18682,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 43b6ab7e-7b71-4c03-825d-05b06b5619a5)
     )
-    (fp_text value "Faceplate_Rail_Mount_Slot_Plated" (at 0.09 2.46) (layer "F.Fab") hide
+    (fp_text value "Faceplate_Rail_Mount_Slot_Plated" (at 0.09 2.46) (layer "User.1") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a325ef0e-fab9-4b3a-9ce7-c9ba43162f46)
     )
@@ -18702,7 +18702,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f715d74c-8b7a-4060-9fc6-5b130491eedd)
     )
-    (fp_text value "GND" (at 0.27 6.16) (layer "F.Fab") hide
+    (fp_text value "GND" (at 0.27 6.16) (layer "User.1") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c1116c44-d52b-4a18-9f9f-094226f83714)
     )
@@ -18722,7 +18722,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 09370ead-e88f-4569-a8a6-769b5f5de743)
     )
-    (fp_text value "Faceplate_Hole_Pot_16mm" (at 0.58 4.95) (layer "F.Fab") hide
+    (fp_text value "Faceplate_Hole_Pot_16mm" (at 0.58 4.95) (layer "User.1") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0642733a-5511-4db3-8884-b3138d69aeb4)
     )
@@ -18742,7 +18742,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c04a8b4f-1e3f-45de-9eca-ea9147b78134)
     )
-    (fp_text value "Faceplate_Rail_Mount_Slot_Plated" (at 0.09 2.46) (layer "F.Fab") hide
+    (fp_text value "Faceplate_Rail_Mount_Slot_Plated" (at 0.09 2.46) (layer "User.1") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 28d84854-a595-44b0-9403-507610b10489)
     )
@@ -18762,7 +18762,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d9c794b7-ade6-4e45-bcb0-7fb0493a376c)
     )
-    (fp_text value "GND" (at 0.27 6.16) (layer "F.Fab") hide
+    (fp_text value "GND" (at 0.27 6.16) (layer "User.1") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f6fd5770-6953-43da-b685-4b1c10de29de)
     )
@@ -18782,7 +18782,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4758a7ce-1042-4129-916e-b63b49855476)
     )
-    (fp_text value "GND" (at 0.27 6.16) (layer "F.Fab") hide
+    (fp_text value "GND" (at 0.27 6.16) (layer "User.1") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 51013bab-a258-4eff-b0c4-1e5df7c211c8)
     )
@@ -18802,7 +18802,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 14dfe717-c41a-4d42-b881-6d8b4e786a9b)
     )
-    (fp_text value "GND" (at 0.27 6.16) (layer "F.Fab") hide
+    (fp_text value "GND" (at 0.27 6.16) (layer "User.1") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2e3e5d3a-b02c-410c-8e87-473ddefae3d6)
     )
@@ -18822,7 +18822,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 385036cc-fb99-4378-9f70-ef3c61645a0b)
     )
-    (fp_text value "Faceplate_Rail_Mount_Slot_Plated" (at 0.09 2.46) (layer "F.Fab") hide
+    (fp_text value "Faceplate_Rail_Mount_Slot_Plated" (at 0.09 2.46) (layer "User.1") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 70644e52-83e6-481e-a416-5fc8bed35113)
     )
@@ -18842,7 +18842,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6c4efe51-bc08-4bf1-b221-ad9480bb024d)
     )
-    (fp_text value "GND" (at 0.27 6.16) (layer "F.Fab") hide
+    (fp_text value "GND" (at 0.27 6.16) (layer "User.1") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f3f18f2b-cf73-4a4e-bbe2-a4d61f3eae1f)
     )
@@ -18862,7 +18862,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1009c1d8-7a7b-4cb3-9d34-3986e1ee4dcc)
     )
-    (fp_text value "GND" (at 0.27 6.16) (layer "F.Fab") hide
+    (fp_text value "GND" (at 0.27 6.16) (layer "User.1") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bfe1f8b4-8c08-40dd-83ca-be30ab891a7c)
     )
@@ -18882,7 +18882,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3621600f-04c8-4568-8102-05f5038a884f)
     )
-    (fp_text value "Faceplate_Hole_LED_Button_5.4mm_With_Mask_Opening" (at 0.18 4.01) (layer "F.Fab") hide
+    (fp_text value "Faceplate_Hole_LED_Button_5.4mm_With_Mask_Opening" (at 0.18 4.01) (layer "User.1") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6c5abcf6-e4ac-41cf-bf82-1166eb555a46)
     )
