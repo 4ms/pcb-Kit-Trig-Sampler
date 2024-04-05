@@ -16963,7 +16963,7 @@
     )
   )
 
-  (symbol (lib_id "4ms_IC:TL072H") (at 831.85 632.46 0) (unit 1)
+  (symbol (lib_id "4ms_IC:TL072H") (at 831.85 632.46 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3f24a7dd-7f27-4e93-a81f-5143a434678c)
     (property "Reference" "U14" (at 831.85 624.3701 0)
@@ -17004,7 +17004,7 @@
     (instances
       (project "Sampler-built"
         (path "/39a72d2b-4494-42c9-aa7a-6ac21ca5673f"
-          (reference "U14") (unit 1)
+          (reference "U14") (unit 2)
         )
       )
       (project "Kit-Brainboard"
@@ -29190,7 +29190,7 @@
     )
   )
 
-  (symbol (lib_id "4ms_IC:TL072H") (at 831.85 603.25 0) (unit 2)
+  (symbol (lib_id "4ms_IC:TL072H") (at 831.85 603.25 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e50120ff-097e-4e5c-81ba-47432cef1d05)
     (property "Reference" "U14" (at 831.85 595.1601 0)
@@ -29231,7 +29231,7 @@
     (instances
       (project "Sampler-built"
         (path "/39a72d2b-4494-42c9-aa7a-6ac21ca5673f"
-          (reference "U14") (unit 2)
+          (reference "U14") (unit 1)
         )
       )
       (project "Kit-Brainboard"
