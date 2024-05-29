@@ -18882,7 +18882,7 @@
 		(descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
 		(tags "resistor 0603")
 		(property "Reference" "R79"
-			(at 0.013352 -1.230078 360)
+			(at 0.013352 -1.230078 0)
 			(layer "F.SilkS")
 			(uuid "98c67cf1-878d-4052-8345-7fa7ec55e55d")
 			(effects
@@ -18893,7 +18893,7 @@
 			)
 		)
 		(property "Value" "33k_0603"
-			(at 0 1.45 360)
+			(at 0 1.45 0)
 			(layer "F.Fab")
 			(uuid "0b7e18b7-12ae-413f-909b-ffb2f933d50d")
 			(effects
@@ -18940,7 +18940,7 @@
 			)
 		)
 		(property "Display" "33k"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3b8d110f-0467-4175-84eb-87423ef1d429")
@@ -18952,7 +18952,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C126359"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "de26120d-8110-4440-813f-be01659340a7")
@@ -18964,7 +18964,7 @@
 			)
 		)
 		(property "Manufacturer" "Yageo"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ef31d1e4-e1a3-4a5b-8863-d7a72627eba0")
@@ -18976,7 +18976,7 @@
 			)
 		)
 		(property "Part Number" "RC0603FR-0733KL"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "497d6c64-516a-477a-a7a5-5ee1911c5ff1")
@@ -18988,7 +18988,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "73a50c30-6de5-4839-9814-743790b12703")
@@ -19000,7 +19000,7 @@
 			)
 		)
 		(property "Specifications" "33k, 1%, 1/10W, 0603"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "156ec705-f22e-4631-965a-e0dc98934058")
@@ -21091,7 +21091,7 @@
 		(descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
 		(tags "resistor 0603")
 		(property "Reference" "R80"
-			(at -2.59 -0.59 360)
+			(at -2.59 -0.59 0)
 			(layer "F.SilkS")
 			(uuid "23f49d13-a56d-4108-b936-3a0c61cfdb2f")
 			(effects
@@ -21102,7 +21102,7 @@
 			)
 		)
 		(property "Value" "33k_0603"
-			(at 0 1.45 360)
+			(at 0 1.45 0)
 			(layer "F.Fab")
 			(uuid "ba20906b-bd2c-4612-b6c1-01d1d0eb12e9")
 			(effects
@@ -21149,7 +21149,7 @@
 			)
 		)
 		(property "Display" "33k"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4778b0ff-8c17-47d5-a3f7-7a24111bdbf3")
@@ -21161,7 +21161,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C126359"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "386dcf89-2973-45b3-9600-cc96c6c5687a")
@@ -21173,7 +21173,7 @@
 			)
 		)
 		(property "Manufacturer" "Yageo"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9ecd1321-08eb-4baf-967c-38cd67d3131e")
@@ -21185,7 +21185,7 @@
 			)
 		)
 		(property "Part Number" "RC0603FR-0733KL"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "caf7edb3-7cf4-43f9-9ec5-782596e8cadf")
@@ -21197,7 +21197,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "86c9e074-d05a-4fae-9fda-fb6188554303")
@@ -21209,7 +21209,7 @@
 			)
 		)
 		(property "Specifications" "33k, 1%, 1/10W, 0603"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3d57ada6-f200-4d80-8395-429b4c3e4a3e")
@@ -29669,7 +29669,7 @@
 		(descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
 		(tags "resistor 0603")
 		(property "Reference" "R77"
-			(at 0.05 -1.25 360)
+			(at 0.05 -1.25 0)
 			(layer "F.SilkS")
 			(uuid "e3dbb3cf-faf2-4d1b-bb0d-06f38e9e51b4")
 			(effects
@@ -29680,7 +29680,7 @@
 			)
 		)
 		(property "Value" "33k_0603"
-			(at 0 1.45 360)
+			(at 0 1.45 0)
 			(layer "F.Fab")
 			(uuid "5025d362-0aec-473e-a75e-0a8c3baabbf6")
 			(effects
@@ -29727,7 +29727,7 @@
 			)
 		)
 		(property "Display" "33k"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "814f409b-4338-4387-8a33-e5dae8a379cf")
@@ -29739,7 +29739,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C126359"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "63e0d88f-a64e-4cbc-a37c-146b34d2118d")
@@ -29751,7 +29751,7 @@
 			)
 		)
 		(property "Manufacturer" "Yageo"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0a79b6ca-4665-40c5-a9fd-4a85ff249a3b")
@@ -29763,7 +29763,7 @@
 			)
 		)
 		(property "Part Number" "RC0603FR-0733KL"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "18d11538-233b-4dff-988d-153b99573560")
@@ -29775,7 +29775,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cb20de64-5571-431e-b4c1-d4e8091dce44")
@@ -29787,7 +29787,7 @@
 			)
 		)
 		(property "Specifications" "33k, 1%, 1/10W, 0603"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "16e9a055-ca60-4c43-b9cf-d3700a1577b9")
@@ -50286,7 +50286,7 @@
 		(at 158.84 36.39)
 		(descr "C1206")
 		(property "Reference" "C43"
-			(at -4.2266 0.119079 360)
+			(at -4.2266 0.119079 0)
 			(layer "F.SilkS")
 			(uuid "cedb2bdf-5178-4a12-b2df-af3d632178fd")
 			(effects
@@ -50298,7 +50298,7 @@
 			)
 		)
 		(property "Value" "4.7uF_1206_lowESR"
-			(at 1.05 -1.4 360)
+			(at 1.05 -1.4 0)
 			(layer "F.Fab")
 			(uuid "79703e20-9a12-4cb0-aca5-8561f7428ade")
 			(effects
@@ -50346,7 +50346,7 @@
 			)
 		)
 		(property "Display" "4.7uF/16V/100mΩ"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9425f1b4-533c-4f74-ad22-7e8c8e29328d")
@@ -50358,7 +50358,7 @@
 			)
 		)
 		(property "Manufacturer" "Taiyo Yuden"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0e2d29b1-819e-4c90-b4db-1ae4ab8c889e")
@@ -50370,7 +50370,7 @@
 			)
 		)
 		(property "Part Number" "EMF316AB7475KLHT"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cfd131ca-b2cd-4511-a37d-0b9093988a3c")
@@ -50382,7 +50382,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ca7066ae-f805-4d30-b386-f09de7ee10ac")
@@ -50394,7 +50394,7 @@
 			)
 		)
 		(property "Specifications" "4.7uF, Min. 16V, ESR<=100mΩ@1MHz, 1206, MLCC"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1d3cdc21-f1ca-402b-aa87-525fb46ac900")
@@ -55962,7 +55962,7 @@
 		(descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
 		(tags "resistor 0603")
 		(property "Reference" "R78"
-			(at 0.013352 -1.260078 360)
+			(at 0.013352 -1.260078 0)
 			(layer "F.SilkS")
 			(uuid "a76bbaa2-f345-45dc-9e3d-03177edbf871")
 			(effects
@@ -55973,7 +55973,7 @@
 			)
 		)
 		(property "Value" "33k_0603"
-			(at 0 1.45 360)
+			(at 0 1.45 0)
 			(layer "F.Fab")
 			(uuid "5d130bc4-5bc1-4193-baed-dd7a1d8b5f9e")
 			(effects
@@ -56020,7 +56020,7 @@
 			)
 		)
 		(property "Display" "33k"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4d538312-84c6-4219-86d5-af4e30fc551f")
@@ -56032,7 +56032,7 @@
 			)
 		)
 		(property "JLCPCB ID" "C126359"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "da26ff08-dce3-47ba-b5ec-e451eadef44f")
@@ -56044,7 +56044,7 @@
 			)
 		)
 		(property "Manufacturer" "Yageo"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d3d8f4fd-5ba4-4d2f-8d0a-2e65a90d4df7")
@@ -56056,7 +56056,7 @@
 			)
 		)
 		(property "Part Number" "RC0603FR-0733KL"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ef6c9e20-e2c3-4fb4-bb33-662835c3c43c")
@@ -56068,7 +56068,7 @@
 			)
 		)
 		(property "Production Stage" "A"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e874c74f-db56-412f-a09f-482ddb4f2b60")
@@ -56080,7 +56080,7 @@
 			)
 		)
 		(property "Specifications" "33k, 1%, 1/10W, 0603"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5fad4a65-9ea1-49ca-84af-cd7323c93f10")
@@ -60695,7 +60695,7 @@
 		(descr "https://www.yamaichi.de/uploads/media/PJS008U-3000.pdf")
 		(tags "MicroSD SDCard")
 		(property "Reference" "SD1"
-			(at 7.709922 -3.023352 360)
+			(at 7.709922 -3.023352 0)
 			(layer "B.SilkS")
 			(uuid "f7c62e8b-f7bb-4447-9e3c-1192dff61eff")
 			(effects
@@ -60707,7 +60707,7 @@
 			)
 		)
 		(property "Value" "microSDCon_Vert_TH_PJS008U-3000"
-			(at 0.65 -3.72 270)
+			(at 0.65 -3.72 -90)
 			(layer "B.Fab")
 			(uuid "96554ccb-cfa3-4b19-afc1-5839727e88c3")
 			(effects
@@ -60755,7 +60755,7 @@
 			)
 		)
 		(property "Manufacturer" "Yamaichi"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "601707ed-39c9-416e-a4d0-e4629f91bc18")
@@ -60768,7 +60768,7 @@
 			)
 		)
 		(property "Part Number" "PJS008U-3000-0"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "69b7f367-9da9-4d1e-a90d-c270f1d5e27b")
@@ -60781,7 +60781,7 @@
 			)
 		)
 		(property "Production Stage" "AB"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "4a011844-0594-43ec-8a2a-7d3c915afb31")
@@ -60794,7 +60794,7 @@
 			)
 		)
 		(property "Specifications" "MicroSD Card Conn Ver Dip Mnt"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "1e9fcb53-e600-4340-b1c6-734159db571c")
@@ -67800,7 +67800,7 @@
 		(layer "Edge.Cuts")
 		(uuid "a36c78a6-e873-4fde-bac1-177480af1e15")
 	)
-	(gr_text "4ms Sampler\nv1.1-rc1"
+	(gr_text "4ms Sampler\nv1.1-rc2"
 		(at 185.45 35.43 0)
 		(layer "F.SilkS")
 		(uuid "111db1f7-ee25-4712-ba9a-22c72c0c115c")
@@ -67813,7 +67813,7 @@
 				(italic yes)
 			)
 		)
-		(render_cache "4ms Sampler\nv1.1-rc1" 0
+		(render_cache "4ms Sampler\nv1.1-rc2" 0
 			(polygon
 				(pts
 					(xy 180.519616 34.413538) (xy 180.668213 34.413538) (xy 180.605785 34.713663) (xy 180.457188 34.713663)
@@ -68075,12 +68075,25 @@
 			)
 			(polygon
 				(pts
-					(xy 189.115401 35.697981) (xy 188.858067 36.936) (xy 188.506651 36.936) (xy 188.670196 36.149049)
-					(xy 188.617503 36.182961) (xy 188.562594 36.214171) (xy 188.510754 36.2402) (xy 188.453029 36.265228)
-					(xy 188.392266 36.287948) (xy 188.331248 36.3083) (xy 188.289763 36.321094) (xy 188.352778 36.018916)
-					(xy 188.418593 35.997443) (xy 188.479091 35.974568) (xy 188.534272 35.950292) (xy 188.59193 35.920198)
-					(xy 188.642352 35.888198) (xy 188.694137 35.847953) (xy 188.742223 35.802835) (xy 188.786608 35.752844)
-					(xy 188.822409 35.705106) (xy 188.827293 35.697981)
+					(xy 189.075248 36.936) (xy 188.069358 36.936) (xy 188.091216 36.875202) (xy 188.117443 36.816569)
+					(xy 188.148039 36.7601) (xy 188.183004 36.705795) (xy 188.222338 36.653653) (xy 188.23642 36.636753)
+					(xy 188.276209 36.593682) (xy 188.32377 36.548551) (xy 188.379101 36.501359) (xy 188.42896 36.462121)
+					(xy 188.483794 36.421565) (xy 188.5436 36.379689) (xy 188.60838 36.336495) (xy 188.625353 36.32549)
+					(xy 188.683412 36.287128) (xy 188.733393 36.252497) (xy 188.781495 36.216807) (xy 188.827183 36.178381)
+					(xy 188.841654 36.163997) (xy 188.878223 36.117642) (xy 188.902324 36.062001) (xy 188.899006 36.002784)
+					(xy 188.883566 35.977004) (xy 188.830924 35.945268) (xy 188.79857 35.941833) (xy 188.739076 35.953)
+					(xy 188.692764 35.981401) (xy 188.654039 36.029318) (xy 188.626131 36.085621) (xy 188.609526 36.129998)
+					(xy 188.266902 36.100396) (xy 188.287472 36.04506) (xy 188.312903 35.987039) (xy 188.343856 35.92935)
+					(xy 188.376825 35.880858) (xy 188.389707 35.865043) (xy 188.431562 35.822532) (xy 188.478981 35.786002)
+					(xy 188.531964 35.755453) (xy 188.563803 35.741066) (xy 188.620077 35.722216) (xy 188.684264 35.708752)
+					(xy 188.746919 35.701389) (xy 188.815633 35.69815) (xy 188.836378 35.697981) (xy 188.899137 35.699424)
+					(xy 188.964853 35.704753) (xy 189.030066 35.715653) (xy 189.090818 35.734045) (xy 189.102505 35.739014)
+					(xy 189.154254 35.768798) (xy 189.199542 35.811545) (xy 189.232638 35.86475) (xy 189.252435 35.925575)
+					(xy 189.257931 35.985018) (xy 189.251519 36.04841) (xy 189.250223 36.054967) (xy 189.232426 36.116309)
+					(xy 189.204752 36.176028) (xy 189.171862 36.22775) (xy 189.142073 36.265699) (xy 189.09974 36.310437)
+					(xy 189.055261 36.35019) (xy 189.003219 36.391241) (xy 188.954073 36.426442) (xy 188.899675 36.462544)
+					(xy 188.864515 36.484639) (xy 188.812455 36.516476) (xy 188.760465 36.548956) (xy 188.712108 36.580773)
+					(xy 188.663217 36.616801) (xy 188.639421 36.635874) (xy 189.137676 36.635874)
 				)
 			)
 		)
