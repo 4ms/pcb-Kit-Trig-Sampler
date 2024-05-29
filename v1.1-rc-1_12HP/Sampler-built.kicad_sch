@@ -10737,6 +10737,11 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 8e4b35e8-1f5f-4bed-9ee4-d29ed673cdfc)
   )
+  (text "TODO for v1.1rc2:\n- SD Card is rotated 180 degrees (compared to STS and kit Sampler)\n- Pot and CV ADC pins are not the same as kit version (swapped Length and Start Pos pots?\nswapped Bank and Sample CV??)\n- Left and Right outputs are swapped on kit version, so we should do the same here\n- Pressing REV shorts it out?"
+    (at 582.93 278.13 0)
+    (effects (font (size 4 4)) (justify left bottom))
+    (uuid 8fc9c12a-eb29-4453-9c7e-d59f824b0516)
+  )
   (text "Buttons/Switches" (at 725.17 44.45 0)
     (effects (font (size 5.08 5.08) (thickness 1.016) bold italic) (justify left bottom))
     (uuid 9078fad0-2b57-45e9-994d-a89026911796)
