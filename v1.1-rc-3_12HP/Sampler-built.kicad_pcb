@@ -19052,7 +19052,7 @@
 		(descr "Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)")
 		(tags "capacitor 0603 C0603")
 		(property "Reference" "C39"
-			(at -0.079922 -1.856648 180)
+			(at 0.070078 -1.391863 -90)
 			(layer "F.SilkS")
 			(uuid "641007be-8c8f-440b-a1b4-f8ffc3ef6427")
 			(effects
@@ -63237,7 +63237,7 @@
 		(uuid "128c2fce-3f5e-4006-ae4a-5c272c1e0d82")
 		(at 48.18 5.596 180)
 		(property "Reference" "Bank_But1"
-			(at -0.031352 5.190078 0)
+			(at 1.526648 4.656078 0)
 			(layer "B.SilkS")
 			(uuid "223706d6-c462-4f4c-b2cd-9b1c020e5f96")
 			(effects
@@ -66530,7 +66530,7 @@
 		(uuid "3b91ec12-5738-4029-8ebf-c0256f09bb0e")
 		(at 11.24 5.596 180)
 		(property "Reference" "REV_BUT1"
-			(at -0.393352 5.160078 0)
+			(at 1.316648 4.366078 0)
 			(layer "B.SilkS")
 			(uuid "8ca3bdb2-f0ff-4476-987f-136e3a80129a")
 			(effects
@@ -70378,8 +70378,9 @@
 			)
 		)
 		(property "Value" "16mm_NoDet_10k"
-			(at 2.58 -4.93 0)
+			(at 8.156648 6.836078 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "360064fe-e4a9-4b40-b832-f4ecdffda4f8")
 			(effects
 				(font
