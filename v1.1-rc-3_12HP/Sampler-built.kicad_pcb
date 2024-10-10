@@ -95,8 +95,8 @@
 		)
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
-		(aux_axis_origin 135.65 125.53)
-		(grid_origin 56.993352 105.149922)
+		(aux_axis_origin 59 109)
+		(grid_origin 59 109)
 		(pcbplotparams
 			(layerselection 0x00010f8_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
