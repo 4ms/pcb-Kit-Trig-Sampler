@@ -31640,19 +31640,6 @@
 		)
 		(uuid "1ec21a14-e9e8-4221-a230-25f2e13409f1")
 	)
-	(text "TODO: Use single op-amps for pots"
-		(exclude_from_sim no)
-		(at 953.77 41.91 0)
-		(effects
-			(font
-				(size 2 2)
-				(thickness 0.4)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "227307da-6187-42b8-b0e2-728055d419c0")
-	)
 	(text "Play_But_G"
 		(exclude_from_sim no)
 		(at 702.31 124.46 0)
@@ -31866,7 +31853,7 @@
 		)
 		(uuid "8e4b35e8-1f5f-4bed-9ee4-d29ed673cdfc")
 	)
-	(text "TODO for v1.1rc4:\n[X] Swap Left and Right output jacks (done on the PCB side)\n[ ] Wait for Dan's response if the pots need to have each their own single op amp\n	There is a note in the pot section about this but it may be left over from earlier\n	protos"
+	(text "TODO for v1.1rc4:\n[X] Swap Left and Right output jacks (done on the PCB side)"
 		(exclude_from_sim no)
 		(at 377.698 797.052 0)
 		(effects
