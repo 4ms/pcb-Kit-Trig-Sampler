@@ -31866,7 +31866,7 @@
 		)
 		(uuid "8e4b35e8-1f5f-4bed-9ee4-d29ed673cdfc")
 	)
-	(text "TODO for v1.1rc4:\n[X] Swap Left and Right output jacks (done on the PCB side)"
+	(text "TODO for v1.1rc4:\n[X] Swap Left and Right output jacks (done on the PCB side)\n[ ] Wait for Dan's response if the pots need to have each their own single op amp\n	There is a note in the pot section about this but it may be left over from earlier\n	protos"
 		(exclude_from_sim no)
 		(at 377.698 797.052 0)
 		(effects
