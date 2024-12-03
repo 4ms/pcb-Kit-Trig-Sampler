@@ -31866,20 +31866,6 @@
 		)
 		(uuid "8e4b35e8-1f5f-4bed-9ee4-d29ed673cdfc")
 	)
-	(text "TODO for v1.1rc2:\n[x] SD Card is rotated 180 degrees (compared to STS and kit Sampler)\n[x] Pot and CV ADC pins are not the same as kit version (swapped Length and Start Pos pots?\nswapped Bank and Sample CV??) - SWAP LENGTH AND START POTS. SWAP BANK AND SAMP\n[x] Left and Right outputs are swapped on kit version, so we should do the same here\n[x] Pressing REV shorts it out?\n[X] Add soft start to +/-12V\n[X] Add solder jumpers between +12v and all regulators/references"
-		(exclude_from_sim no)
-		(at 377.698 797.052 0)
-		(effects
-			(font
-				(size 10 10)
-				(thickness 2)
-				(bold yes)
-				(italic yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "8fc9c12a-eb29-4453-9c7e-d59f824b0516")
-	)
 	(text "Buttons/Switches"
 		(exclude_from_sim no)
 		(at 725.17 44.45 0)
