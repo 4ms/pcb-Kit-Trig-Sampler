@@ -34511,7 +34511,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 962.66 66.04 0)
 			(effects
 				(font
@@ -34529,7 +34529,7 @@
 				(justify left)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 962.66 66.04 0)
 			(effects
 				(font
@@ -34547,7 +34547,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 962.66 66.04 0)
 			(effects
 				(font
@@ -34556,7 +34556,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 962.66 66.04 0)
 			(effects
 				(font
@@ -34575,17 +34575,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 963.93 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 970.28 82.55 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 963.93 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35625,7 +35616,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 410.21 306.07 0)
 			(effects
 				(font
@@ -35634,7 +35625,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 407.67 313.944 0)
 			(effects
 				(font
@@ -35663,7 +35654,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 407.67 316.992 0)
 			(effects
 				(font
@@ -35673,26 +35664,8 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 411.48 318.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 2" "Yageo"
-			(at 411.48 320.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 417.83 322.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35707,6 +35680,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 411.48 318.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -37571,7 +37553,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 961.39 168.91 0)
 			(effects
 				(font
@@ -37589,7 +37571,7 @@
 				(justify left)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 961.39 168.91 0)
 			(effects
 				(font
@@ -37607,7 +37589,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 961.39 168.91 0)
 			(effects
 				(font
@@ -37616,7 +37598,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 961.39 168.91 0)
 			(effects
 				(font
@@ -37635,17 +37617,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 962.66 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 969.01 185.42 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 962.66 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37997,7 +37970,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 78.74 368.3 0)
 			(effects
 				(font
@@ -38006,7 +37979,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 70.866 365.76 0)
 			(effects
 				(font
@@ -38034,7 +38007,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 67.818 365.76 0)
 			(effects
 				(font
@@ -38044,26 +38017,8 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 66.04 369.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 2" "Yageo"
-			(at 64.77 369.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 62.23 375.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38078,6 +38033,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 66.04 369.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -38149,7 +38113,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 182.88 662.94 0)
 			(effects
 				(font
@@ -39435,7 +39399,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 224.79 662.94 0)
 			(effects
 				(font
@@ -40794,7 +40758,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 279.4 690.88 0)
 			(effects
 				(font
@@ -41135,7 +41099,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 172.72 45.72 0)
 			(effects
 				(font
@@ -41144,7 +41108,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 175.26 37.846 0)
 			(effects
 				(font
@@ -41164,7 +41128,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 175.26 34.798 0)
 			(effects
 				(font
@@ -41183,26 +41147,8 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 171.45 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 2" "Yageo"
-			(at 171.45 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 165.1 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41217,6 +41163,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 171.45 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -42412,7 +42367,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 473.71 88.9 0)
 			(effects
 				(font
@@ -42421,7 +42376,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 471.17 96.774 0)
 			(effects
 				(font
@@ -42441,7 +42396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 471.17 99.822 0)
 			(effects
 				(font
@@ -42460,7 +42415,7 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 474.98 101.6 0)
 			(effects
 				(font
@@ -42479,17 +42434,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 474.98 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 481.33 105.41 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 474.98 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43055,7 +43001,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 240.03 690.88 0)
 			(effects
 				(font
@@ -43796,7 +43742,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 478.79 156.21 0)
 			(effects
 				(font
@@ -43805,7 +43751,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 476.25 164.084 0)
 			(effects
 				(font
@@ -43825,7 +43771,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 476.25 167.132 0)
 			(effects
 				(font
@@ -43844,7 +43790,7 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 480.06 168.91 0)
 			(effects
 				(font
@@ -43863,17 +43809,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 480.06 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 486.41 172.72 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 480.06 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44180,7 +44117,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 154.94 391.16 0)
 			(effects
 				(font
@@ -44189,7 +44126,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 154.94 391.16 0)
 			(effects
 				(font
@@ -44216,7 +44153,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 154.94 391.16 0)
 			(effects
 				(font
@@ -44225,7 +44162,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 154.94 391.16 0)
 			(effects
 				(font
@@ -44244,17 +44181,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 156.21 405.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 162.56 407.67 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 156.21 403.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45178,7 +45106,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 265.43 632.46 0)
 			(effects
 				(font
@@ -45458,7 +45386,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 81.28 762 0)
 			(effects
 				(font
@@ -45476,7 +45404,7 @@
 				(justify right)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 81.28 762 0)
 			(effects
 				(font
@@ -45494,7 +45422,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 81.28 762 0)
 			(effects
 				(font
@@ -45503,7 +45431,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 81.28 762 0)
 			(effects
 				(font
@@ -45522,17 +45450,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 82.55 748.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 88.9 745.49 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 82.55 749.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45602,7 +45521,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 444.5 306.07 0)
 			(effects
 				(font
@@ -45611,7 +45530,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 441.96 313.944 0)
 			(effects
 				(font
@@ -45640,7 +45559,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 441.96 316.992 0)
 			(effects
 				(font
@@ -45650,26 +45569,8 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 445.77 318.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 2" "Yageo"
-			(at 445.77 320.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 452.12 322.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45684,6 +45585,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 445.77 318.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -48382,7 +48292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 200.66 632.46 0)
 			(effects
 				(font
@@ -49469,7 +49379,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 455.93 88.9 0)
 			(effects
 				(font
@@ -49478,7 +49388,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 453.39 96.774 0)
 			(effects
 				(font
@@ -49498,7 +49408,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 453.39 99.822 0)
 			(effects
 				(font
@@ -49517,7 +49427,7 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 457.2 101.6 0)
 			(effects
 				(font
@@ -49536,17 +49446,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 457.2 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 463.55 105.41 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 457.2 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49771,7 +49672,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 224.79 632.46 0)
 			(effects
 				(font
@@ -49915,7 +49816,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 81.28 749.3 0)
 			(effects
 				(font
@@ -49933,7 +49834,7 @@
 				(justify left)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 81.28 749.3 0)
 			(effects
 				(font
@@ -49951,7 +49852,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 81.28 749.3 0)
 			(effects
 				(font
@@ -49960,7 +49861,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 81.28 749.3 0)
 			(effects
 				(font
@@ -49979,17 +49880,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 82.55 763.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 88.9 765.81 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 82.55 762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -50550,7 +50442,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 768.35 119.38 0)
 			(effects
 				(font
@@ -50568,7 +50460,7 @@
 				(justify left)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 768.35 119.38 0)
 			(effects
 				(font
@@ -50586,7 +50478,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 768.35 119.38 0)
 			(effects
 				(font
@@ -50595,7 +50487,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 768.35 119.38 0)
 			(effects
 				(font
@@ -50614,17 +50506,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 769.62 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 775.97 135.89 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 769.62 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51377,7 +51260,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 107.95 741.68 0)
 			(effects
 				(font
@@ -51396,7 +51279,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 110.49 733.806 0)
 			(effects
 				(font
@@ -51406,7 +51289,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 110.49 730.758 0)
 			(effects
 				(font
@@ -51425,7 +51308,7 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 106.68 728.98 0)
 			(effects
 				(font
@@ -51444,17 +51327,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 106.68 727.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 100.33 725.17 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 106.68 728.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51725,7 +51599,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 509.27 88.9 0)
 			(effects
 				(font
@@ -51734,7 +51608,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 506.73 96.774 0)
 			(effects
 				(font
@@ -51754,7 +51628,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 506.73 99.822 0)
 			(effects
 				(font
@@ -51773,7 +51647,7 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 510.54 101.6 0)
 			(effects
 				(font
@@ -51792,17 +51666,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 510.54 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 516.89 105.41 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 510.54 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52166,7 +52031,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 436.88 306.07 0)
 			(effects
 				(font
@@ -52175,7 +52040,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 434.34 313.944 0)
 			(effects
 				(font
@@ -52204,7 +52069,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 434.34 316.992 0)
 			(effects
 				(font
@@ -52214,26 +52079,8 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 438.15 318.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 2" "Yageo"
-			(at 438.15 320.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 444.5 322.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52248,6 +52095,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 438.15 318.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -52809,7 +52665,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 452.12 306.07 0)
 			(effects
 				(font
@@ -52818,7 +52674,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 449.58 313.944 0)
 			(effects
 				(font
@@ -52847,7 +52703,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 449.58 316.992 0)
 			(effects
 				(font
@@ -52857,26 +52713,8 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 453.39 318.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 2" "Yageo"
-			(at 453.39 320.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 459.74 322.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52891,6 +52729,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 453.39 318.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -56030,7 +55877,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 464.82 165.1 0)
 			(effects
 				(font
@@ -56039,7 +55886,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 462.28 172.974 0)
 			(effects
 				(font
@@ -56059,7 +55906,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 462.28 176.022 0)
 			(effects
 				(font
@@ -56078,7 +55925,7 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 466.09 177.8 0)
 			(effects
 				(font
@@ -56097,17 +55944,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 466.09 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 472.44 181.61 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 466.09 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56195,7 +56033,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 452.12 166.37 0)
 			(effects
 				(font
@@ -56204,7 +56042,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 449.58 174.244 0)
 			(effects
 				(font
@@ -56224,7 +56062,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 449.58 177.292 0)
 			(effects
 				(font
@@ -56243,7 +56081,7 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 453.39 179.07 0)
 			(effects
 				(font
@@ -56262,17 +56100,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 453.39 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 459.74 182.88 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 453.39 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -58223,7 +58052,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 721.36 579.12 0)
 			(effects
 				(font
@@ -58240,7 +58069,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 721.36 579.12 0)
 			(effects
 				(font
@@ -58258,7 +58087,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 721.36 579.12 0)
 			(effects
 				(font
@@ -58267,7 +58096,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 721.36 579.12 0)
 			(effects
 				(font
@@ -58286,17 +58115,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 735.33 577.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 737.87 571.5 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 734.06 577.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -58921,7 +58741,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 483.87 88.9 0)
 			(effects
 				(font
@@ -58930,7 +58750,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 481.33 96.774 0)
 			(effects
 				(font
@@ -58950,7 +58770,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 481.33 99.822 0)
 			(effects
 				(font
@@ -58969,7 +58789,7 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 485.14 101.6 0)
 			(effects
 				(font
@@ -58988,17 +58808,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 485.14 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 491.49 105.41 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 485.14 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59152,7 +58963,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 200.66 692.15 0)
 			(effects
 				(font
@@ -59571,7 +59382,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 768.35 73.66 0)
 			(effects
 				(font
@@ -59589,7 +59400,7 @@
 				(justify left)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 768.35 73.66 0)
 			(effects
 				(font
@@ -59607,7 +59418,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 768.35 73.66 0)
 			(effects
 				(font
@@ -59616,7 +59427,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 768.35 73.66 0)
 			(effects
 				(font
@@ -59635,17 +59446,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 769.62 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 775.97 90.17 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 769.62 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -60093,7 +59895,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 543.56 88.9 0)
 			(effects
 				(font
@@ -60102,7 +59904,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 541.02 96.774 0)
 			(effects
 				(font
@@ -60122,7 +59924,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 541.02 99.822 0)
 			(effects
 				(font
@@ -60141,7 +59943,7 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 544.83 101.6 0)
 			(effects
 				(font
@@ -60160,17 +59962,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 544.83 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 551.18 105.41 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 544.83 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -60967,7 +60760,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 961.39 223.52 0)
 			(effects
 				(font
@@ -60985,7 +60778,7 @@
 				(justify left)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 961.39 223.52 0)
 			(effects
 				(font
@@ -61003,7 +60796,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 961.39 223.52 0)
 			(effects
 				(font
@@ -61012,7 +60805,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 961.39 223.52 0)
 			(effects
 				(font
@@ -61031,17 +60824,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 962.66 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 969.01 240.03 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 962.66 236.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -62339,7 +62123,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 182.88 632.46 0)
 			(effects
 				(font
@@ -62612,7 +62396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 107.95 768.35 0)
 			(effects
 				(font
@@ -62631,7 +62415,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 110.49 776.224 0)
 			(effects
 				(font
@@ -62641,7 +62425,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 110.49 779.272 0)
 			(effects
 				(font
@@ -62660,7 +62444,7 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 106.68 781.05 0)
 			(effects
 				(font
@@ -62679,17 +62463,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 106.68 782.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 100.33 784.86 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 106.68 781.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -63903,7 +63678,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 516.89 88.9 0)
 			(effects
 				(font
@@ -63912,7 +63687,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 514.35 96.774 0)
 			(effects
 				(font
@@ -63932,7 +63707,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 514.35 99.822 0)
 			(effects
 				(font
@@ -63951,7 +63726,7 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 518.16 101.6 0)
 			(effects
 				(font
@@ -63970,17 +63745,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 518.16 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 524.51 105.41 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 518.16 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64881,7 +64647,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 500.38 88.9 0)
 			(effects
 				(font
@@ -64890,7 +64656,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 497.84 96.774 0)
 			(effects
 				(font
@@ -64910,7 +64676,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 497.84 99.822 0)
 			(effects
 				(font
@@ -64929,7 +64695,7 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 501.65 101.6 0)
 			(effects
 				(font
@@ -64948,17 +64714,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 501.65 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 508 105.41 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 501.65 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65246,7 +65003,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 200.66 662.94 0)
 			(effects
 				(font
@@ -65972,7 +65729,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 265.43 662.94 0)
 			(effects
 				(font
@@ -66369,7 +66126,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 130.81 391.16 0)
 			(effects
 				(font
@@ -67315,7 +67072,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 242.57 632.46 0)
 			(effects
 				(font
@@ -67876,7 +67633,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 300.99 662.94 0)
 			(effects
 				(font
@@ -68588,7 +68345,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 464.82 88.9 0)
 			(effects
 				(font
@@ -68597,7 +68354,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 462.28 96.774 0)
 			(effects
 				(font
@@ -68617,7 +68374,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 462.28 99.822 0)
 			(effects
 				(font
@@ -68636,7 +68393,7 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 466.09 101.6 0)
 			(effects
 				(font
@@ -68655,17 +68412,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 466.09 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 472.44 105.41 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 466.09 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69152,7 +68900,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 768.35 161.29 0)
 			(effects
 				(font
@@ -69161,7 +68909,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 768.35 161.29 0)
 			(effects
 				(font
@@ -69188,7 +68936,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 768.35 161.29 0)
 			(effects
 				(font
@@ -69197,7 +68945,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 768.35 161.29 0)
 			(effects
 				(font
@@ -69216,17 +68964,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 769.62 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 775.97 177.8 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 769.62 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -70110,7 +69849,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 491.49 88.9 0)
 			(effects
 				(font
@@ -70119,7 +69858,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 488.95 96.774 0)
 			(effects
 				(font
@@ -70139,7 +69878,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 488.95 99.822 0)
 			(effects
 				(font
@@ -70158,7 +69897,7 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 492.76 101.6 0)
 			(effects
 				(font
@@ -70177,17 +69916,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 492.76 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 499.11 105.41 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 492.76 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -70981,7 +70711,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 242.57 662.94 0)
 			(effects
 				(font
@@ -71478,7 +71208,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 283.21 632.46 0)
 			(effects
 				(font
@@ -71898,7 +71628,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 260.35 690.88 0)
 			(effects
 				(font
@@ -72665,7 +72395,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 461.01 306.07 0)
 			(effects
 				(font
@@ -72674,7 +72404,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 458.47 313.944 0)
 			(effects
 				(font
@@ -72703,7 +72433,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 458.47 316.992 0)
 			(effects
 				(font
@@ -72713,26 +72443,8 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 462.28 318.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 2" "Yageo"
-			(at 462.28 320.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 468.63 322.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72747,6 +72459,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 462.28 318.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -73772,7 +73493,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 220.98 690.88 0)
 			(effects
 				(font
@@ -73909,7 +73630,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 525.78 88.9 0)
 			(effects
 				(font
@@ -73918,7 +73639,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 523.24 96.774 0)
 			(effects
 				(font
@@ -73938,7 +73659,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 523.24 99.822 0)
 			(effects
 				(font
@@ -73957,7 +73678,7 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 527.05 101.6 0)
 			(effects
 				(font
@@ -73976,17 +73697,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 527.05 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 533.4 105.41 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 527.05 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -74489,7 +74201,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 78.74 626.11 0)
 			(effects
 				(font
@@ -74498,7 +74210,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 78.74 626.11 0)
 			(effects
 				(font
@@ -74524,7 +74236,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 78.74 626.11 0)
 			(effects
 				(font
@@ -74533,7 +74245,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 78.74 626.11 0)
 			(effects
 				(font
@@ -74552,17 +74264,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 92.71 624.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 95.25 618.49 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 91.44 624.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -79542,7 +79245,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 961.39 115.57 0)
 			(effects
 				(font
@@ -79560,7 +79263,7 @@
 				(justify left)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 961.39 115.57 0)
 			(effects
 				(font
@@ -79578,7 +79281,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 961.39 115.57 0)
 			(effects
 				(font
@@ -79587,7 +79290,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 961.39 115.57 0)
 			(effects
 				(font
@@ -79606,17 +79309,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 962.66 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 969.01 132.08 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 962.66 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -79770,7 +79464,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 283.21 662.94 0)
 			(effects
 				(font
@@ -80052,7 +79746,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 318.77 662.94 0)
 			(effects
 				(font
@@ -81471,7 +81165,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 182.88 692.15 0)
 			(effects
 				(font
@@ -82141,7 +81835,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 552.45 88.9 0)
 			(effects
 				(font
@@ -82150,7 +81844,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 549.91 96.774 0)
 			(effects
 				(font
@@ -82170,7 +81864,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 549.91 99.822 0)
 			(effects
 				(font
@@ -82189,7 +81883,7 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 553.72 101.6 0)
 			(effects
 				(font
@@ -82208,17 +81902,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 553.72 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 560.07 105.41 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 553.72 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -82705,7 +82390,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 417.83 306.07 0)
 			(effects
 				(font
@@ -82714,7 +82399,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 415.29 313.944 0)
 			(effects
 				(font
@@ -82743,7 +82428,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 415.29 316.992 0)
 			(effects
 				(font
@@ -82753,26 +82438,8 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 419.1 318.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 2" "Yageo"
-			(at 419.1 320.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 425.45 322.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -82787,6 +82454,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 419.1 318.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -83484,7 +83160,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 534.67 88.9 0)
 			(effects
 				(font
@@ -83493,7 +83169,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 532.13 96.774 0)
 			(effects
 				(font
@@ -83513,7 +83189,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 532.13 99.822 0)
 			(effects
 				(font
@@ -83532,7 +83208,7 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 535.94 101.6 0)
 			(effects
 				(font
@@ -83551,17 +83227,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
-			(at 535.94 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 542.29 105.41 0)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 535.94 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84605,7 +84272,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 427.99 306.07 0)
 			(effects
 				(font
@@ -84614,7 +84281,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 425.45 313.944 0)
 			(effects
 				(font
@@ -84643,7 +84310,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 425.45 316.992 0)
 			(effects
 				(font
@@ -84653,26 +84320,8 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 429.26 318.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer 2" "Yageo"
-			(at 429.26 320.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 435.61 322.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84687,6 +84336,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 429.26 318.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)

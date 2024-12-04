@@ -791,7 +791,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1381,7 +1381,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1394,7 +1394,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1420,7 +1420,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1446,7 +1446,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1472,25 +1472,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "65832a9b-4e1e-4435-8e4a-57b80414c14f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0b417bdc-5465-4edf-8179-cf41df650f35")
+			(uuid "6ca7e6ee-cd69-494b-9aa0-b7bd0951775d")
 			(effects
 				(font
 					(size 1 1)
@@ -3631,7 +3618,7 @@
 				)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3643,7 +3630,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3682,7 +3669,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3695,7 +3682,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3721,25 +3708,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "933c39a7-c865-476f-a951-254d4ab42ed5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4acff036-f377-4143-86f7-cfa20179cc94")
+			(uuid "b67d9875-be3a-4be2-ac1f-f890d927ebf8")
 			(effects
 				(font
 					(size 1 1)
@@ -4234,7 +4208,7 @@
 				)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -4259,7 +4233,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4285,7 +4259,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4298,7 +4272,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4324,25 +4298,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "607962b1-c544-423f-a3b7-36140cb7b7cf")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ea262822-f4fc-41cb-86cf-4d0bd88a61ae")
+			(uuid "5e6bab56-0c65-464b-97b0-482acc822f5c")
 			(effects
 				(font
 					(size 1 1)
@@ -4546,7 +4507,7 @@
 				)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4571,7 +4532,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4597,7 +4558,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4610,7 +4571,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4636,25 +4597,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cc38de81-5376-46df-bb38-27119b1fd391")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8409cadc-258e-4ecc-a237-40c68707ef17")
+			(uuid "63a79aa7-ec62-4d5c-991b-07dd68fc4315")
 			(effects
 				(font
 					(size 1 1)
@@ -5149,7 +5097,7 @@
 				)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5174,7 +5122,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5200,7 +5148,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5213,7 +5161,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5239,25 +5187,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0d118e76-c741-4899-bdfe-18c2162a87db")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b777f503-f2cd-4aed-9b4b-913e244092bb")
+			(uuid "c774f949-4b7d-4bb6-a494-fe8fd357f9d6")
 			(effects
 				(font
 					(size 1 1)
@@ -5806,7 +5741,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5819,7 +5754,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5845,7 +5780,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5871,7 +5806,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5897,25 +5832,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6edd0b25-db49-4087-b6fb-0983435ccdbc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "68e4e591-db48-4c05-8d81-0a70999e343a")
+			(uuid "e8383afd-8377-4147-8d35-2ba685a7cf41")
 			(effects
 				(font
 					(size 1 1)
@@ -6119,7 +6041,7 @@
 				)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -6144,7 +6066,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6170,7 +6092,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6183,7 +6105,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6209,25 +6131,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4a57ecae-978a-4949-94df-8b85d0e3ed91")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c5c14ee7-edc8-478a-86e3-eb99a1148724")
+			(uuid "8a115240-6773-42ba-a478-1b73f72d12d1")
 			(effects
 				(font
 					(size 1 1)
@@ -7012,7 +6921,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9546,7 +9455,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9559,7 +9468,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9585,7 +9494,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9611,7 +9520,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9637,25 +9546,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "793ef2f6-7c35-4aaa-a2c0-76d9ed8e34c4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7d58f2f2-7de4-4841-a431-fb1c31acc5dc")
+			(uuid "16994f7c-47a0-4d8a-a920-a38bcf3a3cff")
 			(effects
 				(font
 					(size 1 1)
@@ -11049,7 +10945,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11062,7 +10958,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11088,7 +10984,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11114,7 +11010,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11140,25 +11036,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0a8c61e9-e69c-467b-9466-f7ee9bb9ae61")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "29fdd1e4-92eb-45a3-a5f5-569db47f3ff0")
+			(uuid "3da815f9-9d85-4ccc-a2d8-2375b4c0ed9d")
 			(effects
 				(font
 					(size 1 1)
@@ -11655,7 +11538,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12872,7 +12755,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14021,7 +13904,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -15674,7 +15557,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16265,7 +16148,7 @@
 				)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16290,7 +16173,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16316,7 +16199,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16329,7 +16212,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16355,25 +16238,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3bc6b130-cfb3-45ba-8297-cd319d8ca9b6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7bc1fc0c-55f3-4ded-ab3b-1e2b6981a0ff")
+			(uuid "15d9c586-5674-47be-886b-bb3b13632a1d")
 			(effects
 				(font
 					(size 1 1)
@@ -18263,7 +18133,7 @@
 				)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -18288,7 +18158,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18314,7 +18184,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18327,7 +18197,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18353,25 +18223,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "810086dd-c8b2-43b8-9e55-32b268f52329")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0b4bd264-cb34-47e1-8b2f-89f957e667aa")
+			(uuid "577f6154-9b69-4748-8390-f611bb3ed1eb")
 			(effects
 				(font
 					(size 1 1)
@@ -18577,7 +18434,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19485,7 +19342,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19498,7 +19355,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19524,7 +19381,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19550,7 +19407,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19576,25 +19433,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "24424477-0628-462f-84e6-210d13539a01")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b98023da-f05d-40e4-8bcf-31f747983109")
+			(uuid "0df77924-4a55-4dbb-989f-3b9c29012818")
 			(effects
 				(font
 					(size 1 1)
@@ -20090,7 +19934,7 @@
 				)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -20115,7 +19959,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20128,7 +19972,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20154,7 +19998,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20180,25 +20024,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f2ed395c-fd0f-45a5-bc78-daeebde87a4a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f486858c-7135-4db8-8457-dffac616985a")
+			(uuid "197f71dd-6d57-4d43-9526-fe77008d3318")
 			(effects
 				(font
 					(size 1 1)
@@ -20402,7 +20233,7 @@
 				)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 -90)
 			(layer "F.Fab")
 			(hide yes)
@@ -20414,7 +20245,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20453,7 +20284,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20466,7 +20297,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20492,25 +20323,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bdea7432-0d86-4541-9fd7-8272a916bc27")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3c4594a1-b8da-4dfc-8fe6-ccc2e61a3864")
+			(uuid "3b37c54e-d80f-4f03-a598-643893892d76")
 			(effects
 				(font
 					(size 1 1)
@@ -20714,7 +20532,7 @@
 				)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20739,7 +20557,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20765,7 +20583,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20778,7 +20596,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20804,25 +20622,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0dd98ac9-c945-4c01-8a41-e6deac193fe0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c62b9e14-e1b2-4db2-ab6c-6fd16571845d")
+			(uuid "69d65798-e418-45f0-811a-8393e042a9e6")
 			(effects
 				(font
 					(size 1 1)
@@ -20983,7 +20788,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R29"
-			(at 0.16 -1.06 360)
+			(at 0.16 -1.06 0)
 			(layer "F.SilkS")
 			(uuid "f9195fc3-54b2-4da4-b238-f70d5ed41228")
 			(effects
@@ -20994,7 +20799,7 @@
 			)
 		)
 		(property "Value" "20k_0402"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "7fff7102-5aad-47be-9f6f-f2f97722766d")
 			(effects
@@ -21005,7 +20810,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Resistor:R_0402"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c1711441-2aa2-45c9-b676-7eb724727f61")
@@ -21017,7 +20822,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9b35788e-8b29-4f13-9eaa-2ee7e8178d2c")
@@ -21029,7 +20834,7 @@
 			)
 		)
 		(property "Description" "20k, 1%, 1/16W, 0402"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "45c0d505-18e2-468d-9f25-b78e3e30f2c5")
@@ -21224,7 +21029,7 @@
 			(uuid "08ede20f-0e86-4bf2-9a36-778df9124194")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0.6985 -0.8255 360)
+			(at 0.6985 -0.8255 0)
 			(layer "F.Fab")
 			(uuid "c2994bd3-0b58-452c-b402-2a4639cad57e")
 			(effects
@@ -23318,7 +23123,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23938,7 +23743,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23951,7 +23756,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23977,7 +23782,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24003,7 +23808,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24029,25 +23834,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5b6923f7-5cbf-4710-92b2-02a4b9b1a614")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bbe9a1c8-2889-4418-b39b-4fa05761962c")
+			(uuid "2e211bea-a2e1-440a-8383-5c5644e180d4")
 			(effects
 				(font
 					(size 1 1)
@@ -24541,7 +24333,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -24843,7 +24635,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25143,7 +24935,7 @@
 				)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -25168,7 +24960,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25194,7 +24986,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25207,7 +24999,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25233,25 +25025,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1fd3fad5-5c9a-412a-8da7-b61692ce7780")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c1f9286e-d2d9-47bc-867a-c087a23c2826")
+			(uuid "81dc7931-2741-4772-b157-545ae697f7ba")
 			(effects
 				(font
 					(size 1 1)
@@ -31860,7 +31639,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31873,7 +31652,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31899,7 +31678,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31925,7 +31704,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31951,25 +31730,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "781d084e-bf10-4ba9-936c-14e6538c4578")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8398dad5-66f4-4ba8-a673-9c2d99213f75")
+			(uuid "ca199da6-8961-43a6-8d68-31fcc4fbfad0")
 			(effects
 				(font
 					(size 1 1)
@@ -32175,7 +31941,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -32836,7 +32602,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33950,7 +33716,7 @@
 				)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -33962,7 +33728,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34001,7 +33767,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34014,7 +33780,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34040,25 +33806,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e13109db-41a1-48c3-a088-c662c10e1643")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5e507a48-6e84-453f-8182-814ad0510fe4")
+			(uuid "0054d49b-6fc0-48ce-936c-8a9d43ba8f4a")
 			(effects
 				(font
 					(size 1 1)
@@ -34264,7 +34017,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34277,7 +34030,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34303,7 +34056,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34329,7 +34082,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34355,25 +34108,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3f59a034-9cb3-4915-a40e-d7005c87cdc5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b8296cbf-ad93-46e7-bec3-e16ecba587f9")
+			(uuid "4e80f12e-a7bc-4945-b91a-c21fcb7e8b13")
 			(effects
 				(font
 					(size 1 1)
@@ -34579,7 +34319,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34592,7 +34332,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34631,7 +34371,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34644,38 +34384,12 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "016add6a-3916-4047-8c0d-931c3286d292")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer 2" "Yageo"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "978775da-c3f0-4c52-b780-9b0b4358e1c1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c0c59b57-34b9-41d7-b64f-24665b233144")
 			(effects
 				(font
 					(size 1 1)
@@ -34689,6 +34403,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d31801f6-ba5e-4e04-8df1-c633e58ab2dc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "284ddf5f-2091-4cec-9eab-c003ade342a4")
 			(effects
 				(font
 					(size 1 1)
@@ -36102,7 +35829,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36115,7 +35842,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36141,7 +35868,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36167,7 +35894,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36193,25 +35920,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "37e20e23-b683-4da1-b861-48aca9b0251f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "907175e5-2ad1-4c2c-9895-1580a3b1d1eb")
+			(uuid "ca208695-9e9b-4f78-abe2-bfc2a941b9da")
 			(effects
 				(font
 					(size 1 1)
@@ -36703,7 +36417,7 @@
 				)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -36728,7 +36442,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36754,7 +36468,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36767,7 +36481,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -36793,25 +36507,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "15ca738c-f151-4cdc-8ecb-96768abe6932")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4da58ac2-c6bf-4ff1-83ba-d1a547fbd12b")
+			(uuid "0de9c661-b8d1-46c0-901e-df26746564f9")
 			(effects
 				(font
 					(size 1 1)
@@ -37017,7 +36718,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37030,7 +36731,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37056,7 +36757,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37082,7 +36783,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37108,25 +36809,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9f7db00b-462d-4b62-a0da-58b400a5dbc4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d1033f13-c8ed-4555-bcac-1c23a361f859")
+			(uuid "bd4058db-d9d3-418d-a561-5cb83a61fbef")
 			(effects
 				(font
 					(size 1 1)
@@ -37578,7 +37266,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R63"
-			(at 0.16 0.94 360)
+			(at 0.16 0.94 0)
 			(layer "F.SilkS")
 			(uuid "b2e573d3-99f8-4f7b-aefc-2cf956c4786f")
 			(effects
@@ -37589,7 +37277,7 @@
 			)
 		)
 		(property "Value" "1k_0402"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "567e08c3-f1af-4c17-8b47-c7d2b074cd29")
 			(effects
@@ -37600,7 +37288,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Resistor:R_0402"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5d6eeb6d-c2be-44dd-b74c-c6cdd85d3699")
@@ -37612,7 +37300,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1a66c63e-917a-44c0-b75d-d6c6d2ea5d91")
@@ -37624,7 +37312,7 @@
 			)
 		)
 		(property "Description" "1k, 1%, 1/16W, 0402"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9a53b625-1d07-4a2d-a268-64462cd1c36a")
@@ -37819,7 +37507,7 @@
 			(uuid "aca760c0-6357-4507-acbe-df547c90fbc5")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0.6985 -0.8255 360)
+			(at 0.6985 -0.8255 0)
 			(layer "F.Fab")
 			(uuid "72d1e883-eb71-44df-8497-ac4d8efb7b82")
 			(effects
@@ -38850,7 +38538,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -39443,7 +39131,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -39456,7 +39144,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -39482,7 +39170,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -39508,7 +39196,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -39534,25 +39222,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e6edc33e-26fe-4bd0-be76-e08746b93ed7")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "07e48235-82ea-4183-a84b-038bb612dffa")
+			(uuid "be9a8bbe-23f5-45eb-af4e-dc1e8e047a17")
 			(effects
 				(font
 					(size 1 1)
@@ -42161,7 +41836,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -42174,7 +41849,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -42200,7 +41875,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -42226,7 +41901,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -42252,25 +41927,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ff3e35b9-7cd6-4f79-a7e7-e6419a3e39aa")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5ecb636f-563e-413d-898e-de27b53a1f71")
+			(uuid "9b8b8ca1-b576-465f-80b8-1d6a7135d3e2")
 			(effects
 				(font
 					(size 1 1)
@@ -42476,7 +42138,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44799,7 +44461,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44812,7 +44474,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44838,7 +44500,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44864,7 +44526,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44890,25 +44552,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "63648080-e1ad-482e-8b4d-9e2f814b2576")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9cb14816-bec4-4ce4-bb04-756774a442c0")
+			(uuid "bb225f89-190b-4fad-987f-7fae7eb57d4b")
 			(effects
 				(font
 					(size 1 1)
@@ -45536,7 +45185,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -45549,7 +45198,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -45575,7 +45224,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -45601,7 +45250,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -45627,25 +45276,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "74a8bd9d-9c09-4138-805f-6fc1f45bdceb")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "84bf2f22-5111-469f-a1f4-682121d27302")
+			(uuid "896bd9f4-e425-433c-b8de-56495b917b61")
 			(effects
 				(font
 					(size 1 1)
@@ -47473,7 +47109,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -47486,7 +47122,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -47512,7 +47148,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -47538,38 +47174,12 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "185ae5f0-f527-4234-97c8-5d623c97016f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer 2" "Yageo"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4190157c-1c34-460d-af75-7ee90e2dd246")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "94d4a8c1-b4b8-462b-92e3-c0a7b90f9c07")
 			(effects
 				(font
 					(size 1 1)
@@ -47583,6 +47193,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "de699c6c-0eeb-442e-8f28-a929c7186b4b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "abe1c455-1f75-487d-9d5c-6695a2c4e91c")
 			(effects
 				(font
 					(size 1 1)
@@ -48209,7 +47832,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -52013,7 +51636,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -52026,7 +51649,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -52052,7 +51675,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -52078,7 +51701,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -52104,25 +51727,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "187b5edf-e08f-4469-a43f-788457833d04")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "931a56a2-3efd-416c-9eb9-a3fbedb1512c")
+			(uuid "d8f33cc6-84d2-4eaf-9ccf-1b18a18996cb")
 			(effects
 				(font
 					(size 1 1)
@@ -52903,7 +52513,7 @@
 			)
 		)
 		(property "Value" "47k_0402"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "dc94ef2c-e609-4dc1-bc48-bb73dd41ce19")
 			(effects
@@ -52914,7 +52524,7 @@
 			)
 		)
 		(property "Footprint" "4ms_Resistor:R_0402"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "60099927-d601-4732-981f-30b4f0a5b3a2")
@@ -52926,7 +52536,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5c448bde-e682-4f7b-91d3-e069ebe3ad4c")
@@ -52938,7 +52548,7 @@
 			)
 		)
 		(property "Description" "47k, 1%, 1/16W, 0402"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8f8e0cbe-32bd-4841-be8b-d561275a9a37")
@@ -53133,7 +52743,7 @@
 			(uuid "772007bd-f6cd-42ec-adcc-11517e8018f0")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0.6985 -0.8255 360)
+			(at 0.6985 -0.8255 0)
 			(layer "F.Fab")
 			(uuid "054df772-1150-455f-b52a-d924302ea6ff")
 			(effects
@@ -54065,7 +53675,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -54700,7 +54310,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -55000,7 +54610,7 @@
 				)
 			)
 		)
-		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -55025,7 +54635,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -55038,7 +54648,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -55064,7 +54674,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -55090,25 +54700,12 @@
 				)
 			)
 		)
-		(property "Manufacturer 2" "Yageo"
+		(property "Alt JLCPCB ID" "C77020"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "76fed449-aedb-434f-8642-7f6e1f86b470")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "49be7d57-47b0-4594-bebb-5c8350466a7f")
+			(uuid "612b1010-36b8-4780-a6c9-aaa420827cbd")
 			(effects
 				(font
 					(size 1 1)
@@ -57870,7 +57467,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -57883,7 +57480,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -57922,7 +57519,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -57935,38 +57532,12 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3daa2697-28a9-4fe6-a05b-8798af9df908")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer 2" "Yageo"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4d5ed53a-c3d9-49b9-89dd-363b9cf5eb8d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "061c3162-15d4-43d8-ab28-05a4bf5b47c2")
 			(effects
 				(font
 					(size 1 1)
@@ -57980,6 +57551,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5f24d0e5-dd84-4afa-99bb-e0123214c1a8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0d7fb5ca-1b00-4eb1-a10d-7ef8184092af")
 			(effects
 				(font
 					(size 1 1)
@@ -59558,7 +59142,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -62395,7 +61979,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -64381,7 +63965,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -64975,7 +64559,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -66971,7 +66555,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -66984,7 +66568,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -67026,7 +66610,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -67040,40 +66624,12 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "7d8d6c0b-a0c6-4a67-86a0-3cb1a57c080b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Manufacturer 2" "Yageo"
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "bb8dfd9c-ae99-4a5d-a7b2-507d76c6873e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "c4b511a0-3878-40af-b2b2-6f795af2b789")
 			(effects
 				(font
 					(size 1 1)
@@ -67088,6 +66644,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d66e595f-9855-4672-ae21-762cb5a02b26")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cf87df5a-42e3-449a-af13-e75b45e3b1db")
 			(effects
 				(font
 					(size 1 1)
@@ -69814,7 +69384,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -69827,7 +69397,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -69869,7 +69439,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -69883,40 +69453,12 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "0ffb1967-9110-4745-81a2-4433c0a119a0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Manufacturer 2" "Yageo"
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "39642e6f-f18d-4570-84ec-58d0f6aa5ae2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "9e7853bf-ca58-4776-b4af-e44cebfb85b5")
 			(effects
 				(font
 					(size 1 1)
@@ -69931,6 +69473,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "733e01ea-a53e-4fac-be34-86891d7a4f23")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f4cd7f79-c0a3-4762-8e77-1382b001cf0a")
 			(effects
 				(font
 					(size 1 1)
@@ -70790,7 +70346,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -70803,7 +70359,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -70845,7 +70401,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -70859,40 +70415,12 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "6b6c4b5a-acf8-46c7-9563-aabf9d399fa5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Manufacturer 2" "Yageo"
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "7f08e8e0-a195-4ff4-9040-093b25f23f65")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "9581e578-43d1-41e2-b7ee-daf660e72f57")
 			(effects
 				(font
 					(size 1 1)
@@ -70907,6 +70435,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "c8cd138c-6ebb-4e87-807e-3673f622aee8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d74c8375-ad68-4b1a-a0d2-c8837d90ded2")
 			(effects
 				(font
 					(size 1 1)
@@ -71116,7 +70658,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -71129,7 +70671,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -71171,7 +70713,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -71185,40 +70727,12 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ac535dc7-7a07-4797-a269-3539ddf8aad3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Manufacturer 2" "Yageo"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "0145f077-2c41-4d36-a23f-c53759fc09c9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "64b77b41-c52b-4ee2-b6da-5682c574e833")
 			(effects
 				(font
 					(size 1 1)
@@ -71233,6 +70747,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "7a25da05-bab6-4083-b96a-8d0b531f64d7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "73b99013-26f0-450b-806a-f03b539a0e1d")
 			(effects
 				(font
 					(size 1 1)
@@ -73448,7 +72976,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -73461,7 +72989,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -73503,7 +73031,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -73517,40 +73045,12 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 45)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "8c589ca5-78be-484a-bcdd-434702f749e0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Manufacturer 2" "Yageo"
-			(at 0 0 45)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "b97ae80a-dd46-4fea-b9e1-8fa1a9b4de24")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 45)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "b938ded8-18f2-47c0-b502-145acc07f197")
 			(effects
 				(font
 					(size 1 1)
@@ -73565,6 +73065,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "11e31003-7ad7-4115-8199-8e8b173c4423")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 0 0 45)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "718be560-1852-4c09-a702-851da7e79596")
 			(effects
 				(font
 					(size 1 1)
@@ -73774,7 +73288,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -73787,7 +73301,7 @@
 				)
 			)
 		)
-		(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
+		(property "Specifications" "0.1uF, Min. 50V 10%, X7R or X5R or similar"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -73829,7 +73343,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Part Number" "GCM155R71C104KA55D"
+		(property "Part Number" "GRM155R71H104KE14D "
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -73843,40 +73357,12 @@
 				(justify mirror)
 			)
 		)
-		(property "JLCPCB ID" "C1525"
+		(property "JLCPCB ID" "C307331"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "72963d4c-2718-440e-be2d-fc7a7969aad8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Manufacturer 2" "Yageo"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "e16ea7a4-1e88-47e9-8760-ae918a54c8bf")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Part Number 2" "CC0402KRX7R7BB104"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "ca9c25c8-cfe4-4b5b-85c1-040069129c63")
 			(effects
 				(font
 					(size 1 1)
@@ -73891,6 +73377,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "4a473176-08a4-46ea-a938-32a70e614040")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Alt JLCPCB ID" "C77020"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4540d885-4cd4-440a-835b-e1615941e0a4")
 			(effects
 				(font
 					(size 1 1)
