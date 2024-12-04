@@ -92,408 +92,6 @@
 				)
 			)
 		)
-		(symbol "4ms_Capacitor:0.1uF_0603_16V"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0.254) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "C"
-				(at 2.54 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "0.1uF_0603_16V"
-				(at 0 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "4ms_Capacitor:C_0603"
-				(at -2.54 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Display" "0.1uF"
-				(at 5.08 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "AVX Corporation"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Part Number" "0603YC104KAT2A"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "JLCPCB ID" "C14663"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Production Stage" "A"
-				(at -2.54 -16.51 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "100nF_0603_16V"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "C_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "0.1uF_0603_16V_0_1"
-				(polyline
-					(pts
-						(xy -1.524 -0.508) (xy 1.524 -0.508)
-					)
-					(stroke
-						(width 0.3302)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.524 0.508) (xy 1.524 0.508)
-					)
-					(stroke
-						(width 0.3048)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "0.1uF_0603_16V_1_1"
-				(pin passive line
-					(at 0 2.54 270)
-					(length 2.032)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 90)
-					(length 2.032)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "4ms_Capacitor:100nF_0402_16V"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0.254) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "C"
-				(at 1.905 1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "100nF_0402_16V"
-				(at 0 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "4ms_Capacitor:C_0402"
-				(at -2.54 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-				(at -2.54 -7.874 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "Murata"
-				(at -2.54 -9.398 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Part Number" "GCM155R71C104KA55D"
-				(at -2.54 -10.922 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Display" "0.1uF"
-				(at 1.905 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "JLCPCB ID" "C1525"
-				(at 1.27 -12.7 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer 2" "Yageo"
-				(at 1.27 -13.97 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Part Number 2" "CC0402KRX7R7BB104"
-				(at 7.62 -16.51 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Production Stage" "A"
-				(at -2.54 -16.51 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "100nF_0402_16V"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "C_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "100nF_0402_16V_0_1"
-				(polyline
-					(pts
-						(xy -1.524 -0.508) (xy 1.524 -0.508)
-					)
-					(stroke
-						(width 0.3302)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.524 0.508) (xy 1.524 0.508)
-					)
-					(stroke
-						(width 0.3048)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "100nF_0402_16V_1_1"
-				(pin passive line
-					(at 0 2.54 270)
-					(length 2.032)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 90)
-					(length 2.032)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "4ms_Capacitor:100nF_0402_50V"
 			(pin_numbers hide)
 			(pin_names
@@ -697,7 +295,7 @@
 				)
 			)
 		)
-		(symbol "4ms_Capacitor:100nF_0603_16V"
+		(symbol "4ms_Capacitor:100pF_0402_50V"
 			(pin_numbers hide)
 			(pin_names
 				(offset 0.254) hide)
@@ -713,7 +311,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "100nF_0603_16V"
+			(property "Value" "100pF_0402_50V"
 				(at 0 3.81 0)
 				(effects
 					(font
@@ -722,201 +320,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "4ms_Capacitor:C_0603"
-				(at -2.54 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Specifications" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
-				(at -2.54 -7.874 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "AVX Corporation"
-				(at -2.54 -9.398 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Part Number" "0603YC104KAT2A"
-				(at -2.54 -10.922 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Display" "0.1uF"
-				(at 1.905 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "JLCPCB ID" "C14663"
-				(at 1.27 -12.7 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Production Stage" "A"
-				(at -2.54 -16.51 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "100nF_0603_16V"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "C_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "100nF_0603_16V_0_1"
-				(polyline
-					(pts
-						(xy -1.524 -0.508) (xy 1.524 -0.508)
-					)
-					(stroke
-						(width 0.3302)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.524 0.508) (xy 1.524 0.508)
-					)
-					(stroke
-						(width 0.3048)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "100nF_0603_16V_1_1"
-				(pin passive line
-					(at 0 2.54 270)
-					(length 2.032)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 90)
-					(length 2.032)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "4ms_Capacitor:100pF_0603_50V"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0.254) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "C"
-				(at 1.905 1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "100pF_0603_50V"
-				(at 0 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "4ms_Capacitor:C_0603"
+			(property "Footprint" "4ms_Capacitor:C_0402"
 				(at -2.54 -5.08 0)
 				(effects
 					(font
@@ -944,7 +348,7 @@
 					(hide yes)
 				)
 			)
-			(property "Specifications" "100pF, Min. 50V 10% NP0 or C0G"
+			(property "Specifications" "100pF, Min. 50V 5% NP0 or C0G"
 				(at -2.54 -7.874 0)
 				(effects
 					(font
@@ -964,7 +368,7 @@
 					(hide yes)
 				)
 			)
-			(property "Part Number" "CC0603JRNPO9BN101"
+			(property "Part Number" "CC0402JRNPO9BN101 "
 				(at -2.54 -10.922 0)
 				(effects
 					(font
@@ -983,7 +387,7 @@
 					(justify left)
 				)
 			)
-			(property "JLCPCB ID" "C14858"
+			(property "JLCPCB ID" "C106200"
 				(at 1.27 -12.7 0)
 				(effects
 					(font
@@ -1002,7 +406,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "100pF_0603_50V"
+			(property "ki_keywords" "100pF_0402_50V"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1020,7 +424,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "100pF_0603_50V_0_1"
+			(symbol "100pF_0402_50V_0_1"
 				(polyline
 					(pts
 						(xy -1.524 -0.508) (xy 1.524 -0.508)
@@ -1046,7 +450,7 @@
 					)
 				)
 			)
-			(symbol "100pF_0603_50V_1_1"
+			(symbol "100pF_0402_50V_1_1"
 				(pin passive line
 					(at 0 2.54 270)
 					(length 2.032)
@@ -2055,7 +1459,7 @@
 				)
 			)
 		)
-		(symbol "4ms_Capacitor:1nF_0603_50V"
+		(symbol "4ms_Capacitor:1nF_0402_50V"
 			(pin_numbers hide)
 			(pin_names
 				(offset 0.254) hide)
@@ -2071,7 +1475,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "1nF_0603_50V"
+			(property "Value" "1nF_0402_50V"
 				(at 0 3.81 0)
 				(effects
 					(font
@@ -2080,7 +1484,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "4ms_Capacitor:C_0603"
+			(property "Footprint" "4ms_Capacitor:C_0402"
 				(at -2.54 -5.08 0)
 				(effects
 					(font
@@ -2099,7 +1503,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "1nF, 50V, 10%, C0G (NP0) or similar"
+			(property "Description" "1nF, 50V, 10%, X7R or similar"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2108,7 +1512,7 @@
 					(hide yes)
 				)
 			)
-			(property "Specifications" "1nF, 50V, 10%, C0G (NP0) or similar"
+			(property "Specifications" "1nF, 50V, 10%, X7R or similar"
 				(at -2.54 -7.874 0)
 				(effects
 					(font
@@ -2118,7 +1522,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer" "Murata"
+			(property "Manufacturer" "AVX Corportation"
 				(at -2.54 -9.398 0)
 				(effects
 					(font
@@ -2128,7 +1532,7 @@
 					(hide yes)
 				)
 			)
-			(property "Part Number" "GRM1885C1H102JA01D"
+			(property "Part Number" "04025C102KAT2A "
 				(at -2.54 -10.922 0)
 				(effects
 					(font
@@ -2147,7 +1551,7 @@
 					(justify left)
 				)
 			)
-			(property "JLCPCB ID" "C163508"
+			(property "JLCPCB ID" "C167632"
 				(at 0 -13.97 0)
 				(effects
 					(font
@@ -2166,7 +1570,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "1nF_0603_50V"
+			(property "ki_keywords" "1nF_0402_50V"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2184,7 +1588,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "1nF_0603_50V_0_1"
+			(symbol "1nF_0402_50V_0_1"
 				(polyline
 					(pts
 						(xy -1.524 -0.508) (xy 1.524 -0.508)
@@ -2210,7 +1614,7 @@
 					)
 				)
 			)
-			(symbol "1nF_0603_50V_1_1"
+			(symbol "1nF_0402_50V_1_1"
 				(pin passive line
 					(at 0 2.54 270)
 					(length 2.032)
@@ -2442,7 +1846,7 @@
 				)
 			)
 		)
-		(symbol "4ms_Capacitor:220pF_0603_25V"
+		(symbol "4ms_Capacitor:220pF_0402_50V"
 			(pin_numbers hide)
 			(pin_names
 				(offset 0.254) hide)
@@ -2458,7 +1862,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "220pF_0603_25V"
+			(property "Value" "220pF_0402_50V"
 				(at 0 3.81 0)
 				(effects
 					(font
@@ -2467,7 +1871,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "4ms_Capacitor:C_0603"
+			(property "Footprint" "4ms_Capacitor:C_0402"
 				(at -2.54 -5.08 0)
 				(effects
 					(font
@@ -2486,7 +1890,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "220pF, Min 25V, C0G/NP0, 5% 0603"
+			(property "Description" "220pF, Min. 50V 5%, 0402"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2495,7 +1899,7 @@
 					(hide yes)
 				)
 			)
-			(property "Specifications" "220pF, Min 25V, C0G/NP0, 5% 0603"
+			(property "Specifications" "220pF, 50V, 5%, X7R or X5R or similar"
 				(at -2.54 -7.874 0)
 				(effects
 					(font
@@ -2515,7 +1919,7 @@
 					(hide yes)
 				)
 			)
-			(property "Part Number" "CC0603JRNPO9BN221"
+			(property "Part Number" "AC0402JPNPO9BN221"
 				(at -2.54 -10.922 0)
 				(effects
 					(font
@@ -2534,13 +1938,12 @@
 					(justify left)
 				)
 			)
-			(property "JLCPCB ID" "C1603"
-				(at 1.905 -1.27 0)
+			(property "JLCPCB ID" "C327000"
+				(at 1.27 -12.7 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 					(hide yes)
 				)
 			)
@@ -2554,7 +1957,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "220pF_0603_25V"
+			(property "ki_keywords" "200pF_0402_50V"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2572,7 +1975,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "220pF_0603_25V_0_1"
+			(symbol "220pF_0402_50V_0_1"
 				(polyline
 					(pts
 						(xy -1.524 -0.508) (xy 1.524 -0.508)
@@ -2598,7 +2001,7 @@
 					)
 				)
 			)
-			(symbol "220pF_0603_25V_1_1"
+			(symbol "220pF_0402_50V_1_1"
 				(pin passive line
 					(at 0 2.54 270)
 					(length 2.032)
@@ -16024,6 +15427,187 @@
 				)
 			)
 		)
+		(symbol "4ms_Resistor_0402:20k_0402"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "20k_0402"
+				(at -2.54 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "4ms_Resistor:R_0402"
+				(at -2.54 -12.954 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "20k, 1%, 1/16W, 0402"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specifications" "20k, 1%, 1/16W, 0402"
+				(at -2.54 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Yageo"
+				(at -2.54 -9.398 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Part Number" "RC0402FR-0720KL"
+				(at -2.54 -11.176 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Display" "20k"
+				(at 3.81 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "JLCPCB ID" "C93942"
+				(at -2.54 -14.732 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Production Stage" "A"
+				(at -2.54 -16.51 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "20k 0402 1%"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_* R*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "20k_0402_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "20k_0402_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "4ms_Resistor_0402:24k_0402"
 			(pin_numbers hide)
 			(pin_names
@@ -16205,6 +15789,187 @@
 				)
 			)
 		)
+		(symbol "4ms_Resistor_0402:2k_0402"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "2k_0402"
+				(at -2.54 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "4ms_Resistor:R_0402"
+				(at -2.54 -12.954 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "2k, 1%, 1/16W, 0402"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specifications" "2k, 1%, 1/16W, 0402"
+				(at -2.54 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Yageo"
+				(at -2.54 -9.398 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Part Number" "RC0402FR-072KL"
+				(at -2.54 -11.176 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Display" "2k"
+				(at 3.81 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "JLCPCB ID" "C60488"
+				(at -2.54 -14.732 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Production Stage" "A"
+				(at -2.54 -16.51 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "2k 0402 1%"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_* R*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "2k_0402_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "2k_0402_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "4ms_Resistor_0402:31.6k_0402"
 			(pin_numbers hide)
 			(pin_names
@@ -16348,6 +16113,368 @@
 				)
 			)
 			(symbol "31.6k_0402_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "4ms_Resistor_0402:330Ω_0402"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "330Ω_0402"
+				(at -2.54 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "4ms_Resistor:R_0402"
+				(at -2.54 -12.954 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "330Ω, 1%, 1/16W, 0402"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specifications" "330Ω, 1%, 1/16W, 0402"
+				(at -2.54 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Yageo"
+				(at -2.54 -9.398 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Part Number" "RC0402FR-07330RL"
+				(at -2.54 -11.176 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Display" "330Ω"
+				(at 3.81 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "JLCPCB ID" "C105875"
+				(at -2.54 -14.732 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Production Stage" "A"
+				(at -2.54 -16.51 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "330Ω 0402 1%"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_* R*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "330Ω_0402_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "330Ω_0402_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "4ms_Resistor_0402:33k_0402"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "33k_0402"
+				(at -2.54 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "4ms_Resistor:R_0402"
+				(at -2.54 -12.954 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "33k, 1%, 1/16W, 0402"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specifications" "33k, 1%, 1/16W, 0402"
+				(at -2.54 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Yageo"
+				(at -2.54 -9.398 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Part Number" "RC0402FR-0733KL"
+				(at -2.54 -11.176 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Display" "33k"
+				(at 3.81 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "JLCPCB ID" "C138003"
+				(at -2.54 -14.732 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Production Stage" "A"
+				(at -2.54 -16.51 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "33k 0402 1%"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_* R*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "33k_0402_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "33k_0402_1_1"
 				(pin passive line
 					(at 0 3.81 270)
 					(length 1.27)
@@ -16748,6 +16875,187 @@
 				)
 			)
 		)
+		(symbol "4ms_Resistor_0402:47k_0402"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "47k_0402"
+				(at -2.54 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "4ms_Resistor:R_0402"
+				(at -2.54 -12.954 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "47k, 1%, 1/16W, 0402"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Specifications" "47k, 1%, 1/16W, 0402"
+				(at -2.54 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Yageo"
+				(at -2.54 -9.398 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Part Number" "RC0402FR-0747KL"
+				(at -2.54 -11.176 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Display" "47k"
+				(at 3.81 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "JLCPCB ID" "C93943"
+				(at -2.54 -14.732 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Production Stage" "A"
+				(at -2.54 -16.51 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "47k 0402 1%"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_* R*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "47k_0402_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "47k_0402_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "4ms_Resistor_0402:68Ω_0402"
 			(pin_numbers hide)
 			(pin_names
@@ -16891,1635 +17199,6 @@
 				)
 			)
 			(symbol "68Ω_0402_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "4ms_Resistor_0603:100k_0603"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 2.032 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "100k_0603"
-				(at -2.54 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "4ms_Resistor:R_0603"
-				(at -2.54 -12.954 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "100k, 1%, 1/10W, 0603"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Specifications" "100k, 1%, 1/10W, 0603"
-				(at -2.54 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "Yageo"
-				(at -2.54 -9.398 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Part Number" "RC0603FR-07100KL"
-				(at -2.54 -11.176 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Display" "100k"
-				(at 3.81 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "JLCPCB ID" "C14675"
-				(at -2.54 -14.732 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Production Stage" "A"
-				(at -2.54 -16.51 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "100k 0603 1%"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "R_* R*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "100k_0603_0_1"
-				(rectangle
-					(start -1.016 -2.54)
-					(end 1.016 2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "100k_0603_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "4ms_Resistor_0603:10k_0603"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 2.032 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "10k_0603"
-				(at -2.54 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "4ms_Resistor:R_0603"
-				(at -2.54 -12.954 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "10k, 1%, 1/10W, 0603"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Specifications" "10k, 1%, 1/10W, 0603"
-				(at -2.54 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "Yageo"
-				(at -2.54 -9.398 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Part Number" "RC0603FR-0710KL"
-				(at -2.54 -11.176 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Display" "10k"
-				(at 3.81 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "JLCPCB ID" "C98220"
-				(at -2.54 -14.732 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Production Stage" "A"
-				(at -2.54 -16.51 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "10k 0603 1%"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "R_* R*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "10k_0603_0_1"
-				(rectangle
-					(start -1.016 -2.54)
-					(end 1.016 2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "10k_0603_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "4ms_Resistor_0603:1M_0603"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 2.032 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "1M_0603"
-				(at -2.54 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "4ms_Resistor:R_0603"
-				(at -2.54 -12.954 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "1M, 1%, 1/10W, 0603"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Specifications" "1M, 1%, 1/10W, 0603"
-				(at -2.54 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "Yageo"
-				(at -2.54 -9.398 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Part Number" "RC0603FR-071ML"
-				(at -2.54 -11.176 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Display" "1M"
-				(at 3.81 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "JLCPCB ID" "C105578"
-				(at -2.54 -14.732 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Production Stage" "A"
-				(at -2.54 -16.51 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "1M 0603 1%"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "R_* R*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "1M_0603_0_1"
-				(rectangle
-					(start -1.016 -2.54)
-					(end 1.016 2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "1M_0603_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "4ms_Resistor_0603:1k_0603"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 2.032 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "1k_0603"
-				(at -2.54 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "4ms_Resistor:R_0603"
-				(at -2.54 -12.954 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "1k, 1%, 1/10W, 0603"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Specifications" "1k, 1%, 1/10W, 0603"
-				(at -2.54 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "Yageo"
-				(at -2.54 -9.398 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Part Number" "RC0603FR-071KL"
-				(at -2.54 -11.176 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Display" "1k"
-				(at 3.81 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "JLCPCB ID" "C22548"
-				(at -2.54 -14.732 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Production Stage" "A"
-				(at -2.54 -16.51 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "1k 0603 1%"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "R_* R*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "1k_0603_0_1"
-				(rectangle
-					(start -1.016 -2.54)
-					(end 1.016 2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "1k_0603_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "4ms_Resistor_0603:20k_0603"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 2.032 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "20k_0603"
-				(at -2.54 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "4ms_Resistor:R_0603"
-				(at -2.54 -12.954 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "20k, 1%, 1/10W, 0603"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Specifications" "20k, 1%, 1/10W, 0603"
-				(at -2.54 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "Yageo"
-				(at -2.54 -9.398 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Part Number" "RC0603FR-0720KL"
-				(at -2.54 -11.176 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Display" "20k"
-				(at 3.81 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "JLCPCB ID" "C105575"
-				(at -2.54 -14.732 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Production Stage" "A"
-				(at -2.54 -16.51 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "20k 0603 1%"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "R_* R*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "20k_0603_0_1"
-				(rectangle
-					(start -1.016 -2.54)
-					(end 1.016 2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "20k_0603_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "4ms_Resistor_0603:2k_0603"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 2.032 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "2k_0603"
-				(at -2.54 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "4ms_Resistor:R_0603"
-				(at -2.54 -12.954 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "2k, 1%, 1/10W, 0603"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Specifications" "2k, 1%, 1/10W, 0603"
-				(at -2.54 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "Yageo"
-				(at -2.54 -9.398 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Part Number" "RC0603FR-072KL"
-				(at -2.54 -11.176 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Display" "2k"
-				(at 3.81 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "JLCPCB ID" "C105576"
-				(at -2.54 -14.732 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Production Stage" "A"
-				(at -2.54 -16.51 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "2k 0603 1%"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "R_* R*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "2k_0603_0_1"
-				(rectangle
-					(start -1.016 -2.54)
-					(end 1.016 2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "2k_0603_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "4ms_Resistor_0603:330Ω_0603"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 2.032 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "330Ω_0603"
-				(at -2.54 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "4ms_Resistor:R_0603"
-				(at -2.54 -12.954 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "330Ω, 1%, 1/10W, 0603"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Specifications" "330Ω, 1%, 1/10W, 0603"
-				(at -2.54 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "Yageo"
-				(at -2.54 -9.398 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Part Number" "RC0603FR-07330RL"
-				(at -2.54 -11.176 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Display" "330Ω"
-				(at 3.81 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "JLCPCB ID" "C105881"
-				(at -2.54 -14.732 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Production Stage" "A"
-				(at -2.54 -16.51 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "330Ω 0603 1%"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "R_* R*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "330Ω_0603_0_1"
-				(rectangle
-					(start -1.016 -2.54)
-					(end 1.016 2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "330Ω_0603_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "4ms_Resistor_0603:33k_0603"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 2.032 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "33k_0603"
-				(at -2.54 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "4ms_Resistor:R_0603"
-				(at -2.54 -12.954 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "33k, 1%, 1/10W, 0603"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Specifications" "33k, 1%, 1/10W, 0603"
-				(at -2.54 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "Yageo"
-				(at -2.54 -9.398 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Part Number" "RC0603FR-0733KL"
-				(at -2.54 -11.176 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Display" "33k"
-				(at 3.81 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "JLCPCB ID" "C126359"
-				(at -2.54 -14.732 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Production Stage" "A"
-				(at -2.54 -16.51 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "33k 0603 1%"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "R_* R*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "33k_0603_0_1"
-				(rectangle
-					(start -1.016 -2.54)
-					(end 1.016 2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "33k_0603_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "4ms_Resistor_0603:47k_0603"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 2.032 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "47k_0603"
-				(at -2.54 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "4ms_Resistor:R_0603"
-				(at -2.54 -12.954 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "47k, 1%, 1/10W, 0603"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Specifications" "47k, 1%, 1/10W, 0603"
-				(at -2.54 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "Yageo"
-				(at -2.54 -9.398 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Part Number" "RC0603FR-0747KL"
-				(at -2.54 -11.176 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Display" "47k"
-				(at 3.81 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "JLCPCB ID" "C105579"
-				(at -2.54 -14.732 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Production Stage" "A"
-				(at -2.54 -16.51 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "47k 0603 1%"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "R_* R*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "47k_0603_0_1"
-				(rectangle
-					(start -1.016 -2.54)
-					(end 1.016 2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "47k_0603_1_1"
 				(pin passive line
 					(at 0 3.81 270)
 					(length 1.27)
@@ -34362,7 +33041,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:1M_0603")
+		(lib_id "4ms_Resistor_0402:1M_0402")
 		(at 104.14 737.87 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -34379,7 +33058,7 @@
 				)
 			)
 		)
-		(property "Value" "1M_0603"
+		(property "Value" "1M_0402"
 			(at 104.14 740.41 90)
 			(effects
 				(font
@@ -34388,7 +33067,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
+		(property "Footprint" "4ms_Resistor:R_0402"
 			(at 117.094 740.41 0)
 			(effects
 				(font
@@ -34407,7 +33086,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1M, 1%, 1/10W, 0603"
+		(property "Description" "1M, 1%, 1/16W, 0402"
 			(at 104.14 737.87 0)
 			(effects
 				(font
@@ -34416,7 +33095,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "1M, 1%, 1/10W, 0603"
+		(property "Specifications" "1M, 1%, 1/16W, 0402"
 			(at 111.76 740.41 0)
 			(effects
 				(font
@@ -34436,7 +33115,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-071ML"
+		(property "Part Number" "RC0402FR-071ML"
 			(at 115.316 740.41 0)
 			(effects
 				(font
@@ -34454,7 +33133,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C105578"
+		(property "JLCPCB ID" "C138033"
 			(at 118.872 740.41 0)
 			(effects
 				(font
@@ -35786,7 +34465,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:0.1uF_0603_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 962.66 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -35804,7 +34483,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF_0603_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 962.66 62.23 0)
 			(effects
 				(font
@@ -35813,7 +34492,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "4ms_Capacitor:C_0402"
 			(at 960.12 71.12 0)
 			(effects
 				(font
@@ -35832,7 +34511,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
 			(at 962.66 66.04 0)
 			(effects
 				(font
@@ -35859,7 +34538,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "AVX Corporation"
+		(property "Manufacturer" "Murata"
 			(at 962.66 66.04 0)
 			(effects
 				(font
@@ -35868,7 +34547,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "0603YC104KAT2A"
+		(property "Part Number" "GCM155R71C104KA55D"
 			(at 962.66 66.04 0)
 			(effects
 				(font
@@ -35877,7 +34556,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C14663"
+		(property "JLCPCB ID" "C1525"
 			(at 962.66 66.04 0)
 			(effects
 				(font
@@ -35893,6 +34572,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" "Yageo"
+			(at 963.93 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number 2" "CC0402KRX7R7BB104"
+			(at 970.28 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -36480,7 +35177,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:20k_0603")
+		(lib_id "4ms_Resistor_0402:20k_0402")
 		(at 721.36 588.01 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -36490,14 +35187,14 @@
 		(fields_autoplaced yes)
 		(uuid "0a638b26-7e8f-4aec-b483-ac799fc18c2e")
 		(property "Reference" "R29"
-			(at 721.36 582.8497 90)
+			(at 721.36 581.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "20k_0603"
+		(property "Value" "20k_0402"
 			(at 721.36 590.55 90)
 			(effects
 				(font
@@ -36506,7 +35203,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
+		(property "Footprint" "4ms_Resistor:R_0402"
 			(at 734.314 590.55 0)
 			(effects
 				(font
@@ -36525,7 +35222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "20k, 1%, 1/16W, 0402"
 			(at 721.36 588.01 0)
 			(effects
 				(font
@@ -36534,7 +35231,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "20k, 1%, 1/10W, 0603"
+		(property "Specifications" "20k, 1%, 1/16W, 0402"
 			(at 728.98 590.55 0)
 			(effects
 				(font
@@ -36554,7 +35251,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0720KL"
+		(property "Part Number" "RC0402FR-0720KL"
 			(at 732.536 590.55 0)
 			(effects
 				(font
@@ -36565,14 +35262,14 @@
 			)
 		)
 		(property "Display" "20k"
-			(at 721.36 585.2739 90)
+			(at 721.36 584.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "JLCPCB ID" "C105575"
+		(property "JLCPCB ID" "C93942"
 			(at 736.092 590.55 0)
 			(effects
 				(font
@@ -36882,7 +35579,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 410.21 306.07 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -36900,7 +35597,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100nF_0402_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 410.21 302.26 0)
 			(effects
 				(font
@@ -37254,7 +35951,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:47k_0603")
+		(lib_id "4ms_Resistor_0402:47k_0402")
 		(at 675.64 406.4 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -37264,14 +35961,14 @@
 		(fields_autoplaced yes)
 		(uuid "0f1b3947-de36-47e1-b6cb-f66a331076e6")
 		(property "Reference" "R15"
-			(at 675.64 401.32 90)
+			(at 675.64 400.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "47k_0603"
+		(property "Value" "47k_0402"
 			(at 675.64 408.94 90)
 			(effects
 				(font
@@ -37280,8 +35977,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 688.34 408.94 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 688.594 408.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37299,7 +35996,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "47k, 1%, 1/16W, 0402"
 			(at 675.64 406.4 0)
 			(effects
 				(font
@@ -37308,8 +36005,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "47k, 1%, 1/10W, 0603"
-			(at 683.514 408.94 0)
+		(property "Specifications" "47k, 1%, 1/16W, 0402"
+			(at 683.26 408.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37328,8 +36025,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0747KL"
-			(at 686.562 408.94 0)
+		(property "Part Number" "RC0402FR-0747KL"
+			(at 686.816 408.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37339,19 +36036,20 @@
 			)
 		)
 		(property "Display" "47k"
-			(at 675.64 403.86 90)
+			(at 675.64 402.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "JLCPCB ID" "C105579"
-			(at 675.64 402.59 90)
+		(property "JLCPCB ID" "C93943"
+			(at 690.372 408.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -37526,7 +36224,7 @@
 		(fields_autoplaced yes)
 		(uuid "0f757cc6-3837-4239-89ee-1ba2163cf097")
 		(property "Reference" "R52"
-			(at 245.11 474.98 90)
+			(at 245.11 473.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37561,7 +36259,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1k, 1%, 1/16W, 0402"
 			(at 245.11 480.06 0)
 			(effects
 				(font
@@ -37601,7 +36299,7 @@
 			)
 		)
 		(property "Display" "1k"
-			(at 245.11 477.52 90)
+			(at 245.11 476.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37788,7 +36486,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:33k_0603")
+		(lib_id "4ms_Resistor_0402:33k_0402")
 		(at 742.95 588.01 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -37798,14 +36496,14 @@
 		(fields_autoplaced yes)
 		(uuid "0ff25af4-b4e6-49c9-86ec-31ebec78ff97")
 		(property "Reference" "R57"
-			(at 742.95 582.93 90)
+			(at 742.95 581.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "33k_0603"
+		(property "Value" "33k_0402"
 			(at 742.95 590.55 90)
 			(effects
 				(font
@@ -37814,8 +36512,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 755.65 590.55 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 755.904 590.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37833,7 +36531,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "33k, 1%, 1/16W, 0402"
 			(at 742.95 588.01 0)
 			(effects
 				(font
@@ -37842,8 +36540,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "33k, 1%, 1/10W, 0603"
-			(at 750.824 590.55 0)
+		(property "Specifications" "33k, 1%, 1/16W, 0402"
+			(at 750.57 590.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37862,8 +36560,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0733KL"
-			(at 753.872 590.55 0)
+		(property "Part Number" "RC0402FR-0733KL"
+			(at 754.126 590.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37873,19 +36571,20 @@
 			)
 		)
 		(property "Display" "33k"
-			(at 742.95 585.47 90)
+			(at 742.95 584.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "JLCPCB ID" "C126359"
-			(at 742.95 584.2 90)
+		(property "JLCPCB ID" "C138003"
+			(at 757.682 590.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -38286,7 +36985,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:1k_0603")
+		(lib_id "4ms_Resistor_0402:1k_0402")
 		(at 1027.43 519.43 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -38296,14 +36995,14 @@
 		(fields_autoplaced yes)
 		(uuid "10afe66b-8297-41e8-943b-a72927bf8d0f")
 		(property "Reference" "R63"
-			(at 1027.43 514.35 90)
+			(at 1027.43 513.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "1k_0603"
+		(property "Value" "1k_0402"
 			(at 1027.43 521.97 90)
 			(effects
 				(font
@@ -38312,8 +37011,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 1040.13 521.97 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 1040.384 521.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38331,7 +37030,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1k, 1%, 1/16W, 0402"
 			(at 1027.43 519.43 0)
 			(effects
 				(font
@@ -38340,8 +37039,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "1k, 1%, 1/10W, 0603"
-			(at 1035.304 521.97 0)
+		(property "Specifications" "1k, 1%, 1/16W, 0402"
+			(at 1035.05 521.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38360,8 +37059,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-071KL"
-			(at 1038.352 521.97 0)
+		(property "Part Number" "RC0402FR-071KL"
+			(at 1038.606 521.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38371,19 +37070,20 @@
 			)
 		)
 		(property "Display" "1k"
-			(at 1027.43 516.89 90)
+			(at 1027.43 515.62 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "JLCPCB ID" "C22548"
-			(at 1027.43 515.62 90)
+		(property "JLCPCB ID" "C106235"
+			(at 1042.162 521.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -38571,7 +37271,7 @@
 		(fields_autoplaced yes)
 		(uuid "11f1e939-6740-42b6-8fda-ec6bfd6d1f20")
 		(property "Reference" "R8"
-			(at 158.75 44.45 0)
+			(at 158.75 44.4499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38607,7 +37307,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k, 1%, 1/16W, 0402"
 			(at 156.21 45.72 0)
 			(effects
 				(font
@@ -38647,7 +37347,7 @@
 			)
 		)
 		(property "Display" "10k"
-			(at 158.75 46.99 0)
+			(at 158.75 46.9899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38697,7 +37397,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:47k_0603")
+		(lib_id "4ms_Resistor_0402:47k_0402")
 		(at 994.41 406.4 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -38707,14 +37407,14 @@
 		(fields_autoplaced yes)
 		(uuid "1251b2c8-baf3-400d-8caf-31f3f28502c9")
 		(property "Reference" "R58"
-			(at 994.41 401.32 90)
+			(at 994.41 400.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "47k_0603"
+		(property "Value" "47k_0402"
 			(at 994.41 408.94 90)
 			(effects
 				(font
@@ -38723,8 +37423,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 1007.11 408.94 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 1007.364 408.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38742,7 +37442,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "47k, 1%, 1/16W, 0402"
 			(at 994.41 406.4 0)
 			(effects
 				(font
@@ -38751,8 +37451,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "47k, 1%, 1/10W, 0603"
-			(at 1002.284 408.94 0)
+		(property "Specifications" "47k, 1%, 1/16W, 0402"
+			(at 1002.03 408.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38771,8 +37471,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0747KL"
-			(at 1005.332 408.94 0)
+		(property "Part Number" "RC0402FR-0747KL"
+			(at 1005.586 408.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38782,19 +37482,20 @@
 			)
 		)
 		(property "Display" "47k"
-			(at 994.41 403.86 90)
+			(at 994.41 402.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "JLCPCB ID" "C105579"
-			(at 994.41 402.59 90)
+		(property "JLCPCB ID" "C93943"
+			(at 1009.142 408.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -38824,7 +37525,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:0.1uF_0603_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 961.39 168.91 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -38842,7 +37543,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF_0603_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 961.39 165.1 0)
 			(effects
 				(font
@@ -38851,7 +37552,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "4ms_Capacitor:C_0402"
 			(at 958.85 173.99 0)
 			(effects
 				(font
@@ -38870,7 +37571,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
 			(at 961.39 168.91 0)
 			(effects
 				(font
@@ -38897,7 +37598,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "AVX Corporation"
+		(property "Manufacturer" "Murata"
 			(at 961.39 168.91 0)
 			(effects
 				(font
@@ -38906,7 +37607,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "0603YC104KAT2A"
+		(property "Part Number" "GCM155R71C104KA55D"
 			(at 961.39 168.91 0)
 			(effects
 				(font
@@ -38915,7 +37616,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C14663"
+		(property "JLCPCB ID" "C1525"
 			(at 961.39 168.91 0)
 			(effects
 				(font
@@ -38931,6 +37632,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" "Yageo"
+			(at 962.66 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number 2" "CC0402KRX7R7BB104"
+			(at 969.01 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -39233,7 +37952,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 78.74 368.3 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -39250,7 +37969,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF_0402_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 82.55 368.3 0)
 			(effects
 				(font
@@ -40002,7 +38721,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:2k_0603")
+		(lib_id "4ms_Resistor_0402:2k_0402")
 		(at 783.59 86.36 270)
 		(mirror x)
 		(unit 1)
@@ -40020,7 +38739,7 @@
 				)
 			)
 		)
-		(property "Value" "2k_0603"
+		(property "Value" "2k_0402"
 			(at 783.59 88.9 90)
 			(effects
 				(font
@@ -40029,7 +38748,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
+		(property "Footprint" "4ms_Resistor:R_0402"
 			(at 770.636 88.9 0)
 			(effects
 				(font
@@ -40048,7 +38767,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2k, 1%, 1/16W, 0402"
 			(at 783.59 86.36 0)
 			(effects
 				(font
@@ -40057,7 +38776,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "2k, 1%, 1/10W, 0603"
+		(property "Specifications" "2k, 1%, 1/16W, 0402"
 			(at 775.97 88.9 0)
 			(effects
 				(font
@@ -40077,7 +38796,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-072KL"
+		(property "Part Number" "RC0402FR-072KL"
 			(at 772.414 88.9 0)
 			(effects
 				(font
@@ -40095,7 +38814,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C105576"
+		(property "JLCPCB ID" "C60488"
 			(at 768.858 88.9 0)
 			(effects
 				(font
@@ -40276,7 +38995,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:47k_0603")
+		(lib_id "4ms_Resistor_0402:47k_0402")
 		(at 675.64 452.12 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -40286,14 +39005,14 @@
 		(fields_autoplaced yes)
 		(uuid "1818c886-10fc-4bba-816d-e7e5c3568d2d")
 		(property "Reference" "R16"
-			(at 675.64 447.04 90)
+			(at 675.64 445.77 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "47k_0603"
+		(property "Value" "47k_0402"
 			(at 675.64 454.66 90)
 			(effects
 				(font
@@ -40302,8 +39021,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 688.34 454.66 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 688.594 454.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40321,7 +39040,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "47k, 1%, 1/16W, 0402"
 			(at 675.64 452.12 0)
 			(effects
 				(font
@@ -40330,8 +39049,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "47k, 1%, 1/10W, 0603"
-			(at 683.514 454.66 0)
+		(property "Specifications" "47k, 1%, 1/16W, 0402"
+			(at 683.26 454.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40350,8 +39069,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0747KL"
-			(at 686.562 454.66 0)
+		(property "Part Number" "RC0402FR-0747KL"
+			(at 686.816 454.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40361,19 +39080,20 @@
 			)
 		)
 		(property "Display" "47k"
-			(at 675.64 449.58 90)
+			(at 675.64 448.31 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "JLCPCB ID" "C105579"
-			(at 675.64 448.31 90)
+		(property "JLCPCB ID" "C93943"
+			(at 690.372 454.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -40475,7 +39195,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:33k_0603")
+		(lib_id "4ms_Resistor_0402:33k_0402")
 		(at 989.33 530.86 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -40485,14 +39205,14 @@
 		(fields_autoplaced yes)
 		(uuid "18bcc7f9-2295-4f21-974f-a4b2d3131287")
 		(property "Reference" "R61"
-			(at 989.33 525.78 90)
+			(at 989.33 524.51 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "33k_0603"
+		(property "Value" "33k_0402"
 			(at 989.33 533.4 90)
 			(effects
 				(font
@@ -40501,8 +39221,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 1002.03 533.4 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 1002.284 533.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40520,7 +39240,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "33k, 1%, 1/16W, 0402"
 			(at 989.33 530.86 0)
 			(effects
 				(font
@@ -40529,8 +39249,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "33k, 1%, 1/10W, 0603"
-			(at 997.204 533.4 0)
+		(property "Specifications" "33k, 1%, 1/16W, 0402"
+			(at 996.95 533.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40549,8 +39269,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0733KL"
-			(at 1000.252 533.4 0)
+		(property "Part Number" "RC0402FR-0733KL"
+			(at 1000.506 533.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40560,19 +39280,20 @@
 			)
 		)
 		(property "Display" "33k"
-			(at 989.33 528.32 90)
+			(at 989.33 527.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "JLCPCB ID" "C126359"
-			(at 989.33 527.05 90)
+		(property "JLCPCB ID" "C138003"
+			(at 1004.062 533.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -42368,7 +41089,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 172.72 45.72 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -42386,7 +41107,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100nF_0402_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 172.72 49.53 0)
 			(effects
 				(font
@@ -42603,7 +41324,7 @@
 		(fields_autoplaced yes)
 		(uuid "23178cc9-234e-4f09-b8cc-67404a259cd1")
 		(property "Reference" "R66"
-			(at 50.8 627.1641 90)
+			(at 50.8 624.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42638,7 +41359,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100k, 1%, 1/16W, 0402"
 			(at 50.8 631.19 0)
 			(effects
 				(font
@@ -42678,7 +41399,7 @@
 			)
 		)
 		(property "Display" "100k"
-			(at 50.8 629.0851 90)
+			(at 50.8 627.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43646,7 +42367,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 473.71 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -43663,7 +42384,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF_0402_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 473.71 85.09 0)
 			(effects
 				(font
@@ -43959,7 +42680,7 @@
 		(fields_autoplaced yes)
 		(uuid "2b68fa55-e885-47fa-94fe-e03154adf656")
 		(property "Reference" "R54"
-			(at 346.71 474.98 90)
+			(at 346.71 473.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43994,7 +42715,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1k, 1%, 1/16W, 0402"
 			(at 346.71 480.06 0)
 			(effects
 				(font
@@ -44034,7 +42755,7 @@
 			)
 		)
 		(property "Display" "1k"
-			(at 346.71 477.52 90)
+			(at 346.71 476.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44558,7 +43279,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:100k_0603")
+		(lib_id "4ms_Resistor_0402:100k_0402")
 		(at 685.8 499.11 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -44568,7 +43289,7 @@
 		(fields_autoplaced yes)
 		(uuid "30039f69-ecab-49d3-a1bc-3a8ea62eb058")
 		(property "Reference" "R25"
-			(at 688.34 498.475 0)
+			(at 688.34 497.8399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44576,7 +43297,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k_0603"
+		(property "Value" "100k_0402"
 			(at 688.34 499.11 90)
 			(effects
 				(font
@@ -44585,8 +43306,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 688.34 486.41 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 688.34 486.156 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44604,7 +43325,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100k, 1%, 1/16W, 0402"
 			(at 685.8 499.11 0)
 			(effects
 				(font
@@ -44613,8 +43334,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "100k, 1%, 1/10W, 0603"
-			(at 688.34 491.236 0)
+		(property "Specifications" "100k, 1%, 1/16W, 0402"
+			(at 688.34 491.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44633,8 +43354,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-07100KL"
-			(at 688.34 488.188 0)
+		(property "Part Number" "RC0402FR-07100KL"
+			(at 688.34 487.934 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44644,7 +43365,7 @@
 			)
 		)
 		(property "Display" "100k"
-			(at 688.34 501.015 0)
+			(at 688.34 500.3799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44652,12 +43373,13 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB ID" "C14675"
-			(at 681.99 499.11 90)
+		(property "JLCPCB ID" "C60491"
+			(at 688.34 484.378 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -44759,7 +43481,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:33k_0603")
+		(lib_id "4ms_Resistor_0402:33k_0402")
 		(at 62.23 190.5 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -44769,7 +43491,7 @@
 		(fields_autoplaced yes)
 		(uuid "3013c94a-33f2-4978-a9b4-585347e38d5b")
 		(property "Reference" "R79"
-			(at 64.77 189.865 0)
+			(at 64.77 189.2299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44777,7 +43499,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33k_0603"
+		(property "Value" "33k_0402"
 			(at 59.69 190.5 90)
 			(effects
 				(font
@@ -44786,8 +43508,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 59.69 203.2 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 59.69 203.454 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44805,7 +43527,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "33k, 1%, 1/16W, 0402"
 			(at 62.23 190.5 0)
 			(effects
 				(font
@@ -44814,8 +43536,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "33k, 1%, 1/10W, 0603"
-			(at 59.69 198.374 0)
+		(property "Specifications" "33k, 1%, 1/16W, 0402"
+			(at 59.69 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44834,8 +43556,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0733KL"
-			(at 59.69 201.422 0)
+		(property "Part Number" "RC0402FR-0733KL"
+			(at 59.69 201.676 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44845,7 +43567,7 @@
 			)
 		)
 		(property "Display" "33k"
-			(at 64.77 192.405 0)
+			(at 64.77 191.7699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44853,12 +43575,13 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C126359"
-			(at 66.04 190.5 90)
+		(property "JLCPCB ID" "C138003"
+			(at 59.69 205.232 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -45027,7 +43750,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 478.79 156.21 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -45045,7 +43768,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF_0402_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 478.79 152.4 0)
 			(effects
 				(font
@@ -45411,7 +44134,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:0.1uF_0603_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 154.94 391.16 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -45429,7 +44152,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF_0603_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 154.94 387.35 0)
 			(effects
 				(font
@@ -45438,7 +44161,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "4ms_Capacitor:C_0402"
 			(at 152.4 396.24 0)
 			(effects
 				(font
@@ -45457,7 +44180,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
 			(at 154.94 391.16 0)
 			(effects
 				(font
@@ -45484,7 +44207,7 @@
 				(justify left)
 			)
 		)
-		(property "Manufacturer" "AVX Corporation"
+		(property "Manufacturer" "Murata"
 			(at 154.94 391.16 0)
 			(effects
 				(font
@@ -45493,7 +44216,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "0603YC104KAT2A"
+		(property "Part Number" "GCM155R71C104KA55D"
 			(at 154.94 391.16 0)
 			(effects
 				(font
@@ -45502,7 +44225,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C14663"
+		(property "JLCPCB ID" "C1525"
 			(at 154.94 391.16 0)
 			(effects
 				(font
@@ -45518,6 +44241,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" "Yageo"
+			(at 156.21 405.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number 2" "CC0402KRX7R7BB104"
+			(at 162.56 407.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -46263,7 +45004,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:47k_0603")
+		(lib_id "4ms_Resistor_0402:47k_0402")
 		(at 1005.84 530.86 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -46273,14 +45014,14 @@
 		(fields_autoplaced yes)
 		(uuid "34f7a131-7fce-4012-9c01-8147eb2b2b3f")
 		(property "Reference" "R62"
-			(at 1005.84 525.78 90)
+			(at 1005.84 524.51 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "47k_0603"
+		(property "Value" "47k_0402"
 			(at 1005.84 533.4 90)
 			(effects
 				(font
@@ -46289,8 +45030,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 1018.54 533.4 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 1018.794 533.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46308,7 +45049,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "47k, 1%, 1/16W, 0402"
 			(at 1005.84 530.86 0)
 			(effects
 				(font
@@ -46317,8 +45058,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "47k, 1%, 1/10W, 0603"
-			(at 1013.714 533.4 0)
+		(property "Specifications" "47k, 1%, 1/16W, 0402"
+			(at 1013.46 533.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46337,8 +45078,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0747KL"
-			(at 1016.762 533.4 0)
+		(property "Part Number" "RC0402FR-0747KL"
+			(at 1017.016 533.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46348,19 +45089,20 @@
 			)
 		)
 		(property "Display" "47k"
-			(at 1005.84 528.32 90)
+			(at 1005.84 527.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "JLCPCB ID" "C105579"
-			(at 1005.84 527.05 90)
+		(property "JLCPCB ID" "C93943"
+			(at 1020.572 533.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -46534,7 +45276,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:220pF_0603_25V")
+		(lib_id "4ms_Capacitor:220pF_0402_50V")
 		(at 318.77 415.29 270)
 		(mirror x)
 		(unit 1)
@@ -46552,7 +45294,7 @@
 				)
 			)
 		)
-		(property "Value" "220pF_0603_25V"
+		(property "Value" "220pF_0402_50V"
 			(at 322.58 415.29 0)
 			(effects
 				(font
@@ -46561,7 +45303,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "4ms_Capacitor:C_0402"
 			(at 313.69 417.83 0)
 			(effects
 				(font
@@ -46580,7 +45322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "220pF, Min. 50V 5%, 0402"
 			(at 318.77 415.29 0)
 			(effects
 				(font
@@ -46589,7 +45331,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "220pF, Min 25V, C0G/NP0, 5% 0603"
+		(property "Specifications" "220pF, 50V, 5%, X7R or X5R or similar"
 			(at 310.896 417.83 0)
 			(effects
 				(font
@@ -46609,7 +45351,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0603JRNPO9BN221"
+		(property "Part Number" "AC0402JPNPO9BN221"
 			(at 307.848 417.83 0)
 			(effects
 				(font
@@ -46627,7 +45369,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1603"
+		(property "JLCPCB ID" "C327000"
 			(at 317.5 413.385 0)
 			(effects
 				(font
@@ -46669,7 +45411,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:0.1uF_0603_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 81.28 762 0)
 		(mirror x)
 		(unit 1)
@@ -46688,7 +45430,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1uF_0603_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 81.28 765.81 0)
 			(effects
 				(font
@@ -46697,7 +45439,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "4ms_Capacitor:C_0402"
 			(at 78.74 756.92 0)
 			(effects
 				(font
@@ -46716,7 +45458,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
 			(at 81.28 762 0)
 			(effects
 				(font
@@ -46743,7 +45485,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "AVX Corporation"
+		(property "Manufacturer" "Murata"
 			(at 81.28 762 0)
 			(effects
 				(font
@@ -46752,7 +45494,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "0603YC104KAT2A"
+		(property "Part Number" "GCM155R71C104KA55D"
 			(at 81.28 762 0)
 			(effects
 				(font
@@ -46761,7 +45503,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C14663"
+		(property "JLCPCB ID" "C1525"
 			(at 81.28 762 0)
 			(effects
 				(font
@@ -46777,6 +45519,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" "Yageo"
+			(at 82.55 748.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number 2" "CC0402KRX7R7BB104"
+			(at 88.9 745.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -46796,7 +45556,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 444.5 306.07 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -46814,7 +45574,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF_0402_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 444.5 302.26 0)
 			(effects
 				(font
@@ -47970,7 +46730,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:1k_0603")
+		(lib_id "4ms_Resistor_0402:1k_0402")
 		(at 671.83 600.71 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -47980,14 +46740,14 @@
 		(fields_autoplaced yes)
 		(uuid "3c3bb8a9-de5d-48d6-9d2a-23dfa3e4e247")
 		(property "Reference" "R9"
-			(at 671.83 595.63 90)
+			(at 671.83 594.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "1k_0603"
+		(property "Value" "1k_0402"
 			(at 671.83 603.25 90)
 			(effects
 				(font
@@ -47996,8 +46756,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 684.53 603.25 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 684.784 603.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48015,7 +46775,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1k, 1%, 1/16W, 0402"
 			(at 671.83 600.71 0)
 			(effects
 				(font
@@ -48024,8 +46784,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "1k, 1%, 1/10W, 0603"
-			(at 679.704 603.25 0)
+		(property "Specifications" "1k, 1%, 1/16W, 0402"
+			(at 679.45 603.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48044,8 +46804,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-071KL"
-			(at 682.752 603.25 0)
+		(property "Part Number" "RC0402FR-071KL"
+			(at 683.006 603.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48055,19 +46815,20 @@
 			)
 		)
 		(property "Display" "1k"
-			(at 671.83 598.17 90)
+			(at 671.83 596.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "JLCPCB ID" "C22548"
-			(at 671.83 596.9 90)
+		(property "JLCPCB ID" "C106235"
+			(at 686.562 603.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -49117,7 +47878,7 @@
 		(fields_autoplaced yes)
 		(uuid "45a2928e-28d5-4e0c-9aa4-820170af883e")
 		(property "Reference" "R159"
-			(at 429.26 486.6085 90)
+			(at 429.26 477.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49152,7 +47913,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k, 1%, 1/16W, 0402"
 			(at 429.26 483.87 0)
 			(effects
 				(font
@@ -49192,7 +47953,7 @@
 			)
 		)
 		(property "Display" "10k"
-			(at 429.26 488.5295 90)
+			(at 429.26 480.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49379,7 +48140,7 @@
 		(fields_autoplaced yes)
 		(uuid "4614ebcc-52e8-4c99-9e83-c18c83a43971")
 		(property "Reference" "R27"
-			(at 711.2 531.9141 90)
+			(at 711.2 529.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49414,7 +48175,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k, 1%, 1/16W, 0402"
 			(at 711.2 535.94 0)
 			(effects
 				(font
@@ -49454,7 +48215,7 @@
 			)
 		)
 		(property "Display" "10k"
-			(at 711.2 533.8351 90)
+			(at 711.2 532.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49863,7 +48624,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:10k_0603")
+		(lib_id "4ms_Resistor_0402:10k_0402")
 		(at 989.33 516.89 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -49873,14 +48634,14 @@
 		(fields_autoplaced yes)
 		(uuid "4adc5276-e5c6-4fb3-9d6a-fe85f319f114")
 		(property "Reference" "R60"
-			(at 989.33 511.81 90)
+			(at 989.33 510.54 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "10k_0603"
+		(property "Value" "10k_0402"
 			(at 989.33 519.43 90)
 			(effects
 				(font
@@ -49889,8 +48650,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 1002.03 519.43 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 1002.284 519.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49908,7 +48669,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k, 1%, 1/16W, 0402"
 			(at 989.33 516.89 0)
 			(effects
 				(font
@@ -49917,8 +48678,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "10k, 1%, 1/10W, 0603"
-			(at 997.204 519.43 0)
+		(property "Specifications" "10k, 1%, 1/16W, 0402"
+			(at 996.95 519.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49937,8 +48698,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0710KL"
-			(at 1000.252 519.43 0)
+		(property "Part Number" "RC0402FR-0710KL"
+			(at 1000.506 519.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49948,19 +48709,20 @@
 			)
 		)
 		(property "Display" "10k"
-			(at 989.33 514.35 90)
+			(at 989.33 513.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "JLCPCB ID" "C98220"
-			(at 989.33 513.08 90)
+		(property "JLCPCB ID" "C60490"
+			(at 1004.062 519.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -49990,7 +48752,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:2k_0603")
+		(lib_id "4ms_Resistor_0402:2k_0402")
 		(at 728.98 81.28 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -50007,7 +48769,7 @@
 				)
 			)
 		)
-		(property "Value" "2k_0603"
+		(property "Value" "2k_0402"
 			(at 728.98 83.82 90)
 			(effects
 				(font
@@ -50016,7 +48778,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
+		(property "Footprint" "4ms_Resistor:R_0402"
 			(at 741.934 83.82 0)
 			(effects
 				(font
@@ -50035,7 +48797,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2k, 1%, 1/16W, 0402"
 			(at 728.98 81.28 0)
 			(effects
 				(font
@@ -50044,7 +48806,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "2k, 1%, 1/10W, 0603"
+		(property "Specifications" "2k, 1%, 1/16W, 0402"
 			(at 736.6 83.82 0)
 			(effects
 				(font
@@ -50064,7 +48826,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-072KL"
+		(property "Part Number" "RC0402FR-072KL"
 			(at 740.156 83.82 0)
 			(effects
 				(font
@@ -50082,7 +48844,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C105576"
+		(property "JLCPCB ID" "C60488"
 			(at 743.712 83.82 0)
 			(effects
 				(font
@@ -50526,7 +49288,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:2k_0603")
+		(lib_id "4ms_Resistor_0402:2k_0402")
 		(at 783.59 173.99 270)
 		(mirror x)
 		(unit 1)
@@ -50544,7 +49306,7 @@
 				)
 			)
 		)
-		(property "Value" "2k_0603"
+		(property "Value" "2k_0402"
 			(at 783.59 176.53 90)
 			(effects
 				(font
@@ -50553,7 +49315,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
+		(property "Footprint" "4ms_Resistor:R_0402"
 			(at 770.636 176.53 0)
 			(effects
 				(font
@@ -50572,7 +49334,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2k, 1%, 1/16W, 0402"
 			(at 783.59 173.99 0)
 			(effects
 				(font
@@ -50581,7 +49343,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "2k, 1%, 1/10W, 0603"
+		(property "Specifications" "2k, 1%, 1/16W, 0402"
 			(at 775.97 176.53 0)
 			(effects
 				(font
@@ -50601,7 +49363,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-072KL"
+		(property "Part Number" "RC0402FR-072KL"
 			(at 772.414 176.53 0)
 			(effects
 				(font
@@ -50619,7 +49381,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C105576"
+		(property "JLCPCB ID" "C60488"
 			(at 768.858 176.53 0)
 			(effects
 				(font
@@ -50661,7 +49423,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 455.93 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -50679,7 +49441,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF_0402_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 455.93 85.09 0)
 			(effects
 				(font
@@ -51107,7 +49869,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:0.1uF_0603_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 81.28 749.3 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -51125,7 +49887,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF_0603_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 81.28 745.49 0)
 			(effects
 				(font
@@ -51134,7 +49896,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "4ms_Capacitor:C_0402"
 			(at 78.74 754.38 0)
 			(effects
 				(font
@@ -51153,7 +49915,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
 			(at 81.28 749.3 0)
 			(effects
 				(font
@@ -51180,7 +49942,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "AVX Corporation"
+		(property "Manufacturer" "Murata"
 			(at 81.28 749.3 0)
 			(effects
 				(font
@@ -51189,7 +49951,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "0603YC104KAT2A"
+		(property "Part Number" "GCM155R71C104KA55D"
 			(at 81.28 749.3 0)
 			(effects
 				(font
@@ -51198,7 +49960,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C14663"
+		(property "JLCPCB ID" "C1525"
 			(at 81.28 749.3 0)
 			(effects
 				(font
@@ -51214,6 +49976,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" "Yageo"
+			(at 82.55 763.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number 2" "CC0402KRX7R7BB104"
+			(at 88.9 765.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -51244,7 +50024,7 @@
 		(fields_autoplaced yes)
 		(uuid "51f73bc6-367b-41a6-804d-cd5d881f9b64")
 		(property "Reference" "R44"
-			(at 241.3 431.8 90)
+			(at 241.3 430.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51279,7 +50059,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1k, 1%, 1/16W, 0402"
 			(at 241.3 436.88 0)
 			(effects
 				(font
@@ -51319,7 +50099,7 @@
 			)
 		)
 		(property "Display" "1k"
-			(at 241.3 434.34 90)
+			(at 241.3 433.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51724,7 +50504,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:0.1uF_0603_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 768.35 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -51742,7 +50522,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF_0603_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 768.35 115.57 0)
 			(effects
 				(font
@@ -51751,7 +50531,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "4ms_Capacitor:C_0402"
 			(at 765.81 124.46 0)
 			(effects
 				(font
@@ -51770,7 +50550,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
 			(at 768.35 119.38 0)
 			(effects
 				(font
@@ -51797,7 +50577,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "AVX Corporation"
+		(property "Manufacturer" "Murata"
 			(at 768.35 119.38 0)
 			(effects
 				(font
@@ -51806,7 +50586,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "0603YC104KAT2A"
+		(property "Part Number" "GCM155R71C104KA55D"
 			(at 768.35 119.38 0)
 			(effects
 				(font
@@ -51815,7 +50595,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C14663"
+		(property "JLCPCB ID" "C1525"
 			(at 768.35 119.38 0)
 			(effects
 				(font
@@ -51831,6 +50611,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" "Yageo"
+			(at 769.62 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number 2" "CC0402KRX7R7BB104"
+			(at 775.97 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -51924,7 +50722,7 @@
 		(fields_autoplaced yes)
 		(uuid "55660650-cbe4-402c-a039-ac31331e398b")
 		(property "Reference" "R14"
-			(at 402.59 414.2185 90)
+			(at 402.59 405.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51959,7 +50757,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k, 1%, 1/16W, 0402"
 			(at 402.59 411.48 0)
 			(effects
 				(font
@@ -51999,7 +50797,7 @@
 			)
 		)
 		(property "Display" "10k"
-			(at 402.59 416.1395 90)
+			(at 402.59 407.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52076,7 +50874,7 @@
 		(fields_autoplaced yes)
 		(uuid "573a756d-b35d-465b-b1e7-1024659288f7")
 		(property "Reference" "R40"
-			(at 980.44 109.0041 90)
+			(at 980.44 106.68 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52111,7 +50909,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k, 1%, 1/16W, 0402"
 			(at 980.44 113.03 0)
 			(effects
 				(font
@@ -52151,7 +50949,7 @@
 			)
 		)
 		(property "Display" "10k"
-			(at 980.44 110.9251 90)
+			(at 980.44 109.22 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52533,7 +51331,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0603_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 107.95 741.68 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -52551,7 +51349,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF_0603_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 107.95 745.49 0)
 			(effects
 				(font
@@ -52560,7 +51358,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "4ms_Capacitor:C_0402"
 			(at 110.49 736.6 0)
 			(effects
 				(font
@@ -52588,7 +51386,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "AVX Corporation"
+		(property "Manufacturer" "Murata"
 			(at 110.49 732.282 0)
 			(effects
 				(font
@@ -52608,7 +51406,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "0603YC104KAT2A"
+		(property "Part Number" "GCM155R71C104KA55D"
 			(at 110.49 730.758 0)
 			(effects
 				(font
@@ -52627,7 +51425,7 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C14663"
+		(property "JLCPCB ID" "C1525"
 			(at 106.68 728.98 0)
 			(effects
 				(font
@@ -52643,6 +51441,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" "Yageo"
+			(at 106.68 727.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number 2" "CC0402KRX7R7BB104"
+			(at 100.33 725.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -52662,7 +51478,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:47k_0603")
+		(lib_id "4ms_Resistor_0402:47k_0402")
 		(at 994.41 444.5 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -52672,14 +51488,14 @@
 		(fields_autoplaced yes)
 		(uuid "5be7e50c-e5e6-4d15-8f25-631e5b71f008")
 		(property "Reference" "R59"
-			(at 994.41 439.42 90)
+			(at 994.41 438.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "47k_0603"
+		(property "Value" "47k_0402"
 			(at 994.41 447.04 90)
 			(effects
 				(font
@@ -52688,8 +51504,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 1007.11 447.04 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 1007.364 447.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52707,7 +51523,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "47k, 1%, 1/16W, 0402"
 			(at 994.41 444.5 0)
 			(effects
 				(font
@@ -52716,8 +51532,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "47k, 1%, 1/10W, 0603"
-			(at 1002.284 447.04 0)
+		(property "Specifications" "47k, 1%, 1/16W, 0402"
+			(at 1002.03 447.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52736,8 +51552,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0747KL"
-			(at 1005.332 447.04 0)
+		(property "Part Number" "RC0402FR-0747KL"
+			(at 1005.586 447.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52747,19 +51563,20 @@
 			)
 		)
 		(property "Display" "47k"
-			(at 994.41 441.96 90)
+			(at 994.41 440.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "JLCPCB ID" "C105579"
-			(at 994.41 440.69 90)
+		(property "JLCPCB ID" "C93943"
+			(at 1009.142 447.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -52862,7 +51679,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 509.27 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -52880,7 +51697,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF_0402_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 509.27 85.09 0)
 			(effects
 				(font
@@ -53303,7 +52120,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 436.88 306.07 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -53321,7 +52138,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF_0402_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 436.88 302.26 0)
 			(effects
 				(font
@@ -53594,7 +52411,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:47k_0603")
+		(lib_id "4ms_Resistor_0402:47k_0402")
 		(at 675.64 492.76 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -53604,14 +52421,14 @@
 		(fields_autoplaced yes)
 		(uuid "60218261-e842-4723-b740-43f29cb81205")
 		(property "Reference" "R17"
-			(at 675.64 487.68 90)
+			(at 675.64 486.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "47k_0603"
+		(property "Value" "47k_0402"
 			(at 675.64 495.3 90)
 			(effects
 				(font
@@ -53620,8 +52437,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 688.34 495.3 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 688.594 495.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53639,7 +52456,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "47k, 1%, 1/16W, 0402"
 			(at 675.64 492.76 0)
 			(effects
 				(font
@@ -53648,8 +52465,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "47k, 1%, 1/10W, 0603"
-			(at 683.514 495.3 0)
+		(property "Specifications" "47k, 1%, 1/16W, 0402"
+			(at 683.26 495.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53668,8 +52485,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0747KL"
-			(at 686.562 495.3 0)
+		(property "Part Number" "RC0402FR-0747KL"
+			(at 686.816 495.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53679,19 +52496,20 @@
 			)
 		)
 		(property "Display" "47k"
-			(at 675.64 490.22 90)
+			(at 675.64 488.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "JLCPCB ID" "C105579"
-			(at 675.64 488.95 90)
+		(property "JLCPCB ID" "C93943"
+			(at 690.372 495.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -53945,7 +52763,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 452.12 306.07 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -53963,7 +52781,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF_0402_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 452.12 302.26 0)
 			(effects
 				(font
@@ -54174,7 +52992,7 @@
 		(fields_autoplaced yes)
 		(uuid "6244501f-b91e-4f3a-b82e-f9ce8689212d")
 		(property "Reference" "R1"
-			(at 712.47 402.3741 90)
+			(at 712.47 400.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54209,7 +53027,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k, 1%, 1/16W, 0402"
 			(at 712.47 406.4 0)
 			(effects
 				(font
@@ -54249,7 +53067,7 @@
 			)
 		)
 		(property "Display" "10k"
-			(at 712.47 404.2951 90)
+			(at 712.47 402.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54734,7 +53552,7 @@
 		(fields_autoplaced yes)
 		(uuid "65be76bb-06f9-4c79-874a-5b96939edba2")
 		(property "Reference" "R7"
-			(at 407.67 486.6085 90)
+			(at 407.67 477.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54769,7 +53587,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k, 1%, 1/16W, 0402"
 			(at 407.67 483.87 0)
 			(effects
 				(font
@@ -54809,7 +53627,7 @@
 			)
 		)
 		(property "Display" "10k"
-			(at 407.67 488.5295 90)
+			(at 407.67 480.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55028,7 +53846,7 @@
 		(fields_autoplaced yes)
 		(uuid "6681fab6-37e1-4f48-92f3-70864a0e6e1d")
 		(property "Reference" "R158"
-			(at 429.26 474.7641 90)
+			(at 429.26 472.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55063,7 +53881,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k, 1%, 1/16W, 0402"
 			(at 429.26 478.79 0)
 			(effects
 				(font
@@ -55103,7 +53921,7 @@
 			)
 		)
 		(property "Display" "10k"
-			(at 429.26 476.6851 90)
+			(at 429.26 474.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55404,7 +54222,7 @@
 		(fields_autoplaced yes)
 		(uuid "6a15b71f-4cf9-4093-ae79-d26eb35b3923")
 		(property "Reference" "R51"
-			(at 306.07 472.44 90)
+			(at 306.07 471.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55439,7 +54257,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100k, 1%, 1/16W, 0402"
 			(at 306.07 477.52 0)
 			(effects
 				(font
@@ -55479,7 +54297,7 @@
 			)
 		)
 		(property "Display" "100k"
-			(at 306.07 474.98 90)
+			(at 306.07 473.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56542,7 +55360,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:330Ω_0603")
+		(lib_id "4ms_Resistor_0402:330Ω_0402")
 		(at 728.98 127 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -56552,14 +55370,14 @@
 		(fields_autoplaced yes)
 		(uuid "7019b848-e45d-4edd-a2f2-26b03e6d56a8")
 		(property "Reference" "R70"
-			(at 728.98 121.92 90)
+			(at 728.98 120.65 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "330Ω_0603"
+		(property "Value" "330Ω_0402"
 			(at 728.98 129.54 90)
 			(effects
 				(font
@@ -56568,8 +55386,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 741.68 129.54 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 741.934 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56587,7 +55405,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "330Ω, 1%, 1/16W, 0402"
 			(at 728.98 127 0)
 			(effects
 				(font
@@ -56596,8 +55414,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "330Ω, 1%, 1/10W, 0603"
-			(at 736.854 129.54 0)
+		(property "Specifications" "330Ω, 1%, 1/16W, 0402"
+			(at 736.6 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56616,8 +55434,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-07330RL"
-			(at 739.902 129.54 0)
+		(property "Part Number" "RC0402FR-07330RL"
+			(at 740.156 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56627,19 +55445,20 @@
 			)
 		)
 		(property "Display" "330Ω"
-			(at 728.98 124.46 90)
+			(at 728.98 123.19 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "JLCPCB ID" "C105881"
-			(at 728.98 123.19 90)
+		(property "JLCPCB ID" "C105875"
+			(at 743.712 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -57165,7 +55984,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 464.82 165.1 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -57183,7 +56002,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF_0402_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 464.82 161.29 0)
 			(effects
 				(font
@@ -57330,7 +56149,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 452.12 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -57348,7 +56167,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF_0402_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 452.12 162.56 0)
 			(effects
 				(font
@@ -57506,7 +56325,7 @@
 		(fields_autoplaced yes)
 		(uuid "770c4778-0ecc-48ba-a7bf-67d6d953d543")
 		(property "Reference" "R152"
-			(at 478.79 477.3041 90)
+			(at 478.79 474.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57541,7 +56360,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1k, 1%, 1/16W, 0402"
 			(at 478.79 481.33 0)
 			(effects
 				(font
@@ -57581,7 +56400,7 @@
 			)
 		)
 		(property "Display" "1k"
-			(at 478.79 479.2251 90)
+			(at 478.79 477.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -58461,7 +57280,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:33k_0603")
+		(lib_id "4ms_Resistor_0402:33k_0402")
 		(at 69.85 190.5 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -58471,7 +57290,7 @@
 		(fields_autoplaced yes)
 		(uuid "7c7eedd0-55de-4327-b3b0-547c79032740")
 		(property "Reference" "R80"
-			(at 72.39 189.865 0)
+			(at 72.39 189.2299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -58479,7 +57298,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33k_0603"
+		(property "Value" "33k_0402"
 			(at 67.31 190.5 90)
 			(effects
 				(font
@@ -58488,8 +57307,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 67.31 203.2 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 67.31 203.454 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -58507,7 +57326,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "33k, 1%, 1/16W, 0402"
 			(at 69.85 190.5 0)
 			(effects
 				(font
@@ -58516,8 +57335,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "33k, 1%, 1/10W, 0603"
-			(at 67.31 198.374 0)
+		(property "Specifications" "33k, 1%, 1/16W, 0402"
+			(at 67.31 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -58536,8 +57355,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0733KL"
-			(at 67.31 201.422 0)
+		(property "Part Number" "RC0402FR-0733KL"
+			(at 67.31 201.676 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -58547,7 +57366,7 @@
 			)
 		)
 		(property "Display" "33k"
-			(at 72.39 192.405 0)
+			(at 72.39 191.7699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -58555,12 +57374,13 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C126359"
-			(at 73.66 190.5 90)
+		(property "JLCPCB ID" "C138003"
+			(at 67.31 205.232 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -59358,7 +58178,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:0.1uF_0603_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 721.36 579.12 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -59375,7 +58195,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF_0603_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 717.55 579.12 0)
 			(effects
 				(font
@@ -59384,7 +58204,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "4ms_Capacitor:C_0402"
 			(at 726.44 581.66 0)
 			(effects
 				(font
@@ -59403,7 +58223,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
 			(at 721.36 579.12 0)
 			(effects
 				(font
@@ -59429,7 +58249,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "AVX Corporation"
+		(property "Manufacturer" "Murata"
 			(at 721.36 579.12 0)
 			(effects
 				(font
@@ -59438,7 +58258,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "0603YC104KAT2A"
+		(property "Part Number" "GCM155R71C104KA55D"
 			(at 721.36 579.12 0)
 			(effects
 				(font
@@ -59447,7 +58267,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C14663"
+		(property "JLCPCB ID" "C1525"
 			(at 721.36 579.12 0)
 			(effects
 				(font
@@ -59463,6 +58283,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" "Yageo"
+			(at 735.33 577.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number 2" "CC0402KRX7R7BB104"
+			(at 737.87 571.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -60037,7 +58875,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 483.87 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -60055,7 +58893,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF_0402_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 483.87 85.09 0)
 			(effects
 				(font
@@ -60687,7 +59525,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:0.1uF_0603_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 768.35 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -60705,7 +59543,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF_0603_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 768.35 69.85 0)
 			(effects
 				(font
@@ -60714,7 +59552,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "4ms_Capacitor:C_0402"
 			(at 765.81 78.74 0)
 			(effects
 				(font
@@ -60733,7 +59571,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
 			(at 768.35 73.66 0)
 			(effects
 				(font
@@ -60760,7 +59598,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "AVX Corporation"
+		(property "Manufacturer" "Murata"
 			(at 768.35 73.66 0)
 			(effects
 				(font
@@ -60769,7 +59607,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "0603YC104KAT2A"
+		(property "Part Number" "GCM155R71C104KA55D"
 			(at 768.35 73.66 0)
 			(effects
 				(font
@@ -60778,7 +59616,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C14663"
+		(property "JLCPCB ID" "C1525"
 			(at 768.35 73.66 0)
 			(effects
 				(font
@@ -60794,6 +59632,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" "Yageo"
+			(at 769.62 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number 2" "CC0402KRX7R7BB104"
+			(at 775.97 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -60977,7 +59833,7 @@
 		(fields_autoplaced yes)
 		(uuid "88a42cc3-624d-4cff-a3e3-7784854a7558")
 		(property "Reference" "R163"
-			(at 424.18 414.2185 90)
+			(at 424.18 405.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61012,7 +59868,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k, 1%, 1/16W, 0402"
 			(at 424.18 411.48 0)
 			(effects
 				(font
@@ -61052,7 +59908,7 @@
 			)
 		)
 		(property "Display" "10k"
-			(at 424.18 416.1395 90)
+			(at 424.18 407.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61191,7 +60047,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 543.56 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -61209,7 +60065,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF_0402_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 543.56 85.09 0)
 			(effects
 				(font
@@ -62065,7 +60921,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:0.1uF_0603_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 961.39 223.52 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -62083,7 +60939,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF_0603_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 961.39 219.71 0)
 			(effects
 				(font
@@ -62092,7 +60948,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "4ms_Capacitor:C_0402"
 			(at 958.85 228.6 0)
 			(effects
 				(font
@@ -62111,7 +60967,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
 			(at 961.39 223.52 0)
 			(effects
 				(font
@@ -62138,7 +60994,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "AVX Corporation"
+		(property "Manufacturer" "Murata"
 			(at 961.39 223.52 0)
 			(effects
 				(font
@@ -62147,7 +61003,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "0603YC104KAT2A"
+		(property "Part Number" "GCM155R71C104KA55D"
 			(at 961.39 223.52 0)
 			(effects
 				(font
@@ -62156,7 +61012,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C14663"
+		(property "JLCPCB ID" "C1525"
 			(at 961.39 223.52 0)
 			(effects
 				(font
@@ -62172,6 +61028,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" "Yageo"
+			(at 962.66 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number 2" "CC0402KRX7R7BB104"
+			(at 969.01 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -62535,7 +61409,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:10k_0603")
+		(lib_id "4ms_Resistor_0402:10k_0402")
 		(at 762 116.84 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -62545,14 +61419,14 @@
 		(fields_autoplaced yes)
 		(uuid "9088602d-cc49-4adc-8521-b1e4cf82b7b2")
 		(property "Reference" "R74"
-			(at 762 111.76 90)
+			(at 762 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "10k_0603"
+		(property "Value" "10k_0402"
 			(at 762 119.38 90)
 			(effects
 				(font
@@ -62561,8 +61435,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 774.7 119.38 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 774.954 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -62580,7 +61454,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k, 1%, 1/16W, 0402"
 			(at 762 116.84 0)
 			(effects
 				(font
@@ -62589,8 +61463,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "10k, 1%, 1/10W, 0603"
-			(at 769.874 119.38 0)
+		(property "Specifications" "10k, 1%, 1/16W, 0402"
+			(at 769.62 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -62609,8 +61483,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0710KL"
-			(at 772.922 119.38 0)
+		(property "Part Number" "RC0402FR-0710KL"
+			(at 773.176 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -62620,19 +61494,20 @@
 			)
 		)
 		(property "Display" "10k"
-			(at 762 114.3 90)
+			(at 762 113.03 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "JLCPCB ID" "C98220"
-			(at 762 113.03 90)
+		(property "JLCPCB ID" "C60490"
+			(at 776.732 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -62868,7 +61743,7 @@
 		(fields_autoplaced yes)
 		(uuid "90c885a0-37f4-4288-8c07-81ce26d0e96e")
 		(property "Reference" "R162"
-			(at 424.18 402.3741 90)
+			(at 424.18 400.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -62903,7 +61778,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k, 1%, 1/16W, 0402"
 			(at 424.18 406.4 0)
 			(effects
 				(font
@@ -62943,7 +61818,7 @@
 			)
 		)
 		(property "Display" "10k"
-			(at 424.18 404.2951 90)
+			(at 424.18 402.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -63294,7 +62169,7 @@
 		(fields_autoplaced yes)
 		(uuid "9304eb54-f596-4500-8939-560fe04c31f0")
 		(property "Reference" "R45"
-			(at 979.17 216.9541 90)
+			(at 979.17 214.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -63329,7 +62204,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k, 1%, 1/16W, 0402"
 			(at 979.17 220.98 0)
 			(effects
 				(font
@@ -63369,7 +62244,7 @@
 			)
 		)
 		(property "Display" "10k"
-			(at 979.17 218.8751 90)
+			(at 979.17 217.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -63562,7 +62437,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:330Ω_0603")
+		(lib_id "4ms_Resistor_0402:330Ω_0402")
 		(at 728.98 132.08 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -63572,14 +62447,14 @@
 		(fields_autoplaced yes)
 		(uuid "952b880b-922a-4d31-bdc7-8fae26d6ae0a")
 		(property "Reference" "R71"
-			(at 728.98 135.89 90)
+			(at 728.98 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "330Ω_0603"
+		(property "Value" "330Ω_0402"
 			(at 728.98 134.62 90)
 			(effects
 				(font
@@ -63588,8 +62463,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 741.68 134.62 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 741.934 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -63607,7 +62482,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "330Ω, 1%, 1/16W, 0402"
 			(at 728.98 132.08 0)
 			(effects
 				(font
@@ -63616,8 +62491,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "330Ω, 1%, 1/10W, 0603"
-			(at 736.854 134.62 0)
+		(property "Specifications" "330Ω, 1%, 1/16W, 0402"
+			(at 736.6 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -63636,8 +62511,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-07330RL"
-			(at 739.902 134.62 0)
+		(property "Part Number" "RC0402FR-07330RL"
+			(at 740.156 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -63647,19 +62522,20 @@
 			)
 		)
 		(property "Display" "330Ω"
-			(at 728.98 138.43 90)
+			(at 728.98 128.27 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "JLCPCB ID" "C105881"
-			(at 728.98 128.27 90)
+		(property "JLCPCB ID" "C105875"
+			(at 743.712 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -63689,7 +62565,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0603_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 107.95 768.35 0)
 		(mirror y)
 		(unit 1)
@@ -63708,7 +62584,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100nF_0603_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 107.95 764.54 0)
 			(effects
 				(font
@@ -63717,7 +62593,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "4ms_Capacitor:C_0402"
 			(at 110.49 773.43 0)
 			(effects
 				(font
@@ -63745,7 +62621,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "AVX Corporation"
+		(property "Manufacturer" "Murata"
 			(at 110.49 777.748 0)
 			(effects
 				(font
@@ -63765,7 +62641,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "0603YC104KAT2A"
+		(property "Part Number" "GCM155R71C104KA55D"
 			(at 110.49 779.272 0)
 			(effects
 				(font
@@ -63784,7 +62660,7 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB ID" "C14663"
+		(property "JLCPCB ID" "C1525"
 			(at 106.68 781.05 0)
 			(effects
 				(font
@@ -63800,6 +62676,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" "Yageo"
+			(at 106.68 782.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number 2" "CC0402KRX7R7BB104"
+			(at 100.33 784.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -63901,7 +62795,7 @@
 		(fields_autoplaced yes)
 		(uuid "96d727bd-b9b9-4285-acc3-20e907848cc3")
 		(property "Reference" "R11"
-			(at 980.44 59.4741 90)
+			(at 980.44 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -63936,7 +62830,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k, 1%, 1/16W, 0402"
 			(at 980.44 63.5 0)
 			(effects
 				(font
@@ -63976,7 +62870,7 @@
 			)
 		)
 		(property "Display" "10k"
-			(at 980.44 61.3951 90)
+			(at 980.44 59.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64963,7 +63857,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 516.89 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -64981,7 +63875,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF_0402_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 516.89 85.09 0)
 			(effects
 				(font
@@ -65480,7 +64374,7 @@
 		(fields_autoplaced yes)
 		(uuid "9e4bc47a-acb5-44b0-a92e-71257c82aa4d")
 		(property "Reference" "R18"
-			(at 769.62 596.6841 90)
+			(at 769.62 594.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65515,7 +64409,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k, 1%, 1/16W, 0402"
 			(at 769.62 600.71 0)
 			(effects
 				(font
@@ -65555,7 +64449,7 @@
 			)
 		)
 		(property "Display" "10k"
-			(at 769.62 598.6051 90)
+			(at 769.62 596.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65742,7 +64636,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:33k_0603")
+		(lib_id "4ms_Resistor_0402:33k_0402")
 		(at 741.68 612.14 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -65752,14 +64646,14 @@
 		(fields_autoplaced yes)
 		(uuid "a0a19699-c4ee-4d7d-ada9-864b7d8190ae")
 		(property "Reference" "R56"
-			(at 741.68 607.06 90)
+			(at 741.68 605.79 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "33k_0603"
+		(property "Value" "33k_0402"
 			(at 741.68 609.6 90)
 			(effects
 				(font
@@ -65768,8 +64662,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 728.98 609.6 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 728.726 609.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65787,7 +64681,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "33k, 1%, 1/16W, 0402"
 			(at 741.68 612.14 0)
 			(effects
 				(font
@@ -65796,8 +64690,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "33k, 1%, 1/10W, 0603"
-			(at 733.806 609.6 0)
+		(property "Specifications" "33k, 1%, 1/16W, 0402"
+			(at 734.06 609.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65816,8 +64710,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0733KL"
-			(at 730.758 609.6 0)
+		(property "Part Number" "RC0402FR-0733KL"
+			(at 730.504 609.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65827,19 +64721,20 @@
 			)
 		)
 		(property "Display" "33k"
-			(at 741.68 609.6 90)
+			(at 741.68 608.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "JLCPCB ID" "C126359"
-			(at 741.68 615.95 90)
+		(property "JLCPCB ID" "C138003"
+			(at 726.948 609.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -65940,7 +64835,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 500.38 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -65958,7 +64853,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF_0402_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 500.38 85.09 0)
 			(effects
 				(font
@@ -67300,7 +66195,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:100k_0603")
+		(lib_id "4ms_Resistor_0402:100k_0402")
 		(at 701.04 603.25 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -67310,14 +66205,14 @@
 		(fields_autoplaced yes)
 		(uuid "a70ccc6b-87db-4872-897c-bc1c18ba4d35")
 		(property "Reference" "R32"
-			(at 701.04 598.17 90)
+			(at 701.04 596.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "100k_0603"
+		(property "Value" "100k_0402"
 			(at 701.04 605.79 90)
 			(effects
 				(font
@@ -67326,8 +66221,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 713.74 605.79 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 713.994 605.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67345,7 +66240,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100k, 1%, 1/16W, 0402"
 			(at 701.04 603.25 0)
 			(effects
 				(font
@@ -67354,8 +66249,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "100k, 1%, 1/10W, 0603"
-			(at 708.914 605.79 0)
+		(property "Specifications" "100k, 1%, 1/16W, 0402"
+			(at 708.66 605.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67374,8 +66269,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-07100KL"
-			(at 711.962 605.79 0)
+		(property "Part Number" "RC0402FR-07100KL"
+			(at 712.216 605.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67385,19 +66280,20 @@
 			)
 		)
 		(property "Display" "100k"
-			(at 701.04 600.71 90)
+			(at 701.04 599.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "JLCPCB ID" "C14675"
-			(at 701.04 599.44 90)
+		(property "JLCPCB ID" "C60491"
+			(at 715.772 605.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -67961,7 +66857,7 @@
 		(fields_autoplaced yes)
 		(uuid "a9a8097a-4f1c-4b5f-9a4d-dfd884f9d1fa")
 		(property "Reference" "R153"
-			(at 473.71 404.9141 90)
+			(at 473.71 402.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67996,7 +66892,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1k, 1%, 1/16W, 0402"
 			(at 473.71 408.94 0)
 			(effects
 				(font
@@ -68036,7 +66932,7 @@
 			)
 		)
 		(property "Display" "1k"
-			(at 473.71 406.8351 90)
+			(at 473.71 405.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -68249,7 +67145,7 @@
 		(fields_autoplaced yes)
 		(uuid "aa2476d6-668f-460b-a7a7-3608a5392ac7")
 		(property "Reference" "R43"
-			(at 300.99 429.26 90)
+			(at 300.99 427.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -68284,7 +67180,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100k, 1%, 1/16W, 0402"
 			(at 300.99 434.34 0)
 			(effects
 				(font
@@ -68324,7 +67220,7 @@
 			)
 		)
 		(property "Display" "100k"
-			(at 300.99 431.8 90)
+			(at 300.99 430.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69314,7 +68210,7 @@
 		(fields_autoplaced yes)
 		(uuid "b112af3a-58d2-4ceb-a916-752d01a35846")
 		(property "Reference" "R55"
-			(at 340.36 431.8 90)
+			(at 340.36 430.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69349,7 +68245,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1k, 1%, 1/16W, 0402"
 			(at 340.36 436.88 0)
 			(effects
 				(font
@@ -69389,7 +68285,7 @@
 			)
 		)
 		(property "Display" "1k"
-			(at 340.36 434.34 90)
+			(at 340.36 433.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -69646,7 +68542,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 464.82 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -69664,7 +68560,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF_0402_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 464.82 85.09 0)
 			(effects
 				(font
@@ -69945,7 +68841,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:1nF_0603_50V")
+		(lib_id "4ms_Capacitor:1nF_0402_50V")
 		(at 741.68 618.49 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -69955,14 +68851,14 @@
 		(fields_autoplaced yes)
 		(uuid "b2c470b6-fe4f-4cb4-ba42-22fa867f6076")
 		(property "Reference" "C46"
-			(at 741.6736 622.3 90)
+			(at 741.6736 612.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "1nF_0603_50V"
+		(property "Value" "1nF_0402_50V"
 			(at 745.49 618.49 0)
 			(effects
 				(font
@@ -69971,7 +68867,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "4ms_Capacitor:C_0402"
 			(at 736.6 615.95 0)
 			(effects
 				(font
@@ -69990,7 +68886,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1nF, 50V, 10%, X7R or similar"
 			(at 741.68 618.49 0)
 			(effects
 				(font
@@ -69999,7 +68895,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "1nF, 50V, 10%, C0G (NP0) or similar"
+		(property "Specifications" "1nF, 50V, 10%, X7R or similar"
 			(at 733.806 615.95 0)
 			(effects
 				(font
@@ -70009,7 +68905,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Murata"
+		(property "Manufacturer" "AVX Corportation"
 			(at 732.282 615.95 0)
 			(effects
 				(font
@@ -70019,7 +68915,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GRM1885C1H102JA01D"
+		(property "Part Number" "04025C102KAT2A "
 			(at 730.758 615.95 0)
 			(effects
 				(font
@@ -70030,14 +68926,14 @@
 			)
 		)
 		(property "Display" "1nF"
-			(at 741.6736 624.84 90)
+			(at 741.6736 614.68 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "JLCPCB ID" "C163508"
+		(property "JLCPCB ID" "C167632"
 			(at 727.71 618.49 0)
 			(effects
 				(font
@@ -70210,7 +69106,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:0.1uF_0603_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 768.35 161.29 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -70228,7 +69124,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF_0603_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 768.35 157.48 0)
 			(effects
 				(font
@@ -70237,7 +69133,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "4ms_Capacitor:C_0402"
 			(at 765.81 166.37 0)
 			(effects
 				(font
@@ -70256,7 +69152,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
 			(at 768.35 161.29 0)
 			(effects
 				(font
@@ -70283,7 +69179,7 @@
 				(justify left)
 			)
 		)
-		(property "Manufacturer" "AVX Corporation"
+		(property "Manufacturer" "Murata"
 			(at 768.35 161.29 0)
 			(effects
 				(font
@@ -70292,7 +69188,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "0603YC104KAT2A"
+		(property "Part Number" "GCM155R71C104KA55D"
 			(at 768.35 161.29 0)
 			(effects
 				(font
@@ -70301,7 +69197,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C14663"
+		(property "JLCPCB ID" "C1525"
 			(at 768.35 161.29 0)
 			(effects
 				(font
@@ -70317,6 +69213,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" "Yageo"
+			(at 769.62 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number 2" "CC0402KRX7R7BB104"
+			(at 775.97 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -70678,7 +69592,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:2k_0603")
+		(lib_id "4ms_Resistor_0402:2k_0402")
 		(at 728.98 173.99 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -70694,7 +69608,7 @@
 				)
 			)
 		)
-		(property "Value" "2k_0603"
+		(property "Value" "2k_0402"
 			(at 728.98 176.53 90)
 			(effects
 				(font
@@ -70703,7 +69617,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
+		(property "Footprint" "4ms_Resistor:R_0402"
 			(at 741.934 176.53 0)
 			(effects
 				(font
@@ -70722,7 +69636,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2k, 1%, 1/16W, 0402"
 			(at 728.98 173.99 0)
 			(effects
 				(font
@@ -70731,7 +69645,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "2k, 1%, 1/10W, 0603"
+		(property "Specifications" "2k, 1%, 1/16W, 0402"
 			(at 736.6 176.53 0)
 			(effects
 				(font
@@ -70751,7 +69665,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-072KL"
+		(property "Part Number" "RC0402FR-072KL"
 			(at 740.156 176.53 0)
 			(effects
 				(font
@@ -70769,7 +69683,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C105576"
+		(property "JLCPCB ID" "C60488"
 			(at 743.712 176.53 0)
 			(effects
 				(font
@@ -71150,7 +70064,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 491.49 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -71168,7 +70082,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF_0402_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 491.49 85.09 0)
 			(effects
 				(font
@@ -73086,7 +72000,7 @@
 		(fields_autoplaced yes)
 		(uuid "bef3b24a-ef4b-4640-b0c9-a1f5fccd3e29")
 		(property "Reference" "R30"
-			(at 712.47 448.0941 90)
+			(at 712.47 445.77 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -73121,7 +72035,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k, 1%, 1/16W, 0402"
 			(at 712.47 452.12 0)
 			(effects
 				(font
@@ -73161,7 +72075,7 @@
 			)
 		)
 		(property "Display" "10k"
-			(at 712.47 450.0151 90)
+			(at 712.47 448.31 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -73210,7 +72124,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:33k_0603")
+		(lib_id "4ms_Resistor_0402:33k_0402")
 		(at 53.34 190.5 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -73220,7 +72134,7 @@
 		(fields_autoplaced yes)
 		(uuid "bf4748a2-5739-43ae-a954-a2588fbb1646")
 		(property "Reference" "R78"
-			(at 55.88 189.865 0)
+			(at 55.88 189.2299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -73228,7 +72142,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33k_0603"
+		(property "Value" "33k_0402"
 			(at 50.8 190.5 90)
 			(effects
 				(font
@@ -73237,8 +72151,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 50.8 203.2 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 50.8 203.454 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -73256,7 +72170,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "33k, 1%, 1/16W, 0402"
 			(at 53.34 190.5 0)
 			(effects
 				(font
@@ -73265,8 +72179,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "33k, 1%, 1/10W, 0603"
-			(at 50.8 198.374 0)
+		(property "Specifications" "33k, 1%, 1/16W, 0402"
+			(at 50.8 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -73285,8 +72199,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0733KL"
-			(at 50.8 201.422 0)
+		(property "Part Number" "RC0402FR-0733KL"
+			(at 50.8 201.676 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -73296,7 +72210,7 @@
 			)
 		)
 		(property "Display" "33k"
-			(at 55.88 192.405 0)
+			(at 55.88 191.7699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -73304,12 +72218,13 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C126359"
-			(at 57.15 190.5 90)
+		(property "JLCPCB ID" "C138003"
+			(at 50.8 205.232 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -73704,7 +72619,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 461.01 306.07 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -73722,7 +72637,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF_0402_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 461.01 302.26 0)
 			(effects
 				(font
@@ -74484,7 +73399,7 @@
 		(fields_autoplaced yes)
 		(uuid "c6667cff-d711-46a7-bf7d-cb3c33c30d51")
 		(property "Reference" "R33"
-			(at 711.2 488.7341 90)
+			(at 711.2 486.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -74519,7 +73434,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k, 1%, 1/16W, 0402"
 			(at 711.2 492.76 0)
 			(effects
 				(font
@@ -74559,7 +73474,7 @@
 			)
 		)
 		(property "Display" "10k"
-			(at 711.2 490.6551 90)
+			(at 711.2 488.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -74949,7 +73864,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 525.78 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -74966,7 +73881,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF_0402_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 525.78 85.09 0)
 			(effects
 				(font
@@ -75401,7 +74316,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:10k_0603")
+		(lib_id "4ms_Resistor_0402:10k_0402")
 		(at 762 71.12 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -75418,7 +74333,7 @@
 				)
 			)
 		)
-		(property "Value" "10k_0603"
+		(property "Value" "10k_0402"
 			(at 762 73.66 90)
 			(effects
 				(font
@@ -75427,8 +74342,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 774.7 73.66 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 774.954 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -75446,7 +74361,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k, 1%, 1/16W, 0402"
 			(at 762 71.12 0)
 			(effects
 				(font
@@ -75455,8 +74370,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "10k, 1%, 1/10W, 0603"
-			(at 769.874 73.66 0)
+		(property "Specifications" "10k, 1%, 1/16W, 0402"
+			(at 769.62 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -75475,8 +74390,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0710KL"
-			(at 772.922 73.66 0)
+		(property "Part Number" "RC0402FR-0710KL"
+			(at 773.176 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -75493,12 +74408,13 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C98220"
-			(at 762 67.31 90)
+		(property "JLCPCB ID" "C60490"
+			(at 776.732 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -75528,7 +74444,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:0.1uF_0603_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 78.74 626.11 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -75545,7 +74461,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF_0603_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 74.93 626.11 0)
 			(effects
 				(font
@@ -75554,7 +74470,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "4ms_Capacitor:C_0402"
 			(at 83.82 628.65 0)
 			(effects
 				(font
@@ -75573,7 +74489,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
 			(at 78.74 626.11 0)
 			(effects
 				(font
@@ -75599,7 +74515,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "AVX Corporation"
+		(property "Manufacturer" "Murata"
 			(at 78.74 626.11 0)
 			(effects
 				(font
@@ -75608,7 +74524,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "0603YC104KAT2A"
+		(property "Part Number" "GCM155R71C104KA55D"
 			(at 78.74 626.11 0)
 			(effects
 				(font
@@ -75617,7 +74533,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C14663"
+		(property "JLCPCB ID" "C1525"
 			(at 78.74 626.11 0)
 			(effects
 				(font
@@ -75633,6 +74549,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" "Yageo"
+			(at 92.71 624.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number 2" "CC0402KRX7R7BB104"
+			(at 95.25 618.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -76013,7 +74947,7 @@
 		(fields_autoplaced yes)
 		(uuid "ce487c8c-925b-49e7-a191-7883ee3e4d99")
 		(property "Reference" "R6"
-			(at 407.67 474.7641 90)
+			(at 407.67 472.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -76048,7 +74982,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k, 1%, 1/16W, 0402"
 			(at 407.67 478.79 0)
 			(effects
 				(font
@@ -76088,7 +75022,7 @@
 			)
 		)
 		(property "Display" "10k"
-			(at 407.67 476.6851 90)
+			(at 407.67 474.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -76293,7 +75227,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:10k_0603")
+		(lib_id "4ms_Resistor_0402:10k_0402")
 		(at 762 158.75 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -76309,7 +75243,7 @@
 				)
 			)
 		)
-		(property "Value" "10k_0603"
+		(property "Value" "10k_0402"
 			(at 762 156.21 90)
 			(effects
 				(font
@@ -76318,7 +75252,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
+		(property "Footprint" "4ms_Resistor:R_0402"
 			(at 749.046 156.21 0)
 			(effects
 				(font
@@ -76337,7 +75271,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k, 1%, 1/16W, 0402"
 			(at 762 158.75 0)
 			(effects
 				(font
@@ -76346,7 +75280,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "10k, 1%, 1/10W, 0603"
+		(property "Specifications" "10k, 1%, 1/16W, 0402"
 			(at 754.38 156.21 0)
 			(effects
 				(font
@@ -76366,7 +75300,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0710KL"
+		(property "Part Number" "RC0402FR-0710KL"
 			(at 750.824 156.21 0)
 			(effects
 				(font
@@ -76384,7 +75318,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C98220"
+		(property "JLCPCB ID" "C60490"
 			(at 747.268 156.21 0)
 			(effects
 				(font
@@ -76499,7 +75433,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:100k_0603")
+		(lib_id "4ms_Resistor_0402:100k_0402")
 		(at 685.8 457.2 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -76509,7 +75443,7 @@
 		(fields_autoplaced yes)
 		(uuid "cfbc21fc-674f-4526-b68a-b6280145b277")
 		(property "Reference" "R24"
-			(at 688.34 456.565 0)
+			(at 688.34 455.9299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -76517,7 +75451,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k_0603"
+		(property "Value" "100k_0402"
 			(at 688.34 457.2 90)
 			(effects
 				(font
@@ -76526,8 +75460,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 688.34 444.5 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 688.34 444.246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -76545,7 +75479,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100k, 1%, 1/16W, 0402"
 			(at 685.8 457.2 0)
 			(effects
 				(font
@@ -76554,8 +75488,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "100k, 1%, 1/10W, 0603"
-			(at 688.34 449.326 0)
+		(property "Specifications" "100k, 1%, 1/16W, 0402"
+			(at 688.34 449.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -76574,8 +75508,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-07100KL"
-			(at 688.34 446.278 0)
+		(property "Part Number" "RC0402FR-07100KL"
+			(at 688.34 446.024 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -76585,7 +75519,7 @@
 			)
 		)
 		(property "Display" "100k"
-			(at 688.34 459.105 0)
+			(at 688.34 458.4699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -76593,12 +75527,13 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB ID" "C14675"
-			(at 681.99 457.2 90)
+		(property "JLCPCB ID" "C60491"
+			(at 688.34 442.468 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -76912,7 +75847,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:2k_0603")
+		(lib_id "4ms_Resistor_0402:2k_0402")
 		(at 728.98 86.36 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -76922,14 +75857,14 @@
 		(fields_autoplaced yes)
 		(uuid "d11158ee-1959-4d62-8069-3f2735a1d9e5")
 		(property "Reference" "R5"
-			(at 728.98 90.17 90)
+			(at 728.98 80.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "2k_0603"
+		(property "Value" "2k_0402"
 			(at 728.98 88.9 90)
 			(effects
 				(font
@@ -76938,7 +75873,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
+		(property "Footprint" "4ms_Resistor:R_0402"
 			(at 741.934 88.9 0)
 			(effects
 				(font
@@ -76957,7 +75892,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2k, 1%, 1/16W, 0402"
 			(at 728.98 86.36 0)
 			(effects
 				(font
@@ -76966,7 +75901,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "2k, 1%, 1/10W, 0603"
+		(property "Specifications" "2k, 1%, 1/16W, 0402"
 			(at 736.6 88.9 0)
 			(effects
 				(font
@@ -76986,7 +75921,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-072KL"
+		(property "Part Number" "RC0402FR-072KL"
 			(at 740.156 88.9 0)
 			(effects
 				(font
@@ -76997,14 +75932,14 @@
 			)
 		)
 		(property "Display" "2k"
-			(at 728.98 92.71 90)
+			(at 728.98 82.55 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "JLCPCB ID" "C105576"
+		(property "JLCPCB ID" "C60488"
 			(at 743.712 88.9 0)
 			(effects
 				(font
@@ -77472,7 +76407,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:47k_0603")
+		(lib_id "4ms_Resistor_0402:47k_0402")
 		(at 675.64 535.94 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -77482,14 +76417,14 @@
 		(fields_autoplaced yes)
 		(uuid "d2cd2b70-081c-4a9f-b46d-c179cef2d51f")
 		(property "Reference" "R20"
-			(at 675.64 530.86 90)
+			(at 675.64 529.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "47k_0603"
+		(property "Value" "47k_0402"
 			(at 675.64 538.48 90)
 			(effects
 				(font
@@ -77498,8 +76433,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 688.34 538.48 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 688.594 538.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -77517,7 +76452,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "47k, 1%, 1/16W, 0402"
 			(at 675.64 535.94 0)
 			(effects
 				(font
@@ -77526,8 +76461,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "47k, 1%, 1/10W, 0603"
-			(at 683.514 538.48 0)
+		(property "Specifications" "47k, 1%, 1/16W, 0402"
+			(at 683.26 538.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -77546,8 +76481,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0747KL"
-			(at 686.562 538.48 0)
+		(property "Part Number" "RC0402FR-0747KL"
+			(at 686.816 538.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -77557,19 +76492,20 @@
 			)
 		)
 		(property "Display" "47k"
-			(at 675.64 533.4 90)
+			(at 675.64 532.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "JLCPCB ID" "C105579"
-			(at 675.64 532.13 90)
+		(property "JLCPCB ID" "C93943"
+			(at 690.372 538.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -77931,7 +76867,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:220pF_0603_25V")
+		(lib_id "4ms_Capacitor:220pF_0402_50V")
 		(at 323.85 458.47 270)
 		(mirror x)
 		(unit 1)
@@ -77949,7 +76885,7 @@
 				)
 			)
 		)
-		(property "Value" "220pF_0603_25V"
+		(property "Value" "220pF_0402_50V"
 			(at 327.66 458.47 0)
 			(effects
 				(font
@@ -77958,7 +76894,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "4ms_Capacitor:C_0402"
 			(at 318.77 461.01 0)
 			(effects
 				(font
@@ -77977,7 +76913,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "220pF, Min. 50V 5%, 0402"
 			(at 323.85 458.47 0)
 			(effects
 				(font
@@ -77986,7 +76922,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "220pF, Min 25V, C0G/NP0, 5% 0603"
+		(property "Specifications" "220pF, 50V, 5%, X7R or X5R or similar"
 			(at 315.976 461.01 0)
 			(effects
 				(font
@@ -78006,7 +76942,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0603JRNPO9BN221"
+		(property "Part Number" "AC0402JPNPO9BN221"
 			(at 312.928 461.01 0)
 			(effects
 				(font
@@ -78024,7 +76960,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C1603"
+		(property "JLCPCB ID" "C327000"
 			(at 322.58 456.565 0)
 			(effects
 				(font
@@ -78066,7 +77002,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:33k_0603")
+		(lib_id "4ms_Resistor_0402:33k_0402")
 		(at 38.1 190.5 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -78076,7 +77012,7 @@
 		(fields_autoplaced yes)
 		(uuid "d5090e0e-3bc6-40c7-8e91-7cf1c09a9305")
 		(property "Reference" "R77"
-			(at 40.64 189.865 0)
+			(at 40.64 189.2299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -78084,7 +77020,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33k_0603"
+		(property "Value" "33k_0402"
 			(at 35.56 190.5 90)
 			(effects
 				(font
@@ -78093,8 +77029,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 35.56 203.2 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 35.56 203.454 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -78112,7 +77048,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "33k, 1%, 1/16W, 0402"
 			(at 38.1 190.5 0)
 			(effects
 				(font
@@ -78121,8 +77057,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "33k, 1%, 1/10W, 0603"
-			(at 35.56 198.374 0)
+		(property "Specifications" "33k, 1%, 1/16W, 0402"
+			(at 35.56 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -78141,8 +77077,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0733KL"
-			(at 35.56 201.422 0)
+		(property "Part Number" "RC0402FR-0733KL"
+			(at 35.56 201.676 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -78152,7 +77088,7 @@
 			)
 		)
 		(property "Display" "33k"
-			(at 40.64 192.405 0)
+			(at 40.64 191.7699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -78160,12 +77096,13 @@
 				(justify left)
 			)
 		)
-		(property "JLCPCB ID" "C126359"
-			(at 41.91 190.5 90)
+		(property "JLCPCB ID" "C138003"
+			(at 35.56 205.232 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -78455,7 +77392,7 @@
 		(fields_autoplaced yes)
 		(uuid "d70f8369-3d95-4381-85bd-08255b915a39")
 		(property "Reference" "R22"
-			(at 980.44 162.3441 90)
+			(at 980.44 160.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -78490,7 +77427,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k, 1%, 1/16W, 0402"
 			(at 980.44 166.37 0)
 			(effects
 				(font
@@ -78530,7 +77467,7 @@
 			)
 		)
 		(property "Display" "10k"
-			(at 980.44 164.2651 90)
+			(at 980.44 162.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -78579,7 +77516,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:330Ω_0603")
+		(lib_id "4ms_Resistor_0402:330Ω_0402")
 		(at 783.59 132.08 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -78589,14 +77526,14 @@
 		(fields_autoplaced yes)
 		(uuid "d7422283-85b6-4b6d-8895-479784d400a8")
 		(property "Reference" "R75"
-			(at 783.59 135.89 90)
+			(at 783.59 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "330Ω_0603"
+		(property "Value" "330Ω_0402"
 			(at 783.59 134.62 90)
 			(effects
 				(font
@@ -78605,8 +77542,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 796.29 134.62 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 796.544 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -78624,7 +77561,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "330Ω, 1%, 1/16W, 0402"
 			(at 783.59 132.08 0)
 			(effects
 				(font
@@ -78633,8 +77570,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "330Ω, 1%, 1/10W, 0603"
-			(at 791.464 134.62 0)
+		(property "Specifications" "330Ω, 1%, 1/16W, 0402"
+			(at 791.21 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -78653,8 +77590,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-07330RL"
-			(at 794.512 134.62 0)
+		(property "Part Number" "RC0402FR-07330RL"
+			(at 794.766 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -78664,19 +77601,20 @@
 			)
 		)
 		(property "Display" "330Ω"
-			(at 783.59 138.43 90)
+			(at 783.59 128.27 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "JLCPCB ID" "C105881"
-			(at 783.59 128.27 90)
+		(property "JLCPCB ID" "C105875"
+			(at 798.322 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -78905,7 +77843,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100pF_0603_50V")
+		(lib_id "4ms_Capacitor:100pF_0402_50V")
 		(at 1005.84 538.48 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -78915,14 +77853,14 @@
 		(fields_autoplaced yes)
 		(uuid "d921279c-d3c1-484e-8f46-aed49eb779ac")
 		(property "Reference" "C84"
-			(at 1005.8463 533.4 90)
+			(at 1005.8463 532.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "100pF_0603_50V"
+		(property "Value" "100pF_0402_50V"
 			(at 1002.03 538.48 0)
 			(effects
 				(font
@@ -78931,7 +77869,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "4ms_Capacitor:C_0402"
 			(at 1010.92 541.02 0)
 			(effects
 				(font
@@ -78950,7 +77888,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100pF, Min. 50V 10%, NP0"
 			(at 1005.84 538.48 0)
 			(effects
 				(font
@@ -78960,14 +77898,14 @@
 			)
 		)
 		(property "Display" "100pF"
-			(at 1005.8463 535.94 90)
+			(at 1005.8463 534.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Specifications" "100pF, Min. 50V 10% NP0 or C0G"
+		(property "Specifications" "100pF, Min. 50V 5% NP0 or C0G"
 			(at 1013.714 541.02 0)
 			(effects
 				(font
@@ -78987,7 +77925,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CC0603JRNPO9BN101"
+		(property "Part Number" "CC0402JRNPO9BN101 "
 			(at 1016.762 541.02 0)
 			(effects
 				(font
@@ -78997,7 +77935,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C14858"
+		(property "JLCPCB ID" "C106200"
 			(at 1018.54 537.21 0)
 			(effects
 				(font
@@ -79763,7 +78701,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:100k_0603")
+		(lib_id "4ms_Resistor_0402:100k_0402")
 		(at 685.8 412.75 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -79773,7 +78711,7 @@
 		(fields_autoplaced yes)
 		(uuid "de67063e-ab3e-491b-98f4-ad3ba562a338")
 		(property "Reference" "R21"
-			(at 688.34 412.115 0)
+			(at 688.34 411.4799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -79781,7 +78719,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k_0603"
+		(property "Value" "100k_0402"
 			(at 688.34 412.75 90)
 			(effects
 				(font
@@ -79790,8 +78728,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 688.34 400.05 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 688.34 399.796 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -79809,7 +78747,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100k, 1%, 1/16W, 0402"
 			(at 685.8 412.75 0)
 			(effects
 				(font
@@ -79818,8 +78756,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "100k, 1%, 1/10W, 0603"
-			(at 688.34 404.876 0)
+		(property "Specifications" "100k, 1%, 1/16W, 0402"
+			(at 688.34 405.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -79838,8 +78776,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-07100KL"
-			(at 688.34 401.828 0)
+		(property "Part Number" "RC0402FR-07100KL"
+			(at 688.34 401.574 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -79849,7 +78787,7 @@
 			)
 		)
 		(property "Display" "100k"
-			(at 688.34 414.655 0)
+			(at 688.34 414.0199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -79857,12 +78795,13 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB ID" "C14675"
-			(at 681.99 412.75 90)
+		(property "JLCPCB ID" "C60491"
+			(at 688.34 398.018 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -80018,7 +78957,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:2k_0603")
+		(lib_id "4ms_Resistor_0402:2k_0402")
 		(at 728.98 168.91 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -80035,7 +78974,7 @@
 				)
 			)
 		)
-		(property "Value" "2k_0603"
+		(property "Value" "2k_0402"
 			(at 728.98 171.45 90)
 			(effects
 				(font
@@ -80044,7 +78983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
+		(property "Footprint" "4ms_Resistor:R_0402"
 			(at 741.934 171.45 0)
 			(effects
 				(font
@@ -80063,7 +79002,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2k, 1%, 1/16W, 0402"
 			(at 728.98 168.91 0)
 			(effects
 				(font
@@ -80072,7 +79011,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "2k, 1%, 1/10W, 0603"
+		(property "Specifications" "2k, 1%, 1/16W, 0402"
 			(at 736.6 171.45 0)
 			(effects
 				(font
@@ -80092,7 +79031,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-072KL"
+		(property "Part Number" "RC0402FR-072KL"
 			(at 740.156 171.45 0)
 			(effects
 				(font
@@ -80110,7 +79049,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C105576"
+		(property "JLCPCB ID" "C60488"
 			(at 743.712 171.45 0)
 			(effects
 				(font
@@ -80557,7 +79496,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:0.1uF_0603_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 961.39 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -80575,7 +79514,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF_0603_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 961.39 111.76 0)
 			(effects
 				(font
@@ -80584,7 +79523,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "4ms_Capacitor:C_0402"
 			(at 958.85 120.65 0)
 			(effects
 				(font
@@ -80603,7 +79542,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0.1uF, Min. 16V 10%, X7R or X5R or similar"
 			(at 961.39 115.57 0)
 			(effects
 				(font
@@ -80630,7 +79569,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "AVX Corporation"
+		(property "Manufacturer" "Murata"
 			(at 961.39 115.57 0)
 			(effects
 				(font
@@ -80639,7 +79578,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "0603YC104KAT2A"
+		(property "Part Number" "GCM155R71C104KA55D"
 			(at 961.39 115.57 0)
 			(effects
 				(font
@@ -80648,7 +79587,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB ID" "C14663"
+		(property "JLCPCB ID" "C1525"
 			(at 961.39 115.57 0)
 			(effects
 				(font
@@ -80664,6 +79603,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" "Yageo"
+			(at 962.66 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number 2" "CC0402KRX7R7BB104"
+			(at 969.01 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -83138,7 +82095,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 552.45 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -83156,7 +82113,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF_0402_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 552.45 85.09 0)
 			(effects
 				(font
@@ -83702,7 +82659,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 417.83 306.07 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -83720,7 +82677,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF_0402_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 417.83 302.26 0)
 			(effects
 				(font
@@ -83921,7 +82878,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:1M_0603")
+		(lib_id "4ms_Resistor_0402:1M_0402")
 		(at 104.14 773.43 90)
 		(mirror x)
 		(unit 1)
@@ -83939,7 +82896,7 @@
 				)
 			)
 		)
-		(property "Value" "1M_0603"
+		(property "Value" "1M_0402"
 			(at 104.14 770.89 90)
 			(effects
 				(font
@@ -83948,7 +82905,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
+		(property "Footprint" "4ms_Resistor:R_0402"
 			(at 117.094 770.89 0)
 			(effects
 				(font
@@ -83967,7 +82924,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1M, 1%, 1/10W, 0603"
+		(property "Description" "1M, 1%, 1/16W, 0402"
 			(at 104.14 773.43 0)
 			(effects
 				(font
@@ -83976,7 +82933,7 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "1M, 1%, 1/10W, 0603"
+		(property "Specifications" "1M, 1%, 1/16W, 0402"
 			(at 111.76 770.89 0)
 			(effects
 				(font
@@ -83996,7 +82953,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-071ML"
+		(property "Part Number" "RC0402FR-071ML"
 			(at 115.316 770.89 0)
 			(effects
 				(font
@@ -84014,7 +82971,7 @@
 				)
 			)
 		)
-		(property "JLCPCB ID" "C105578"
+		(property "JLCPCB ID" "C138033"
 			(at 118.872 770.89 0)
 			(effects
 				(font
@@ -84481,7 +83438,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 534.67 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -84499,7 +83456,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF_0402_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 534.67 85.09 0)
 			(effects
 				(font
@@ -84985,7 +83942,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Resistor_0603:100k_0603")
+		(lib_id "4ms_Resistor_0402:100k_0402")
 		(at 684.53 541.02 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -84995,7 +83952,7 @@
 		(fields_autoplaced yes)
 		(uuid "fc540f05-616c-4747-ac06-954b95f530a1")
 		(property "Reference" "R26"
-			(at 687.07 540.385 0)
+			(at 687.07 539.7499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85003,7 +83960,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k_0603"
+		(property "Value" "100k_0402"
 			(at 687.07 541.02 90)
 			(effects
 				(font
@@ -85012,8 +83969,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
-			(at 687.07 528.32 0)
+		(property "Footprint" "4ms_Resistor:R_0402"
+			(at 687.07 528.066 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85031,7 +83988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100k, 1%, 1/16W, 0402"
 			(at 684.53 541.02 0)
 			(effects
 				(font
@@ -85040,8 +83997,8 @@
 				(hide yes)
 			)
 		)
-		(property "Specifications" "100k, 1%, 1/10W, 0603"
-			(at 687.07 533.146 0)
+		(property "Specifications" "100k, 1%, 1/16W, 0402"
+			(at 687.07 533.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85060,8 +84017,8 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-07100KL"
-			(at 687.07 530.098 0)
+		(property "Part Number" "RC0402FR-07100KL"
+			(at 687.07 529.844 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85071,7 +84028,7 @@
 			)
 		)
 		(property "Display" "100k"
-			(at 687.07 542.925 0)
+			(at 687.07 542.2899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85079,12 +84036,13 @@
 				(justify right)
 			)
 		)
-		(property "JLCPCB ID" "C14675"
-			(at 680.72 541.02 90)
+		(property "JLCPCB ID" "C60491"
+			(at 687.07 526.288 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -85327,7 +84285,7 @@
 		(fields_autoplaced yes)
 		(uuid "fd3b31cd-1e85-4186-9c54-5b0717fcd7ec")
 		(property "Reference" "R10"
-			(at 402.59 402.3741 90)
+			(at 402.59 400.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85362,7 +84320,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k, 1%, 1/16W, 0402"
 			(at 402.59 406.4 0)
 			(effects
 				(font
@@ -85402,7 +84360,7 @@
 			)
 		)
 		(property "Display" "10k"
-			(at 402.59 404.2951 90)
+			(at 402.59 402.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85601,7 +84559,7 @@
 		)
 	)
 	(symbol
-		(lib_id "4ms_Capacitor:100nF_0402_16V")
+		(lib_id "4ms_Capacitor:100nF_0402_50V")
 		(at 427.99 306.07 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -85619,7 +84577,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF_0402_16V"
+		(property "Value" "100nF_0402_50V"
 			(at 427.99 302.26 0)
 			(effects
 				(font
