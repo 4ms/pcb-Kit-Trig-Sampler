@@ -4969,12 +4969,13 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://www.mouser.com/datasheet/2/115/DIOD_S_A0002832764_1-2542122.pdf"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.524 1.524)
 					)
+					(hide yes)
 				)
 			)
 			(property "Description" "Dual schottky diode BAT54S"
@@ -19533,7 +19534,7 @@
 				(pin power_out line
 					(at 0 0 90)
 					(length 0)
-					(name "pwr"
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -33358,7 +33359,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "24k, 1%, 1/16W, 0402"
 			(at 424.18 387.35 0)
 			(effects
 				(font
@@ -33788,7 +33789,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "ARM Cortex-M7, 64KB flash, 256KB RAM, 216MHz, UFBGA-176"
 			(at 302.26 181.61 0)
 			(effects
 				(font
@@ -34647,7 +34648,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1M, 1%, 1/16W, 0402"
 			(at 247.65 444.5 0)
 			(effects
 				(font
@@ -34783,7 +34784,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10nF, Min. 16V 10%, X7R or X5R or similar 0402"
 			(at 748.03 410.21 0)
 			(effects
 				(font
@@ -34916,7 +34917,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "(analog) ground power-flag symbol"
 			(at 151.13 394.97 0)
 			(effects
 				(font
@@ -34990,7 +34991,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "180pF, Min. 25V 5%, 0402"
 			(at 447.04 496.57 0)
 			(effects
 				(font
@@ -35340,7 +35341,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 773.43 408.94 0)
 			(effects
 				(font
@@ -35481,7 +35482,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10nF, Min. 16V 10%, X7R or X5R or similar 0402"
 			(at 1031.24 411.48 0)
 			(effects
 				(font
@@ -35760,7 +35761,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10uF, Min. 10V X5R 10%"
 			(at 110.49 469.9 0)
 			(effects
 				(font
@@ -36106,7 +36107,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "68Ω, 1%, 1/16W, 0402"
 			(at 791.21 538.48 0)
 			(effects
 				(font
@@ -36374,7 +36375,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 774.7 454.66 0)
 			(effects
 				(font
@@ -36640,7 +36641,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "LDO Voltage Regulator, 5v, 150mA"
 			(at 87.63 468.63 0)
 			(effects
 				(font
@@ -36795,7 +36796,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "180pF, Min. 25V 5%, 0402"
 			(at 447.04 468.63 0)
 			(effects
 				(font
@@ -37752,7 +37753,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "820pF, Min. 10V 10% NP0 or C0G"
 			(at 417.83 408.94 0)
 			(effects
 				(font
@@ -38319,7 +38320,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 191.77 629.92 0)
 			(effects
 				(font
@@ -38530,7 +38531,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "22uF, Min. 10V, 20%, X5R or X7S or similar, 0805, MLCC"
 			(at 147.32 391.16 0)
 			(effects
 				(font
@@ -39131,7 +39132,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Special symbol for telling ERC where power comes from"
 			(at 251.46 763.27 0)
 			(effects
 				(font
@@ -39541,7 +39542,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Special symbol for telling ERC where power comes from"
 			(at 204.47 778.51 0)
 			(effects
 				(font
@@ -39607,7 +39608,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+3.3VADC\""
 			(at 464.82 158.75 0)
 			(effects
 				(font
@@ -39827,7 +39828,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "HEADER 2x4 MALE PINS 0.100” 180deg"
 			(at 50.8 54.61 0)
 			(effects
 				(font
@@ -39961,7 +39962,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "22uF, Min. 25V, 20%, X5R or X7S or similar, 1206, MLCC"
 			(at 115.57 635 0)
 			(effects
 				(font
@@ -40095,7 +40096,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "For metal shaft pots (common)"
 			(at 208.28 821.69 0)
 			(effects
 				(font
@@ -40274,7 +40275,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "22uF, Min. 25V, 20%, X5R or X7S or similar, 1206, MLCC"
 			(at 139.7 635 0)
 			(effects
 				(font
@@ -40472,7 +40473,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 191.77 660.4 0)
 			(effects
 				(font
@@ -40611,7 +40612,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "3k, 1%, 1/16W, 0402"
 			(at 464.82 137.16 0)
 			(effects
 				(font
@@ -40887,7 +40888,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/115/DIOD_S_A0002832764_1-2542122.pdf"
 			(at 731.52 535.94 0)
 			(effects
 				(font
@@ -40895,7 +40896,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Dual schottky diode BAT54S"
 			(at 731.52 535.94 0)
 			(effects
 				(font
@@ -41241,7 +41242,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "(analog) ground power-flag symbol"
 			(at 93.98 483.87 0)
 			(effects
 				(font
@@ -41742,7 +41743,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 1017.27 115.57 0)
 			(effects
 				(font
@@ -41879,7 +41880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 274.32 629.92 0)
 			(effects
 				(font
@@ -42795,7 +42796,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 318.77 436.88 0)
 			(effects
 				(font
@@ -43602,7 +43603,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 271.78 434.34 0)
 			(effects
 				(font
@@ -43964,7 +43965,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "24k, 1%, 1/16W, 0402"
 			(at 429.26 501.65 0)
 			(effects
 				(font
@@ -44255,7 +44256,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "ARM Cortex-M7, 64KB flash, 256KB RAM, 216MHz, UFBGA-176"
 			(at 421.64 118.11 0)
 			(effects
 				(font
@@ -45661,7 +45662,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Audio 3.5mm Jack, mono, switched, PC-pin Vertical"
 			(at 650.24 604.52 0)
 			(effects
 				(font
@@ -45772,7 +45773,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 229.87 688.34 0)
 			(effects
 				(font
@@ -45980,7 +45981,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "(analog) ground power-flag symbol"
 			(at 90.17 427.99 0)
 			(effects
 				(font
@@ -46202,7 +46203,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SPST button with RGB LED, 5.4mm diffused cap"
 			(at 746.76 82.55 0)
 			(effects
 				(font
@@ -46328,7 +46329,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 1018.54 223.52 0)
 			(effects
 				(font
@@ -46467,7 +46468,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "68Ω, 1%, 1/16W, 0402"
 			(at 1033.78 66.04 0)
 			(effects
 				(font
@@ -46945,7 +46946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "(analog) ground power-flag symbol"
 			(at 241.3 763.27 0)
 			(effects
 				(font
@@ -47089,7 +47090,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 831.85 632.46 0)
 			(effects
 				(font
@@ -47300,7 +47301,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SPST button with RGB LED, 7mm diffused cap"
 			(at 746.76 128.27 0)
 			(effects
 				(font
@@ -47499,7 +47500,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.2uF, Min 25V 10% X5R"
 			(at 461.01 73.66 0)
 			(effects
 				(font
@@ -47709,7 +47710,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Audio 3.5mm Jack, mono, switched, PC-pin Vertical"
 			(at 527.05 485.14 0)
 			(effects
 				(font
@@ -47972,7 +47973,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Audio 3.5mm Jack, mono, switched, PC-pin Vertical"
 			(at 969.01 448.31 0)
 			(effects
 				(font
@@ -48904,7 +48905,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4.7k, 1%, 1/16W, 0402"
 			(at 50.8 436.88 0)
 			(effects
 				(font
@@ -49532,7 +49533,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 274.32 660.4 0)
 			(effects
 				(font
@@ -50222,7 +50223,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Special symbol for telling ERC where power comes from"
 			(at 241.3 763.27 0)
 			(effects
 				(font
@@ -50295,7 +50296,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.2uF, Min 25V 10% X5R"
 			(at 468.63 71.12 0)
 			(effects
 				(font
@@ -50972,7 +50973,7 @@
 				)
 			)
 		)
-		(property "Footprint" "4ms_SolderJumper:JUMPER_SMD_1x2_tiny_shorted"
+		(property "Footprint" "4ms_SolderJumper:Net_Tie_0.16mm_6mil"
 			(at 62.23 467.36 0)
 			(effects
 				(font
@@ -51828,7 +51829,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10nF, Min. 16V 10%, X7R or X5R or similar 0402"
 			(at 748.03 538.48 0)
 			(effects
 				(font
@@ -51942,7 +51943,7 @@
 				)
 			)
 		)
-		(property "Footprint" "4ms_SolderJumper:JUMPER_SMD_1x2_tiny_shorted"
+		(property "Footprint" "4ms_SolderJumper:Net_Tie_0.16mm_6mil"
 			(at 43.18 665.48 0)
 			(effects
 				(font
@@ -52245,7 +52246,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Special symbol for telling ERC where power comes from"
 			(at 247.65 778.51 0)
 			(effects
 				(font
@@ -52525,7 +52526,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k Linear, 16mm pot, No Detent, D-shaft"
 			(at 952.5 220.98 0)
 			(effects
 				(font
@@ -53093,7 +53094,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "18pF, 50V 5% C0G (NP0) 0603"
 			(at 172.72 101.6 0)
 			(effects
 				(font
@@ -53300,7 +53301,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10nF, Min. 16V 10%, X7R or X5R or similar 0402"
 			(at 806.45 604.52 0)
 			(effects
 				(font
@@ -53583,7 +53584,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Precision 3.3V Ref 1% 18PPM 28Vmax 20mAmax"
 			(at 64.77 713.74 0)
 			(effects
 				(font
@@ -54229,7 +54230,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/115/DIOD_S_A0002832764_1-2542122.pdf"
 			(at 1010.92 444.5 0)
 			(effects
 				(font
@@ -54237,7 +54238,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Dual schottky diode BAT54S"
 			(at 1010.92 444.5 0)
 			(effects
 				(font
@@ -54374,7 +54375,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "68Ω, 1%, 1/16W, 0402"
 			(at 1036.32 223.52 0)
 			(effects
 				(font
@@ -54582,7 +54583,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "47uF, 16V, 20%, 5.00mmD*5.30mmH, 2000Hrs@85℃"
 			(at 129.54 762 0)
 			(effects
 				(font
@@ -54709,7 +54710,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "(analog) ground power-flag symbol"
 			(at 464.82 431.8 0)
 			(effects
 				(font
@@ -54779,7 +54780,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Audio 3.5mm Jack, mono, switched, PC-pin Vertical"
 			(at 650.24 539.75 0)
 			(effects
 				(font
@@ -54883,7 +54884,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/115/DIOD_S_A0002832764_1-2542122.pdf"
 			(at 1010.92 406.4 0)
 			(effects
 				(font
@@ -54891,7 +54892,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Dual schottky diode BAT54S"
 			(at 1010.92 406.4 0)
 			(effects
 				(font
@@ -55101,7 +55102,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "180pF, Min. 25V 5%, 0402"
 			(at 441.96 424.18 0)
 			(effects
 				(font
@@ -55445,7 +55446,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 773.43 495.3 0)
 			(effects
 				(font
@@ -55585,7 +55586,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "14k, 1%, 1/16W, 0402"
 			(at 323.85 467.36 0)
 			(effects
 				(font
@@ -55719,7 +55720,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 441.96 408.94 0)
 			(effects
 				(font
@@ -56341,7 +56342,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.2uF, Min 25V 10% X5R"
 			(at 49.53 668.02 0)
 			(effects
 				(font
@@ -56475,7 +56476,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "68Ω, 1%, 1/16W, 0402"
 			(at 1035.05 115.57 0)
 			(effects
 				(font
@@ -56746,7 +56747,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 685.8 603.25 0)
 			(effects
 				(font
@@ -56929,7 +56930,7 @@
 				)
 			)
 		)
-		(property "Footprint" "4ms_SolderJumper:JUMPER_SMD_1x2_tiny_shorted"
+		(property "Footprint" "4ms_SolderJumper:Net_Tie_0.16mm_6mil"
 			(at 38.1 712.47 0)
 			(effects
 				(font
@@ -57015,7 +57016,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 233.68 629.92 0)
 			(effects
 				(font
@@ -57402,7 +57403,7 @@
 				)
 			)
 		)
-		(property "Footprint" "4ms_SolderJumper:JUMPER_SMD_1x2_tiny_shorted"
+		(property "Footprint" "4ms_SolderJumper:Net_Tie_0.16mm_6mil"
 			(at 35.56 626.11 0)
 			(effects
 				(font
@@ -57668,7 +57669,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "68Ω, 1%, 1/16W, 0402"
 			(at 849.63 603.25 0)
 			(effects
 				(font
@@ -57801,7 +57802,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Audio 3.5mm Jack, mono, switched, PC-pin Vertical"
 			(at 203.2 440.69 0)
 			(effects
 				(font
@@ -57985,7 +57986,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Special symbol for telling ERC where power comes from"
 			(at 218.44 778.51 0)
 			(effects
 				(font
@@ -58259,7 +58260,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "14k, 1%, 1/16W, 0402"
 			(at 318.77 424.18 0)
 			(effects
 				(font
@@ -58385,7 +58386,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/115/DIOD_S_A0002832764_1-2542122.pdf"
 			(at 732.79 406.4 0)
 			(effects
 				(font
@@ -58393,7 +58394,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Dual schottky diode BAT54S"
 			(at 732.79 406.4 0)
 			(effects
 				(font
@@ -58601,7 +58602,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 1014.73 168.91 0)
 			(effects
 				(font
@@ -59104,7 +59105,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 270.51 688.34 0)
 			(effects
 				(font
@@ -59242,7 +59243,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k Linear, 16mm pot, Center Detent, D-shaft"
 			(at 953.77 63.5 0)
 			(effects
 				(font
@@ -59517,7 +59518,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "24k, 1%, 1/16W, 0402"
 			(at 429.26 459.74 0)
 			(effects
 				(font
@@ -59821,7 +59822,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Special symbol for telling ERC where power comes from"
 			(at 228.6 763.27 0)
 			(effects
 				(font
@@ -60047,7 +60048,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Audio 3.5mm Jack, mono, switched, PC-pin Vertical"
 			(at 650.24 455.93 0)
 			(effects
 				(font
@@ -60156,7 +60157,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Audio 3.5mm Jack, mono, switched, PC-pin Vertical"
 			(at 204.47 483.87 0)
 			(effects
 				(font
@@ -60354,7 +60355,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "180pF, Min. 25V 5%, 0402"
 			(at 441.96 396.24 0)
 			(effects
 				(font
@@ -60574,7 +60575,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Audio 3.5mm Jack, mono, switched, PC-pin Vertical"
 			(at 650.24 496.57 0)
 			(effects
 				(font
@@ -60686,7 +60687,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+3.3VADC\""
 			(at 91.44 662.94 0)
 			(effects
 				(font
@@ -60886,7 +60887,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/115/DIOD_S_A0002832764_1-2542122.pdf"
 			(at 732.79 452.12 0)
 			(effects
 				(font
@@ -60894,7 +60895,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Dual schottky diode BAT54S"
 			(at 732.79 452.12 0)
 			(effects
 				(font
@@ -61032,7 +61033,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "22uF, Min. 25V, 20%, X5R or X7S or similar, 1206, MLCC"
 			(at 41.91 635 0)
 			(effects
 				(font
@@ -61433,7 +61434,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "47uF, 16V, 20%, 5.00mmD*5.30mmH, 2000Hrs@85℃"
 			(at 129.54 749.3 0)
 			(effects
 				(font
@@ -61714,7 +61715,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 278.13 477.52 0)
 			(effects
 				(font
@@ -61854,7 +61855,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10uF, Min. 10V X5R 10%"
 			(at 91.44 668.02 0)
 			(effects
 				(font
@@ -62532,7 +62533,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Special symbol for telling ERC where power comes from"
 			(at 217.17 763.27 0)
 			(effects
 				(font
@@ -62877,7 +62878,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "18pF, 50V 5% C0G (NP0) 0603"
 			(at 185.42 101.6 0)
 			(effects
 				(font
@@ -63150,7 +63151,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k Linear, 16mm pot, No Detent, D-shaft"
 			(at 952.5 166.37 0)
 			(effects
 				(font
@@ -63289,7 +63290,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 323.85 480.06 0)
 			(effects
 				(font
@@ -63564,7 +63565,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Audio 3.5mm Jack, mono, switched, PC-pin Vertical"
 			(at 1050.29 523.24 0)
 			(effects
 				(font
@@ -63833,7 +63834,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Audio 3.5mm Jack, mono, switched, PC-pin Vertical"
 			(at 521.97 412.75 0)
 			(effects
 				(font
@@ -64018,7 +64019,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "(analog) ground power-flag symbol"
 			(at 469.9 504.19 0)
 			(effects
 				(font
@@ -64310,7 +64311,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4.7uF, Min. 16V, ESR<=100mΩ@1MHz, 1206, MLCC"
 			(at 562.61 88.9 0)
 			(effects
 				(font
@@ -64802,7 +64803,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "68Ω, 1%, 1/16W, 0402"
 			(at 792.48 454.66 0)
 			(effects
 				(font
@@ -65295,7 +65296,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "(analog) ground power-flag symbol"
 			(at 87.63 474.98 0)
 			(effects
 				(font
@@ -65436,7 +65437,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1M, 1%, 1/16W, 0402"
 			(at 252.73 486.41 0)
 			(effects
 				(font
@@ -65870,7 +65871,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "3.3V Reg. Iout>20mA, Vin>15V"
 			(at 68.58 666.75 0)
 			(effects
 				(font
@@ -66269,7 +66270,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "68Ω, 1%, 1/16W, 0402"
 			(at 791.21 408.94 0)
 			(effects
 				(font
@@ -66400,7 +66401,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Audio 3.5mm Jack, mono, switched, PC-pin Vertical"
 			(at 650.24 410.21 0)
 			(effects
 				(font
@@ -66514,7 +66515,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10uF, Min. 25V, X5R/X6S/X7R/X7S, 0805, MLCC"
 			(at 125.73 635 0)
 			(effects
 				(font
@@ -66802,7 +66803,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10nF, Min. 16V 10%, X7R or X5R or similar 0402"
 			(at 748.03 496.57 0)
 			(effects
 				(font
@@ -67215,7 +67216,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "For metal shaft pots (common)"
 			(at 224.79 821.69 0)
 			(effects
 				(font
@@ -67405,7 +67406,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "HEADER 1x4 MALE PINS 0.100” 180deg"
 			(at 52.07 80.01 0)
 			(effects
 				(font
@@ -67526,7 +67527,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "For metal shaft pots (common)"
 			(at 224.79 808.99 0)
 			(effects
 				(font
@@ -67849,7 +67850,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "820pF, Min. 10V 10% NP0 or C0G"
 			(at 422.91 481.33 0)
 			(effects
 				(font
@@ -68500,7 +68501,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "68Ω, 1%, 1/16W, 0402"
 			(at 1032.51 168.91 0)
 			(effects
 				(font
@@ -69237,7 +69238,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 191.77 689.61 0)
 			(effects
 				(font
@@ -69772,7 +69773,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Net tie, 2 pins"
 			(at 87.63 683.26 0)
 			(effects
 				(font
@@ -70076,7 +70077,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 447.04 481.33 0)
 			(effects
 				(font
@@ -70441,7 +70442,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.2uF, Min 25V 10% X5R"
 			(at 68.58 469.9 0)
 			(effects
 				(font
@@ -70573,7 +70574,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 742.95 600.71 0)
 			(effects
 				(font
@@ -70924,7 +70925,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SCHOTTKY RECTIFIER 1.0A 40Vrrm 0.55Vf"
 			(at 58.42 750.57 0)
 			(effects
 				(font
@@ -71131,7 +71132,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Net tie, 2 pins"
 			(at 96.52 483.87 0)
 			(effects
 				(font
@@ -71488,7 +71489,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 309.88 660.4 0)
 			(effects
 				(font
@@ -72165,7 +72166,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/115/DIOD_S_A0002832764_1-2542122.pdf"
 			(at 789.94 600.71 0)
 			(effects
 				(font
@@ -72173,7 +72174,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Dual schottky diode BAT54S"
 			(at 789.94 600.71 0)
 			(effects
 				(font
@@ -72538,7 +72539,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "24-Bit, 192-kHz,"
 			(at 87.63 402.59 0)
 			(effects
 				(font
@@ -72801,7 +72802,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "68Ω, 1%, 1/16W, 0402"
 			(at 791.21 495.3 0)
 			(effects
 				(font
@@ -73020,7 +73021,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10.2k, 1%, 1/16W, 0402"
 			(at 96.52 641.35 0)
 			(effects
 				(font
@@ -73287,7 +73288,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 233.68 660.4 0)
 			(effects
 				(font
@@ -73425,7 +73426,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Special symbol for telling ERC where power comes from"
 			(at 232.41 778.51 0)
 			(effects
 				(font
@@ -74551,7 +74552,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10nF, Min. 16V 10%, X7R or X5R or similar 0402"
 			(at 749.3 454.66 0)
 			(effects
 				(font
@@ -75309,7 +75310,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DC/DC Buck Converter 750kHz 18VinMax 2A Synchronous, PFM/PWM, 0.800Vfb"
 			(at 66.04 632.46 0)
 			(effects
 				(font
@@ -75872,7 +75873,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.2uF, Min 25V 10% X5R"
 			(at 464.82 146.05 0)
 			(effects
 				(font
@@ -76016,7 +76017,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 1016 66.04 0)
 			(effects
 				(font
@@ -76282,7 +76283,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4.7uH, Isat>1.7A, Idc>1.2A, Rdc<108mOhms, shielded"
 			(at 88.9 626.11 0)
 			(effects
 				(font
@@ -77024,7 +77025,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "For metal shaft pots (common)"
 			(at 208.28 808.99 0)
 			(effects
 				(font
@@ -77392,7 +77393,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.2uF, Min 25V 10% X5R"
 			(at 295.91 477.52 0)
 			(effects
 				(font
@@ -77715,7 +77716,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Audio 3.5mm Jack, mono, switched, PC-pin Vertical"
 			(at 969.01 410.21 0)
 			(effects
 				(font
@@ -78029,7 +78030,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/115/DIOD_S_A0002832764_1-2542122.pdf"
 			(at 731.52 492.76 0)
 			(effects
 				(font
@@ -78037,7 +78038,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Dual schottky diode BAT54S"
 			(at 731.52 492.76 0)
 			(effects
 				(font
@@ -78314,7 +78315,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4.7k, 1%, 1/16W, 0402"
 			(at 46.99 436.88 0)
 			(effects
 				(font
@@ -78578,7 +78579,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SPST button with RGB LED, 5.4mm diffused cap"
 			(at 746.76 170.18 0)
 			(effects
 				(font
@@ -78837,7 +78838,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SCHOTTKY RECTIFIER 1.0A 40Vrrm 0.55Vf"
 			(at 58.42 760.73 0)
 			(effects
 				(font
@@ -78975,7 +78976,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DRAM 64M, 3.3V, SDRAM, 4Mx16, 166 Mhz, 54 ball BGA (8mmx8mm) RoHS, IT, T&R"
 			(at 427.99 252.73 0)
 			(effects
 				(font
@@ -79606,7 +79607,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 773.43 538.48 0)
 			(effects
 				(font
@@ -79972,7 +79973,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 831.85 603.25 0)
 			(effects
 				(font
@@ -80110,7 +80111,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Special symbol for telling ERC where power comes from"
 			(at 191.77 778.51 0)
 			(effects
 				(font
@@ -80250,7 +80251,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "24k, 1%, 1/16W, 0402"
 			(at 424.18 429.26 0)
 			(effects
 				(font
@@ -80403,7 +80404,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10k Linear, 16mm pot, No Detent, D-shaft"
 			(at 952.5 113.03 0)
 			(effects
 				(font
@@ -80679,7 +80680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 1007.11 519.43 0)
 			(effects
 				(font
@@ -80815,7 +80816,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16MHz 18pF 10ppm ESR:60ohms SMT"
 			(at 179.07 99.06 0)
 			(effects
 				(font
@@ -81027,7 +81028,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TL072 Dual Opamp TSSOP-8"
 			(at 1005.84 566.42 0)
 			(effects
 				(font
@@ -81987,7 +81988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "HEADER 2x5 MALE PINS 0.100” 180deg"
 			(at 40.64 755.65 0)
 			(effects
 				(font
@@ -82121,7 +82122,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "31.6k, 1%, 1/16W, 0402"
 			(at 96.52 629.92 0)
 			(effects
 				(font
@@ -82256,7 +82257,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.2uF, Min 25V 10% X5R"
 			(at 289.56 434.34 0)
 			(effects
 				(font
@@ -82872,7 +82873,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.2uF, Min 25V 10% X5R"
 			(at 44.45 715.01 0)
 			(effects
 				(font
@@ -83388,7 +83389,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10uF, Min. 10V X5R 10%"
 			(at 82.55 715.01 0)
 			(effects
 				(font
@@ -83784,7 +83785,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Micro SD Card Reader"
 			(at 115.57 205.74 0)
 			(effects
 				(font
